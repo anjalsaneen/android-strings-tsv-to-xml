@@ -1,0 +1,454 @@
+app_tagline	Simple. Solid. Secure.	सरल. सटीक. सुरक्षित.	Simple. Solid. Secure.	ਸੌਖਾ. ਪੱਕਾ. ਸੁਰੱਖਿਅਤ.	ലളിതം. സോളിഡ്. സുരക്ഷിതം.
+txn_invalid_amount	Invalid amount	अमान्य राशि	Invalid Amount	ਅਯੋਗ ਰਕਮ	അസാധുവായ തുക
+txn_incorrect_password	Incorrect Password	गलत पासवर्ड	Galat Password	ਗ਼ਲਤ ਪਾਸਵਰਡ	പാസ്സ്‌വേർഡ്‌ തെറ്റാണ്
+txn_give_credit_to	Give credit to	उधार दिया	Udhaar diya	ਉਧਾਰ ਦਿੱਤਾ	Credit നൽകുക
+bill_attached	Bill attached	बिल जोड़ा गया	Bill joda gaya	ਬਿੱਲ ਜੋੜਿਆ ਗਿਆ	ബിൽ Attach ചെയ്തു
+view	View	देखें	Dekhe	ਦੇਖੋ	കാണുക
+txn_amount	Amount	राशि	Amount	ਰਕਮ	തുക
+txn_return_successful	Return Successful	वापसी सफल	Waapsi Safal	ਵਾਪਸੀ ਸਫਲ	മടങ്ങുക
+txn_final_balance	Final balance	अंतिम बैलेंस	Final balance	ਫਾਇਨਲ ਬੈਲੇਂਸ	അന്തിമ ബാലൻസ്
+sms_sent_to_customer	SMS sent to customer	SMS भेज दिया गया	SMS bhej diya gaya	ਲੈਣ-ਦੇਣ ਫੋਨ ਤੇ ਰਿਕਾਰਡ ਕਿੱਤਾ ਗਯਾ	\SMS ഉപഭോക്താവിന് അയച്ചു \
+txn_goto_home	Home	होमपेज	Home	ਹੋਮਪੇਜ	Home
+txn_add_more	Add More	और जोड़ें	Aur jodiye	ਹੋਰ ਜੋੜੋ	കൂടുതൽ ചേർക്കുക
+txn_failure_msg	There was some technical issue while processing your request	लेनदेन रिकॉर्ड करने में तकनिकी बाधा	Aapke request ko takniki badha ke karan abhi pura nahi kiya jaa saka	ਲੇਣ-ਦੇਣ ਰਿਕਾਰਡ ਕਰਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ	ചില സാങ്കേതിക പ്രശ്നങ്ങളുണ്ടായിരുന്നു
+txn_timestamp_label	On	तारीख	ko	ਤਾਰੀਖ	On
+txn_camera_permission_msg	Please allow camera permission for adding bill	बिल जोड़ने के लिए कैमरा परमिशन दें	Bill ki photo jodne ke liye camera permission de	ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ	ബിൽ ചേർക്കുന്നതിന് ദയവായി ക്യാമറ അനുവാദം അനുവദിക്കുക
+txn_add_credit_title	Give Credit	उधार दिया	Udhaar diya	ਉਧਾਰ ਦਿੱਤਾ	കടം നൽകുക
+txn_add_payment_title	Accept Payment	पेमेंट लिया	Payment liya	ਜਮਾ ਕਿੱਤਾ	പണം സ്വീകരിക്കുക
+txn_add_return_title	Return	वापसी	Return	ਵਾਪਸੀ	മടങ്ങുക
+txn_confirm_title	Confirm	कन्फर्म	Pakka kare	ਕੰਫਰਮ	സ്ഥിരീകരിക്കുക
+txn_accept_payment_from	Accept Payment from	पेमेंट लिया	se payment liya	ਜਮਾ ਕਿੱਤਾ	പേയ്മെന്റ് സ്വീകരിക്കുക
+txn_return_amount_to	Return Amount to	वापसी करो	ko waapis kare	ਵਾਪਸੀ	മടങ്ങിവരുന്ന തുക
+txn_credit_success_title	Credit Successful	उधार सफल	Udhaar Safal	ਉਧਾਰ ਸਫਲ	കടം വിജയകരമായി
+txn_payment_success_title	Payment Successful	पेमेंट सफल	Payment Safal	ਜਮਾ ਸਫਲ	പണമടയ്ക്കൽ വിജയകരം
+txn_return_success_title	Return Successful	वापसी सफल	Waapsi Safal	ਵਾਪਸੀ ਸਫਲ	മടങ്ങുക
+txn_failure_title	Transaction Failed	लेन देन विफल	Len-Den Vifal	ਲੇਣ-ਦੇਣ ਵਿਫਲ	ഇടപാട് പരാജയപ്പെട്ടു
+txn_credit_given_to	Credit Given to	उधार दिया	ko udhaar diya	ਉਧਾਰ ਦਿੱਤਾ	കടം നൽകി
+txn_credit_title	Credit Given	उधार दिया	Udhaar diya	ਉਧਾਰ ਦਿੱਤਾ	കടം നൽകി
+txn_payment_accepted_from	Payment Accepted from	पेमेंट लिया	se payment liya	ਜਮਾ ਕਿੱਤਾ	\പേയ്മെന്റ് സ്വീകരിച്ചു : \
+txn_payment_title	Payment Accepted	पेमेंट लिया	Payment liya	ਜਮਾ ਕਿੱਤਾ	പെയ്മെന്റ് സ്വീകരിച്ചു
+txn_returned_amount_to	Returned Amount to	वापसी किया	ko amount waapis kiya	ਵਾਪਸੀ	തിരിച്ചുകിട്ടുന്ന തുക
+txn_return_title	Return	वापसी	Waapsi	ਵਾਪਸੀ	മടങ്ങുക
+txn_receipt_available	Receipt available	बिल मौजूद	Bill joda gaya	ਬਿੱਲ ਮੌਜੂਦ	രസീതി ലഭ്യമാണ്
+txn_receipt_not_available	Receipt not available	बिल मौजूद नहीं	Bina nahi joda gaya	ਬਿੱਲ ਨਹੀਂ ਹੈ	രസീതി ലഭ്യമല്ല
+txn_return_desc	Return item or refund money to customer	ग्राहक से सामान वापस लें या उधार रिफंड करें	Saamaan waapis kare	ਕਸਟਮਰ ਤੋਂ ਸਾਮਾਨ ਵਾਪਸ ਲਓ ਜਾਂ ਉਧਾਰ ਰਿਫੰਡ ਕਰੋ	ഉപഭോക്താവിന് മടക്കി നൽകുകയോ റീഫണ്ട് ചെയ്യുകയോ ചെയ്യുക
+txn_add_return_btn	Return	वापसी	Waapis	ਵਾਪਸੀ	മടങ്ങുക
+txn_password_desc	Password stops others from modifying your account balance	पासवर्ड, आपके खाते को किसी बाहरी छेड़-छाड़ से बचाता है	Password, dusro ko aapka khaata dekhne se bachata hai	ਪਾਸਵਰਡ ਕਿਸੀ ਹੋਰ ਹੱਥੋਂ ਤੁਹਾਡੇ ਅਕਾਊਂਟ ਦੇ ਬੈਲੇਂਸ ਨੂੰ ਬਦਲਣ ਤੋਂ ਰੋਕਦਾ ਹੈ	പാസ്സ്‌വേർഡ്‌ നിങ്ങളുടെ അക്കൗണ്ട് ബാലൻസ് modify ചെയ്യുന്നതിൽ  നിന്ന് മറ്റുള്ളവരെ തടയുന്നു
+ok	OK	OK	OK	OK	ശരി
+balance	Balance	उधार	Udhaar	ਬੈਲੇਂਸ	ബാലൻസ്
+advance	Advance	जमा	Advance	ਐਡਵਾਂਸ	അഡ്വാൻസ്
+cancel	Cancel	 रद्द करें	Cancel	ਕੈਂਸਲ	റദ്ദാക്കുക
+password	Password	पासवर्ड	Password	ਪਾਸਵਰਡ	Password
+help	Question-Answer	सवाल-जवाब	Sawaal-Jawaab	ਸਵਾਲ-ਜਵਾਬ	ചോദ്യോത്തരങ്ങൾ
+tx_credit	Credit	उधार	Udhaar	ਉਧਾਰ ਦਿੱਤਾ	കടം
+tx_payment	Payment	पेमेंट	Payment	ਜਮਾ ਕਿੱਤਾ	പേയ്മെന്റ്
+tx_return	Return	रिटर्न	Waapis	ਸਮਾਨ ਵਾਪਸੀ	മടങ്ങുക
+next	Next	OK	Next	OK	അടുത്തത്
+done	Done	OK	Ho Gaya	OK	ചെയ്തുകഴിഞ്ഞു
+try_again	Try Again	दोबारा प्रयास करें	Dobara Koshish Kare	ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	വീണ്ടും ശ്രമിക്ക്
+mobile	Mobile	मोबाइल	Mobile	ਮੋਬਾਇਲ	മൊബൈൽ
+no_receipt	No Receipt	बिल नहीं	Bina Bill	ਬਿਨਾਂ ਬਿੱਲ	രസീത് ഇല്ല
+bill	Bill	बिल	Bill	ਬਿਲ	ബിൽ
+customers	Customers	ग्राहक	Customers	ਕਸਟਮਰ	ഉപഭോക്താക്കൾ
+no_tx	You don\'t have any transactions	कोइ लेन-देन नहीं	Aapne koi len-den nahi kiya	ਹਜੇ ਤਕ ਕੋਈ ਲੇਣ-ਦੇਣ ਨਹੀਂ  	നിങ്ങൾക്ക് ട്രാൻസാക്ഷനുകൾ ഇല്ല
+err_default	Something went wrong. Please Try Again.	तकनीकी बाधा. दोबारा प्रयास करें.	Koi takiniki pareshani. Dobara prayas kare	ਤਕਨੀਕੀ ਸਮੱਸਿਆ. ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ. 	എന്തോ കുഴപ്പം സംഭവിച്ചു. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+err_invalid_mobile	Enter a valid 10 digit mobile number	10 अंकों का सही मोबाइल नंबर डालें	10 digit mobile number likhe	ਵੈਲਿਡ 10 ਡਿਜ਼ੀਟ ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ	ഒരു സാധുവായ 10 അക്ക മൊബൈൽ നമ്പർ നൽകുക
+err_network_title	No internet	इंटरनेट बाधा	Internet nahi hai	ਨੋ ਇੰਟਰਨੇਟ	ഇന്റർനെറ്റ് ഇല്ല
+err_network	Looks like there is some issue with the internet connection	तकनीकी बाधा. इंटरनेट उपलब्ध नहीं है.	Internet connection shayad kamjor hai	ਇੰਜ ਜਾਪਦਾ ਹੈ ਕਿ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੇ ਨਾਲ ਕੁਝ ਮੁੱਦਾ ਹੈ	ഇന്റർനെറ്റ് കണക്ഷനുള്ള ചില പ്രശ്നങ്ങളുണ്ടെന്ന് തോന്നുന്നു
+language_title	Select language	भाषा चुनिए	Bhasha Chune	ਭਾਸ਼ਾ ਚੁਣੋ	ഭാഷ തിരഞ്ഞെടുക്കുക
+welcome_title	Welcome to\nOkCredit	OkCredit\nमें आपका स्वागत है 	Welcome to\nOkCredit	ਜੀ ਆਇਆਂ ਨੂੰ OkCredit	OkCredit-ലേക്ക് \n സ്വാഗതം
+welcome_get_started	Get Started	शुरुआत करें	Start Kare	ਸ਼ੁਰੂ ਕਰੋ	തുടങ്ങി
+mobile_title	Enter Mobile Number	मोबाइल नंबर डालें	Mobile Number jode	ਮੋਬਾਇਲ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰੋ 	മൊബൈൽ നമ്പർ നൽകുക
+login_enter_password	Enter Password	पासवर्ड डालें	Password de	ਪਾਸਵਰਡ ਦਾਖ਼ਲ ਕਰੋ	പാസ്സ്‌വേർഡ്‌ നല്കൂ
+login_err	Login failed. Try again	तकनीकी बाधा. दोबारा साइन इन करें.	Sign in nahi ho saka. Dobara prayas karein	ਸਾਇਨ ਇਨ ਅਸਫਲ ਰਿਹਾ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	ലോഗിൻ ചെയ്യുന്നത് പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്ക്
+register_verify_mobile_title	Verify mobile	मोबाइल वेरिफिकेशन	Verify mobile	ਮੋਬਾਇਲ ਨੰਬਰ ਵੇਰਿਫਿਕੇਸ਼ਨ	മൊബൈൽ പരിശോധിച്ചുറപ്പിക്കുക
+register_verify_mobile_msg	We will send an OTP by SMS for verification	हम SMS द्वारा OTP भेज कर, आपके मोबाइल नंबर को वेरीफाई करेंगे	Hum mobile verification ke liye SMS se OTP bhejenge	SMS ਵਿੱਚ OTP ਭੇਜ ਕੇ ਅਸੀਂ ਤੁਹਾਡਾ ਮੋਬਾਇਲ ਨੰਬਰ ਵੈਰੀਫਾਈ ਕਰਣਗੇ। 	Verify ചെയ്യാൻ ഞങ്ങൾ ഒരു OTP വഴി SMS വഴി അയയ്ക്കും
+register_send_otp	Send OTP	OTP भेजें	OTP Bheje	OTP ਭੇਜੋ	OTP അയയ്ക്കുക
+register_user_agreement	By continuing, you agree to our <a href='https://www.okcredit.in/terms'>Terms of service</a> and <a href='https://www.okcredit.in/privacy'>Privacy Policy</a>	OkCredit का इस्तेमाल जारी रख कर आप हमारे <a href="https://www.okcredit.in/terms">सेवा की शर्तों </a>और <a href="https://www.okcredit.in/privacy">गोपनीयता नीति</a> से सहमत हैं।	Aage jaate huye, aap OkCredit ke <a href="https://www.okcredit.in/terms">Terms of service</a> aur <a href="https://www.okcredit.in/privacy">Privacy Policy</a>	ਜਾਰੀ ਰੱਖਨ ਤੇ, ਤੁਸੀ ਸਾਡੀ <a href="https://www.okcredit.in/terms">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a href="https://www.okcredit.in/privacy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੋ|	തുടരുന്നതിലൂടെ ഞങ്ങളുടെ നിങ്ങൾ അംഗീകരിക്കുന്നു<a href="https://www.okcredit.in/terms"> സേവന നിബന്ധനകൾ</a> and <a href="https://www.okcredit.in/privacy">സ്വകാര്യതാനയം</a>
+register_name_title_shop	What is your shop name?	आपके दुकान का क्या नाम है?	Aapke dukaan ka kya naam hai?	ਤੁਹਾਡੀ ਦੁਕਾਨ ਦਾ ਨਾਮ ਕੀ ਹੈ?	നിങ്ങളുടെ ഷോപ്പ് പേര് എന്താണ്?
+register_name_title_individual	What is your name?	आपका पूरा नाम क्या है?	Aapka kya naam hai?	ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਮ ਕੀ ਹੈ?	എന്താണ് നിങ്ങളുടെ പേര്?
+register_name_msg	This name will be used in the SMS sent to the customers	आपके ग्राहक को, इसी नाम से उधार / पेमेंट का SMS अपडेट जाएगा. यह SMS, OkCredit की ऒर से मुफ्त भेजा जाता है.	Aapke customer ko aapke is naam se SMS bheja jayega	ਤੁਹਾਡੇ ਗਾਹਕਾਂ ਨੂੰ ਇਸੀ ਨਾਮ ਤੋੰ ਉਧਾਰ/ਭੁਗਤਾਨ ਦਾ SMS ਜਾਇਆ ਕਰਨਾ 	ഉപഭോക്താക്കൾക്ക് അയച്ച SMS- ൽ ഈ പേര് ഉപയോഗിക്കും
+register_shop_name	Shop Name	दुकान का नाम	Dukaan ka naam	ਦੁਕਾਨ ਦਾ ਨਾਮ	ഷോപ്പ് പേര്
+register_individual_name	Your Name	पूरा नाम	Aapka Naam	ਪੂਰਾ ਨਾਮ	താങ്കളുടെ പേര്
+register_dont_own_a_shop	I don\'t own a shop	मेरी कोई दुकान नहीं है	Meri dukaan nahi hai	ਮੇਰੇ ਕੋਲ ਦੁਕਾਨ ਨਹੀਂ ਹੈ	എനിക്ക് ഒരു കട ഇല്ല
+register_own_a_shop	I own a shop	मेरी दुकान है	Meri dukaan hai	ਮੇਰੇ ਕੋਲ ਇੱਕ ਦੁਕਾਨ ਹੈ	എനിക്ക് ഒരു കട ഉണ്ട് 
+register_err_name	Should be minimum 3 characters long. Should contain at least 1 alphabet.	कम से कम 3 अक्षरों का होना चाहिए। सिर्फ अंकों वाले नाम, नहीं चलेंगे।	Kam se kam 3 akshar ka hona chahiye	ਘੱਟੋ ਘੱਟ 3 ਅੱਖਰ ਲੰਬਾ ਹੋਣਾ ਚਾਹੀਦਾ। ਸਿਰਫ ਨੰਬਰਾਂ ਵਾਲੇ ਨਾਂ ਵੀ ਨੀ ਚੱਲਣੇ। 	കുറഞ്ഞത് 3 അക്ഷരം ദൈർഘ്യമുണ്ടായിരിക്കണം.
+register_password_title	Secure account with password	पासवर्ड से खाता सुरक्षा	Password se account secure kare	ਆਪਣਾ ਪਾਸਵਰਡ - ਸੁਰੱਖਿਅਤ ਖਾਤਾ	പാസ്സ്‌വേർഡ്‌ ഉപയോഗിച്ച് അക്കൗണ്ട് സുരക്ഷിതമാക്കുക
+register_password_msg	Password should be minimum 6 digits for maximum security	6 अंकों के पासवर्ड से अपने OkCredit खाते की सुरक्षा सुनिश्चित करें	Kam se kam 6 anko ka password chune	ਘੱਟੋ ਘੱਟ 6 ਅੰਕਾਂ ਦੇ ਪਰਸਨਲ ਪਾਸਵਰਡ ਨਾਲ ਆਪਣਾ ਖਾਤਾ ਸੁਰੱਖਿਅਤ ਬਣਾਓ	പരമാവധി സുരക്ഷയ്ക്ക് പാസ്വേർഡിനായി കുറഞ്ഞത് 6 അക്കം ഉണ്ടായിരിക്കണം
+register_fallback_title	Please enter OTP received by SMS	SMS द्वारा आया हुआ OTP दर्ज करें	SMS me aaya hua OTP enter kare	SMS ਵਿੱਚ ਆਇਆ OTP ਦਾਖ਼ਲ ਕਰੋ 	SMS സ്വീകരിച്ച OTP നൽകുക
+register_fallback_subtitle	We were unable to read the OTP automatically	ऑटोमेटिकली OTP दर्ज करने में असफल	Hum automatically OTP read nahi kar paye	ਔਟੋਮੈਟਿਕੈਲੀ OTP ਪੜ੍ਹਨ ਵਿੱਚ ਅਸਫਲ 	ഞങ്ങൾക്ക് Automatic ആയ OTP വായിക്കാൻ കഴിയുന്നില്ല
+register_err_incorrect_otp	Incorrect OTP	गलत OTP	Galat OTP	ਗ਼ਲਤ OTP	തെറ്റായ OTP
+register_fallback_otp_not_received_msg	Did not receive OTP?	OTP नहीं आया?	OTP nahi aaya?	OTP ਨਹੀਂ ਆਇਆ?	OTP ലഭിക്കുന്നില്ലേ?
+register_err_otp_not_sent	There was a technical issue while sending the OTP by SMS. Sorry for the inconvenience.	SMS द्वारा OTP भेजने में तकनीकी बाधा। असुविधा के लिए हमें खेद है।	SMS se aapke number par OTP bhejne me takneeki baadha aa rahi hai. Asuvidha ke liye khed hai.	OTP ਭੇਜਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ! ਤੁਹਾਡੀ ਅਸੁਵਿਧਾ ਦੇ ਲਈ ਮਾਫ ਕਰਨਾ	OTP വഴി OTP അയച്ചുകൊണ്ടിരിക്കുമ്പോൾ ഒരു സാങ്കേതിക പ്രശ്നം ഉണ്ടായിരുന്നു. അസൗകര്യത്തിൽ ക്ഷമചോദിക്കുന്നു.
+register_fallback_call	Call Us	फ़ोन करें	Call OkCredit	ਫੋਨ ਕਰੋ 	ഞങ്ങളെ വിളിക്കൂ
+register_fallback_whatsapp	Register by WhatsApp	WhatsApp वेरिफिकेशन करें	WhatsApp se Register kare	WhatsApp ਵੇਰਿਫਿਕੇਸ਼ਨ	WhatsApp ഉപയോഗിച്ച് രജിസ്റ്റർ ചെയ്യുക
+register_fallback_whatsapp_msg	Hi, I want to create a new OkCredit account	नमस्ते! मै OkCredit में अपना नया खाता बनाना चाहता हूँ।	Namaste! Mai OkCredit me naya khata banana chahta hu	Hi, I want to create a new OkCredit account	ഹായ്, എനിക്ക് ഒരു പുതിയ OkCredit അക്കൗണ്ട് സൃഷ്ടിക്കാൻ താൽപ്പര്യമുണ്ട്
+register_success_title	Welcome	सुस्वागतम्	Swaagat hai	ਨਵਾਂ ਪਰਸਨਲ ਖਾਤਾ 	സ്വാഗതം
+register_success_mobile_verified	Mobile verified	मोबाइल वेरिफाइड	Mobile verified	ਮੋਬਾਇਲ ਨੰਬਰ ਵੇਰੀਫਾਇਡ 	മൊബൈൽ സ്ഥിരീകരിച്ചു
+register_success_account_created	Account created	खाता खुल गया	Khata ban gaya	ਖਾਤਾ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ	അക്കൗണ്ട് സൃഷ്ടിച്ചു
+register_success_secured	Secured by password	पासवर्ड से सुरक्षित	Password dwara Secure	ਪਾਸਵਰਡ ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ	പാസ്സ്‌വേർഡ്‌ ഉപയോഗിച്ച് സുരക്ഷിതമാക്കിയിരിക്കുന്നു
+register_success_goto_home	Go to Home Screen	होम स्क्रीन पर जाएँ	Home Screen par jaye	ਹੋਮ ਸਕ੍ਰੀਨ ਜਾਓ 	ഹോം സ്ക്രീനിലേക്ക് പോകുക
+search_customers	Search	खोजें	Khojiye	ਖੋਜੋ	തിരയുക
+customer_not_found	No customer named <![CDATA[<b>%1$s</b>]]>	<![CDATA[<b>%1$s</b> नाम का कोई ग्राहक नहीं]]>	<![CDATA[<b>%1$s</b> naam ka koi customer nahi]]>	<![CDATA[<b>%1$s</b> ਨਾਮ ਦਾ ਕੋਈ ਕਸਟਮਰ ਨਹੀਂ]]>	<![CDATA[<b>%1$s</b> എന്ന് പേരുള്ള കസ്റ്റമർ ഇല്ല]]>
+no_customers	You don\'t have any customer	अभी तक कोई ग्राहक नहीं जोड़ा गया	Aapne abhi tak koi customer nahi joda hai	ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਕਸਟਮਰ ਨਹੀਂ ਹੈ	നിങ്ങൾക്ക് ഒരു ഉപഭോക്താവില്ല
+err_load_customers	Failed to load customers	तकनीकी बाधा। ग्राहक लिस्ट नहीं मिला	Customer load karne me takneeki baadha	ਕਸਟਮਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ	ഉപഭോക്താക്കളെ Load ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+add_customer	Add Customer	ग्राहक जोड़ें	Customer jode	ਕਸਟਮਰ ਜੋੜੋ	ഉപഭോക്താവ് ചേർക്കുക
+add_customer_short	Add	जोड़ें	Add	ਜੋੜੋ	ചേർക്കുക
+add_customer_first	Add your first customer	पहला ग्राहक जोड़ें	Apna pehla customer jode	ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ	നിങ്ങളുടെ ആദ്യ ഉപഭോക്താവിനെ ചേർക്കുക
+paid_today	Last Payment: Today	पिछला पेमेंट: आज	Pichhla Payment: Aaj	ਆਖਰੀ ਜਮਾ: ਅੱਜ	അവസാന പേയ്മെന്റ്: ഇന്ന്
+paid_yesterday	Last Payment: Yesterday	पिछला पेमेंट: कल	Pichhla Payment: Kal	ਆਖਰੀ ਜਮਾ: ਕੱਲ੍ਹ	അവസാന പേയ്മെന്റ്: ഇന്നലെ
+paid_on_date	Last Payment: %1$s	पिछला पेमेंट: %1$s	Pichhla Payment: %1$s	ਆਖਰੀ ਜਮਾ: %1$s	അവസാന പേയ്മെന്റ്: %1$s
+overdue_warning	Payment Due: 1 month+	पेमेंट ड्यू: 1 महीना+	Payment due: 1 mahina+	ਜਮਾ ਡਯੂ: 1 ਮਹੀਨੇ+	അവസാന പേയ്മെന്റ്: 1 മാസം+
+not_paid	No Payment	कोई पेमेंट नहीं	No payments	ਨੋ ਜਮਾ	പേയ്മെന്റ് ഇല്ല
+logout	Sign Out	साइन आउट	Sign Out	ਸਾਇਨ ਆਉਟ	സൈൻ ഔട്ട്
+refresh	Refresh	रिफ्रेश	Refresh	ਤਾਜ਼ਾ ਕਰੋ	പുതുക്കുക
+about	About Us	हमारे बारे में	Hamare baare me	ਸਾਡੇ ਬਾਰੇ	ഞങ്ങളേക്കുറിച്ച് അറിയാൻ
+title_add_customer	New Customer	नया ग्राहक	Naya Customer	ਨਵਾਂ ਕਸਟਮਰ	പുതിയ ഉപഭോക്താവ്
+save_customer_name	Name or Address	नाम या पता	Naam	ਨਾਮ ਜਾਂ ਪਤਾ	പേര് അല്ലെങ്കിൽ വിലാസം
+save_customer_mobile	Mobile (Optional)	मोबाइल (ऑप्शनल)	Mobile (Optional)	ਮੋਬਾਇਲ (ਓਪਸ਼ਨਲ)	മൊബൈൽ (ഓപ്ഷണൽ)
+save_customer_loading	Saving customer…	ग्राहक जोड़ा जा रहा है…	Customer joda jaa raha…	ਕਸਟਮਰ ਸੇਵ ਕਿੱਤਾ ਜਾ ਰਿਹਾ... 	ഉപഭോക്താവിനെ സേവ് ചെയ്യുക...
+err_invalid_desc	Should be at least 3 characters long	नाम कम से कम तीन अक्षरों का रखें	Kam se kam 3 akshhar ka hone chahiye	ਘੱਟੋ ਘੱਟ 3 ਅੱਖਰ ਲੰਬਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ	കുറഞ്ഞത് 3 അക്ഷരം ഉണ്ടായിരിക്കണം
+err_mobile_conflict	Already registered with %1$s	इस नंबर से %1$s नाम का ग्राहक मौजूद है	%1$s ke naam se pehle se maujood	%1$s ਨਾਂ ਦੇ ਗਾਹਕ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰਡ ਹੈ	%1$s എന്നതുമായി ഇതിനകം രജിസ്റ്റർ ചെയ്തു
+err_deleted_customer_conflict	Mobile number linked with deleted customer. Add as new customer to reactivate.	आपने इस मोबाइल नंबर से जुड़े ग्राहक को डिलीट कर दिया था। यह मोबाइल नंबर किसी और ग्राहक के साथ नहीं जोड़ा जा सकता है। अगर आप उसी ग्राहक को, दोबारा जोड़ना चाहते हैं, तो नए ग्राहक कि तरह जोड़ सकते हैं।	Mobile number, deleted customer se juda hua hai. Naye customer ki tarah jod kar reactivate kare.	ਤੁਸੀਂ ਪਹਿਲਾਂ ਇਸ ਮੋਬਾਇਲ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ ਡਿਲੇਟ ਕਿੱਤਾ ਸੀ। ਇਸ ਮੋਬਾਇਲ ਨੂੰ ਕਿਸੀ ਦੂਜੇ ਕਸਟਮਰ ਨਾਲ ਨਹੀਂ ਜੋੜਿਆ ਜਾ ਸਕਦਾ। ਜੇ ਤੁਸੀਂ ਇਸੀ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਕਸਟਮਰ ਜੋੜੋ ਪੇਜ ਤੇ ਜਾ ਕੇ ਇਸਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ।	Delete ചെയ്ത ഉപഭോക്താവുമായി ബന്ധിപ്പിച്ച മൊബൈൽ നമ്പർ. പുനരാരംഭിക്കുന്നതിന് പുതിയ ഉപഭോക്താവായി ചേർക്കുക.
+err_mobile_conflict_default	Already registered with another customer	इस नंबर का ग्राहक मौजूद है	Pehle se dusre customer ke saath juda hua hai	ਕਿਸੀ ਹੋਰ ਕਸਟਮਰ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਸੇਵ ਹੈ	മറ്റൊരു ഉപഭോക്താവുമായി ഇതിനകം രജിസ്റ്റർ ചെയ്തു
+err_desc_conflict	Already exists with mobile %1$s	यह ग्राहक %1$s के साथ मौजूद है	Mobile %1$s se pehle juda hua hai	ਇਸ ਨਾਮ ਨਾਲ %1$s ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ, ਦੂਜਾ ਨਾਮ ਰੱਖੋ 	%1$s മൊബൈലിൽ ഇതിനകം ഉണ്ട്
+err_desc_conflict_default	Already exists	पहले से मौजूद है	Pehle se maujood	ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ	ഇതിനകം നിലവിലുണ്ട്
+err_save_customer	Failed to save customer. Try again	तकनीकी बाधा। दोबारा ग्राहक जोड़ें	Customer jodne me takneeki baadha. Dobara prayas kare	ਕਸਟਮਰ ਨੂੰ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	ഉപഭോക്താവിനെ Save ചെയ്യുന്നത് പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിയ്ക്കുക.
+edit_customer	Save Customer	सही है	Customer jode	ਸੇਵ ਕਸਟਮਰ 	ഉപഭോക്താവിനെ സംരക്ഷിക്കുക
+select_from_phonebook	Select from phonebook	फोनबुक से चुनें	Phonebook se chune	ਫ਼ੋਨਬੁਕ ਤੋਂ ਚੁਣੋ	ഫോൺബുക്കിൽ നിന്ന് തിരഞ്ഞെടുക്കുക
+title_customer	Customer	ग्राहक	Customer	ਕਸਟਮਰ	ഉപഭോക്താവ്
+txn_add_payment_btn	Accept\nPayment	पेमेंट लिया	Payment \n liya	ਜਮਾ ਕਿੱਤਾ	പണം \n സ്വീകരിക്കുക
+txn_add_credit_btn	Give\nCredit	उधार दिया	Udhaar \n diya	ਉਧਾਰ ਦਿੱਤਾ	കടം \n നൽകുക
+title_edit_customer	Update Details	ग्राहक की जानकारी बदलें	Details Update Kare	ਕਸਟਮਰ ਦੀ ਜਾਣਕਾਰੀ ਬਦਲੋ 	വിശദാംശങ്ങൾ അപ്ഡേറ്റുചെയ്യുക
+err_load_tx	Failed to load transactions	तकनीकी बाधा। लेनदेन लिस्ट नहीं मिला	Len-Den load hone me takneeki baadha	ਲੇਣ-ਦੇਣ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ	ഇടപാടുകൾ ലോഡുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+show_settled	Show Old	पुराना देखें	Purana dikhaye	ਪੁਰਾਣੇ ਦੇਖੋ	പഴയത് കാണിക്കുക
+hide_settled	Hide Old	पुराना छुपाएँ	Purana chhupaye	ਪੁਰਾਣੇ ਲੁਕਾਓ	പഴയതു മറയ്ക്കുക
+edit	Edit	जानकारी बदलें	Badle	ਜਾਣਕਾਰੀ ਬਦਲੋ	എഡിറ്റുചെയ്യുക
+delete	Delete	डिलीट	Delete	ਡਿਲੀਟ	Delete
+mobile_edit_denied	User already registered. Cannot update mobile.	इस नंबर का ग्राहक पहले से मौजूद है। नया नंबर डालें	Customer pehle se juda hua hai. Mobile number nahi badal sakte	ਇਸ ਮੋਬਾਇਲ ਦਾ ਕਸਟਮਰ ਪਹਿਲਾਂ ਮੌਜੂਦ ਹੈ	ഉപയോക്താവ് ഇതിനകം രജിസ്റ്റർ ചെയ്തു. മൊബൈൽ അപ്ഡേറ്റുചെയ്യാൻ കഴിയില്ല.
+due_before_payment	Due (before payment)	उधार (पेमेंट से पहले)	Udhaar (Payment ke pehle)	ਬੈਲੰਸ (ਜਮਾ ਤੋਂ ਪਹਿਲਾਂ)	കടം (പേയ്മെന്റിന് മുമ്പ്)
+advance_before_payment	Advance (before payment)	जमा (पेमेंट से पहले)	Advance (Payment ke pehle)	ਐਡਵਾਂਸ (ਜਮਾ ਤੋਂ ਪਹਿਲਾਂ)	അഡ്വാൻസ് (പേയ്മെന്റിന് മുമ്പ്)
+due_after_payment	Due (after payment)	उधार (पेमेंट के बाद)	Udhaar (Payment ke baad)	ਬੈਲੰਸ (ਜਮਾ ਦੇ ਬਾਅਦ)	കടം (പേയ്മെന്റിന് ശേഷം)
+advance_after_payment	Advance (after payment)	जमा (पेमेंट के बाद)	Advance (Payment ke baad)	ਐਡਵਾਂਸ (ਜਮਾ ਦੇ ਬਾਅਦ)	അഡ്വാൻസ് (പേയ്മെന്റിന് ശേഷം)
+payment_amount	Payment Amount	पेमेंट राशि	Payment amount	ਜਮਾ ਰਾਸ਼ੀ	അടച്ച തുക
+delete_confirm_title	Confirm Delete	कन्फ़र्म डिलीट	Delete confirm kare	ਕੰਫਰਮ ਡਿਲੀਟ	Delete സ്ഥിരീകരിക്കുക
+delete_confirm_msg	Are you sure you want to delete %1$s?	क्या आप %1$s को कन्फ़र्म डिलीट करना चाहते हैं?	Kya aap nishchit roop se %1$s ko delete karna chaahte hain? Iske baad aap is customer ke len-den ko dobara nahi dekh payenge	ਕੀ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਰੂਪ ਤੋਂ %1$s ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?	%1$s Delete ചെയ്യുന്നത് തീർച്ചയാണോ?
+delete_loading	Deleting customer…	ग्राहक डिलीट हो रहा है…	Customer delete ho raha…	ਕਸਟਮਰ ਨੂੰ ਡਿਲੀਟ ਕਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ…	ഉപഭോക്താവിനെ ഇല്ലാതാക്കുന്നു ...
+delete_success	Customer deleted successfully	डिलीट सफल	Customer safalta purvak delete kiya gaya	ਕਸਟਮਰ ਡਿਲੀਟ ਸਫਲ	ഉപഭോക്താവ് വിജയകരമായി ഇല്ലാതാക്കി
+delete_denied	Cannot delete customer\nBalance is not 0	डिलीट असफल. पहले ग्राहक का उधार 0 करें.	Customer delete nahi kar sakte. Aapko pehle is customer ka balance 0 karna padega	ਕਸਟਮਰ ਡਿਲੀਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਉਸਦਾ ਬੈਲੰਸ 0 ਕਰੋ	ഉപഭോക്താവിനെ Delete ചെയ്യാൻ ചെയ്യാൻ കഴിയില്ല. \n ബാലൻസ് 0 അല്ല
+delete_failed	Failed to delete customer	तकनीकी बाधा. डिलीट असफल.	Customer delete karne me takneeki baadha	ਗਾਹਕ ਡਿਲੀਟ ਅਸਫਲ	ഉപഭോക്താവിനെ Delete ചെയ്യാൻ പരാജയപ്പെട്ടു
+account	Account	खाता	Account	ਖਾਤਾ	അക്കൗണ്ട്
+account_security_title	Security	सुरक्षा	Security	ਸੁਰੱਖਿਆ	സുരക്ഷ
+account_settings_title	Settings	सेटिंग्स	Settings	ਸੇਟਿੰਗਸ	ക്രമീകരണങ്ങൾ
+account_statement	Account Statement	सारे लेन-देन	Account Statement	ਖਾਤਾ ਬਿਆਨ	അക്കൗണ്ട് സ്റ്റേറ്റ്മെന്റ്
+download_backup	Download Backup	डाउनलोड बैक-अप	Download Backup	ਬੈਕਅਪ ਡਾਉਨਲੋਡ ਕਰੋ	ഡൌൺലോഡ് ബാക്കപ്പ്
+net_amount	Net Amount	नेट राशि	Net Amount	ਕੁੱਲ ਰਾਸ਼ੀ	ആകെ തുക
+tx_count	Count	लेन-देन	Count	ਲੈਣ-ਦੇਣ 	എണ്ണുക
+logout_from_all_devices	Sign out from all devices	हर फोन से साइन आउट करें	Apne saare phones se sign out kare	ਸਾਰੇ ਫੋਨਾਂ ਤੋਂ ਸਾਇਨ ਆਊਟ ਕਰੋ 	എല്ലാ ഉപകരണങ്ങളിൽ നിന്നും സൈൻ ഔട്ട് ചെയ്യുക
+all	All	सारे	Saare	ਸਭ	എല്ലാം
+today	Today	आज	Aaj	ਅੱਜ	ഇന്ന്
+yesterday	Yesterday	कल	Kal	ਕੱਲ੍ਹ	ഇന്നലെ
+this_week	This Week	यह सप्ताह	Is hafte	ਇਸ ਹਫ਼ਤੇ	ഈ ആഴ്ച
+last_week	Last Week	पिछला सप्ताह	Pichhle hafte	ਪਿਛਲੇ ਹਫ਼ਤੇ	കഴിഞ്ഞ ആഴ്ച
+this_month	This Month	यह महीना	Is mahine	ਇਹ ਮਹੀਨਾ	ഈ മാസം
+last_month	Last Month	पिछला महीना	Pichhle mahine	ਪਿਛਲਾ ਮਹੀਨਾ	കഴിഞ്ഞ മാസം
+account_report_loading	Creating report…	रिपोर्ट तैयार किया जा रहा…	Report banaya jaa raha hai…	ਰਿਪੋਰਟ ਤੈਯਾਰ ਕਿੱਤਾ ਜਾ ਰਿਹਾ।…	റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നു ...
+account_reminder	Reminder	रिमाइंडर	Reminder	ਰਿਮਾਇੰਡਰ	ഓർമ്മപ്പെടുത്തൽ
+account_language	Language	भाषा	Bhaasha	ਭਾਸ਼ਾ	ഭാഷ
+account_profile	Profile	प्रोफाइल	Profile	ਪ੍ਰੋਫਾਇਲ	പ്രൊഫൈൽ
+account_incorrect_password	Incorrect password. Try again	गलत पासवर्ड, दोबारा प्रयास करें	Galat password. Dobara prayas kare	ਗ਼ਲਤ ਪਾਸਵਰਡ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ	പാസ്സ്‌വേർഡ്‌ തെറ്റാണ്. വീണ്ടും ശ്രമിക്കുക
+account_report_download_started	Download started. Check top notification bar for progress.	डाउनलोड हो रहा है, प्रोग्रेस के लिए नोटिफिकेशन चेक करें	Download Start ho gaya. Progress ke liye notification check kare.	ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋ ਗਿਆ, ਪ੍ਰੋਗ੍ਰੈਸ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ ਚੈੱਕ ਕਰੋ	ഡൗൺലോഡ് ആരംഭിച്ചു.
+update_password_failed	Password update failed. Try again	पासवर्ड अपडेट फेल, दोबारा प्रयास करें	Password badalne me takneeki baadha. Dobara prayas kare	ਪਾਸਵਰਡ ਅਪਡੇਟ ਫੇਲ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	പാസ്സ്‌വേർഡ്‌ അപ്ഡേറ്റ് പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക
+logout_failed	Logout failed. Try Again	साइन आउट फेल, दोबारा प्रयास करें	Sign out nahi ho saka. Dobara Prayas kare	\"ਲੌਗ ਆਊਟ ਫੇਲ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। \"	ലോഗ് ഔട്ട് പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക
+report_generation_failed	Report creation failed. Try again	रिपोर्ट बनाने में तकीनीकी बाधा। दोबारा प्रयास करें।	Report banane me takneeki baadha aayi. Dobara prayas kare	ਰਿਪੋਰਟ ਬਣਾਉਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ। ਦੋਬਾਰਾ ਪ੍ਰਯਾਸ ਕਰੋ।	റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക
+update_password	Update Password	पासवर्ड बदलें	Password badle	ਪਾਸਵਰਡ ਬਦਲੋ 	പാസ്സ്‌വേർഡ്‌ അപ്ഡേറ്റു ചെയ്യുക
+old_password	Old Password	पुराना पासवर्ड	Purana Password	ਪੁਰਾਣਾ ਪਾਸਵਰਡ	പഴയ പാസ്സ്‌വേർഡ്‌
+new_password	New Password	नया पासवर्ड	Naya Password	ਨਵਾਂ ਪਾਸਵਰਡ	പുതിയ പാസ്സ്‌വേർഡ്‌
+err_invalid_password	Invalid Password (must be at least 6 characters long)	अमान्य पासवर्ड (कम से कम 6 अंकों का पासवर्ड रखें)	Galat Password (kam se kam 6 anko ka hona chahiye)	ਅਵੈਧ ਪਾਸਵਰਡ (ਘੱਟੋ ਘੱਟ 6 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ)	അസാധുവായ പാസ്സ്‌വേർഡ്‌ (കുറഞ്ഞത് 6 പ്രതീകങ്ങൾ ദൈർഘ്യമുണ്ടായിരിക്കണം)
+confirm_logout	Confirm Sign Out?	साइन आउट करें?	Sign out confirm kare?	ਕੰਫਰਮ ਸਾਇਨ ਆਉਟ?	സൈൻ ഔട്ട് സ്ഥിരീകരിക്കണോ?
+update_required	Update Required	ऐप अपडेट जरूरी है	Update jaruri hai	ਅਪਡੇਟ ਦੀ ਲੋੜ ਹੈ	അപ്ഡേറ്റ് ആവശ്യമാണ്
+goto_play_store	Go to Play Store	प्ले स्टोर जाएँ	Play Store jaaye	ਪਲੇ ਸਟੋਰ ਖੋਲੋ	Play Store- യിലേക്ക് പോകുക
+update_msg	We are continuously updating OkCredit to make your experience amazing	आपके OkCredit अनुभव को लाजवाब बनाने के लिए हम लगातार प्रयासरत हैं	Hum aapke OkCredit se jude anubhav ko hamesha behtar banane ke liye prayasrat hain	ਤੁਹਾਡੇ OKਕ੍ਰੇਡਿਟ ਐਕਸਪੀਰੀਐਂਸ ਨੂੰ ਬੇਜੋਡ਼ ਬਣਾਉਣ ਲਈ ਅਸੀਂ ਲਗਾਤਾਰ ਪ੍ਰਯਾਸਰਤ ਹਾਂ	നിങ്ങളുടെ അനുഭവം ആശ്ചര്യപ്പെടുത്തുന്നതിന് ഞങ്ങൾ OkCredit-നെ തുടർച്ചയായി അപ്ഡേറ്റുചെയ്യുന്നു
+update_notification_msg	Learn about new update	नये अपडेट के बारे में जानें	Naye update ke baare me jaane	ਨਵੇਂ ਅਪਡੇਟ ਬਾਰੇ ਜਾਣੋ	പുതിയ അപ്ഡേറ്റിനെക്കുറിച്ച് അറിയുക
+update_summary_title	New Updates	नये अपडेट	Naye Updates	ਨਵੇਂ ਅਪਡੇਟ	പുതിയ അപ്ഡേറ്റുകൾ
+help_screen_action_title	Introduction	जानकारी	Parichay	ਜਾਣਕਾਰੀ	ആമുഖം
+help_whatsapp	Whatsapp Us	हमें WhatsApp करें	WhatsApp kare	ਸਾਨੂੰ WhatsApp ਕਰੋ	നമുക്ക് വാട്സ്ആപ്പ് ചെയ്യൂ 
+help_menu_item	Call Us	फोन करें	Call kare	ਫੋਨ ਕਰੋ	ഞങ്ങളെ വിളിക്കൂ
+help_whatsapp_msg	I have a question regarding OkCredit	मैं OkCredit के बारे में कुछ पूछना चाहता हूँ	Namaste! Mai OkCredit ke baare kuchh puchhna chahta hu	ਮੈਂ OKਕ੍ਰੇਡਿਟ ਦੇ ਬਾਰੇ ਕੁਛ ਪੁੱਛਣਾ ਚਾਹੁੰਦਾ ਹਾਂ	എനിക്ക് OkCredit സംബന്ധിച്ച ഒരു ചോദ്യമുണ്ട്
+language_english	English	English	English	English	English
+language_hindi	हिंदी	हिंदी	हिंदी	हिंदी	हिंदी
+language_punjabi	ਪੰਜਾਬੀ	ਪੰਜਾਬੀ	ਪੰਜਾਬੀ	ਪੰਜਾਬੀ	ਪੰਜਾਬੀ
+reminder_on	On	ऑन	On	ਆੱਨ	ഓണാണ്
+reminder_off	Off	ऑफ	Off	ਆੱਫ	ഓഫാണ്
+in_app_language_activity_title	Change Language	भाषा बदलें	Bhaasha badle	ਭਾਸ਼ਾ ਬਦਲੋ	ഭാഷ മാറ്റുക
+send_reminders	Send Reminders	रिमाइंडर भेजें	Reminder bheje	ਰਿਮਾਇੰਡਰ ਭੇਜੋ	ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കുക
+reminder_explaination	If you turn on Reminders, an SMS will be sent to all your customers with dues on 5th day of every month. Please make sure to update your customer balances before 5th day of every month.	अगर आप रिमाइंडर ऑन करते हैं, तो हर महीने की 5 तारीख को आपके सारे बैलेंस वाले ग्राहकों को एक SMS भेज दिया जायेगा। 5 तारीख से पहले सारे ग्राहकों का हिसाब OkCredit में जरूर अपडेट कर दें।	Agar aap Reminder On karte hain to aapke saare udhaar wale customers ko har mahine ki 5 taarikh ko reminder bheja jayega. Kripya 5 se pehle saare customers ke balance update karna naa bhule.	ਜੇ ਤੁਸੀਂ ਰਿਮਾਇੰਡਰ ON ਕਰਦੇ ਹੋ ਤਾਂ ਹਰ ਮਹੀਨੇ ਦੀ 5 ਤਾਰੀਖ ਨੂੰ ਸਾਰੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ SMS ਨੋਟੀਫਿਕੇਸ਼ਨ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ। 5 ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ OKਕ੍ਰੇਡਿਟ ਵਿੱਚ ਸਾਰੇ ਕਸਟਮਰਸ ਦਾ ਹਿਸਾਬ ਅਪਡੇਟ ਜਰੂਰ ਕਰਨਾ।	നിങ്ങൾ ഓർമ്മപ്പെടുത്തലുകൾ ഓണാക്കുകയാണെങ്കിൽ, എല്ലാ മാസവും അഞ്ചാം ദിവസത്തിനുള്ളിൽ നിങ്ങളുടെ എല്ലാ ഉപഭോക്താക്കൾക്കും ഒരു എസ്എംഎസ് അയയ്ക്കും. ഓരോ മാസത്തിന്റെയും അഞ്ചാം ദിവസത്തിന് മുമ്പായി നിങ്ങളുടെ ഉപഭോക്തൃ ബാലൻസുകൾ അപ്ഡേറ്റ് ചെയ്യണമെന്ന് ഉറപ്പാക്കുക.
+reminder_action_bar	Reminder Settings	रिमाइंडर सेटिंग्स	Reminder Settings	ਰਿਮਾਇੰਡਰ ਸੇਟਿੰਗਸ	ഓർമ്മപ്പെടുത്തൽ ക്രമീകരണം
+reminder_next_date	Next reminder will be sent on %1$s to all your customers with dues. Please update your OkCredit account by %2$s  to avoid incorrect dues being sent to the customers.	\"आपके सारे उधार वाले ग्राहकों को अगला रिमाइंडर %1$s को भेजा जायेगा। अपने खाते को %2$s तक अपडेट कर के अपने ग्राहक को गलत बैलेंस भेजने से बचें।	Aapke saare udhaar wale customers ko %1$s ko agla reminder bheja jayega. Kripya %2$s tak saare Account ko update kar, galat amount ka update bhejne se bache.	OKਕ੍ਰੇਡਿਟ ਵੱਲੋਂ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਸਾਰੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰਸ ਨੂੰ ਅਗਲਾ ਰਿਮਾਇੰਡਰ %1$s ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ। %2$s ਤਕ ਆਪਣੇ ਸਾਰੇ ਕਸਟਮਰ ਦਾ ਹਿਸਾਬ OKਕ੍ਰੇਡਿਟ ਵਿੱਚ ਅਪਡੇਟ ਕਰਕੇ ਗ਼ਲਤ ਬੈਲੰਸ ਭੇਜਣ ਤੋਂ ਬਚੋ	നിങ്ങളുടെ ഓർഡറുകൾക്ക് നിങ്ങളുടെ എല്ലാ ഉപഭോക്താക്കൾക്കും അടുത്ത ഓർമ്മപ്പെടുത്തൽ %1$s ൽ അയയ്ക്കും. ഉപഭോക്താക്കൾക്ക് അയച്ച തെറ്റുകൾ ഒഴിവാക്കുന്നതിന് നിങ്ങളുടെ OkCredit അക്കൗണ്ട് %2$s-നുള്ളിൽ  അപ്ഡേറ്റ് ചെയ്യുക.
+txn_meta_added	Added	जोड़ा गया	Joda gaya	ਜੋੜਿਆ ਗਿਆ	ചേർത്തു
+txn_meta_bill	Bill	बिल	Bill	ਬਿੱਲ	ബിൽ
+txn_meta_note	Note	विवरण	Note	ਰਿਮਾਰ੍ਕ	കുറിപ്പ്
+txn_meta_bill_added	Bill Added	बिल जोड़ा गया	Bill joda gaya	ਬਿੱਲ ਜੋੜਿਆ ਗਿਆ	ബിൽ ചേർത്തു
+txn_meta_change	Change	बदलें	Badle	ਬਦਲੋ	മാറ്റുക
+share	Share	दोस्तों को बतायें	Share	ਯਾਰਾਂ ਨਾਲ ਸ਼ੇਯਰ ਕਰੋ	പങ്കിടുക
+whatsapp_not_installed	WhatsApp is not installed	WhatsApp मौजूद नहीं है	WhatsApp installed nahi hai	WhatsApp ਮੌਜੂਦ ਨਹੀਂ	Whatsapp ഇൻസ്റ്റാളുചെയ്തില്ല
+reset_pwd_msg	For security, your registered mobile will be verified before you can reset password.	आपके खाते की सुरक्षा के लिए, मोबाइल नंबर पे OTP वेरिफिकेशन के बाद, आप पासवर्ड रिसेट कर सकते हैं	Security ke liye, password badalne se pehle aapko apne registered mobile ko verify karna hoga.	ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਸਿਕਿਉਰਿਟੀ ਵਾਸਤੇ ਮੋਬਾਇਲ ਨੰਬਰ ਦੇ OTP ਵੇਰਿਫਿਕੇਸ਼ਨ ਦੇ ਬਾਦ ਪਾਸਵਰਡ ਬਦਲ ਸਕਦੇ ਹੋ	സുരക്ഷയ്ക്കായി, നിങ്ങൾക്ക് പാസ്വേർഡ് പുനസജ്ജമാക്കുന്നതിനുമുമ്പ് നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ പരിശോധിക്കപ്പെടും.
+logout_msg	We need to verify your password for account security.	आपके खाते की गोपनीयता और सुरक्षा के लिए अपना पासवर्ड वेरीफाई कीजिये	Apne Account ki security ke liye aapko apna password verify karna hoga.	ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਗੋਪਨੀਯਤਾ ਅਤੇ ਸਕਿਉਰਿਟੀ ਵਾਸਤੇ ਆਪਣੇ ਨੰਬਰ ਦਾ ਪਾਸਵਰਡ ਵੈਰੀਫਾਈ ਕਰੋ	അക്കൗണ്ട് സുരക്ഷയ്ക്കായി ഞങ്ങൾക്ക് നിങ്ങളുടെ പാസ്സ്‌വേർഡ്‌ പരിശോധിക്കേണ്ടതുണ്ട്.
+reset_pwd_otp_auto_msg	We are automatically verifying your OTP. Please wait.	हम ऑटोमेटिकली OTP वेरीफाई करने की कोशिश कर रहे हैं। कृपया इंतज़ार करें।	Hum OTP ko automatically verify kar rahe hain. Kripya intezaar kare.	ਅਸੀਂ ਔਟੋਮੈਟਿਕੈਲੀ OTP ਵੈਰੀਫਾਈ ਕਰ ਰਹੇ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ।	ഞങ്ങൾ നിങ്ങളുടെ OTP യാന്ത്രികമായി പരിശോധിക്കുന്നു. കാത്തിരിക്കൂ.
+reset_pwd_set_new_pwd	Set New Password	नया पासवर्ड सेट करें	Naya password set kare	ਨਵਾਂ ਪਾਸਵਰਡ ਰੱਖੋ	പുതിയ പാസ്സ്‌വേർഡ്‌ സജ്ജമാക്കുക
+forgot_pwd	Forgot Password	पासवर्ड भूल गए	Password bhool gaye	ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ	പാസ്സ്‌വേർഡ്‌ മറന്നോ
+share_title	Tell your friends and family!	अपने दोस्तों और परिवार वालों को बतायें	Apne dosto aur parivar walo ko bataye!	ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨੂੰ ਦੱਸੋ!	നിങ്ങളുടെ സുഹൃത്തുക്കളോടും കുടുംബത്തോടും പറയുക!
+share_desc	Please share OkCredit with your friends and family who might find it useful. Let\'s grow the OkCredit community together.	कृपया OkCredit के बारे में ऐसे लोगों को बतायें जिनके काम की हो। OkCredit समुदाय को बड़ा बनाने में अपना सहयोग दें।	Kripya OkCredit ko aise dosto aur sambandhiyo ko bataye jinke liye OkCredit kaam ka ho. OkCredit samudaay ko badhaane me hamari madad karein.	ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਉਣ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ OKਕ੍ਰੇਡਿਟ ਨੂੰ ਸਾਂਝਾ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਇਹ ਲਾਭਦਾਇਕ ਲਗ ਸਕਦਾ ਹੈ. ਆਪਣੇ ਸਹਿਯੋਗ ਨਾਲ OkCredit ਕੌਮ ਨੂੰ ਵੱਡਾ ਬਣਾਓ।	ഇത് നിങ്ങളുടെ സുഹൃത്തുക്കളുമായും കുടുംബാംഗങ്ങളുമായും ഒക്കെ സഹായിക്കാൻ OkCredit ദയവായി പങ്കിടുക. OkCredit കമ്മ്യൂണിറ്റിയെ ഒരുമിച്ച് വളർത്തുക.
+share_msg	Udhaar ka saara Hisaab apne Phone me - Install OkCredit for FREE @ 	दिए हुए उधार का सारा हिसाब अपने फ़ोन में - प्ले स्टोर से OkCredit फ्री इंस्टॉल करें	Udhaar ka saara Hisaab apne Phone me - Install OkCredit for FREE @ 	ਮੈਂ OKਕ੍ਰੇਡਿਟ ਵਿਚ ਆਪਣਾ ਉਧਾਰ ਖਾਤਾ ਲਿਖਣ ਲੱਗਿਆ। ਇਹ ਬਹੁਤ ਹੀ ਆਸਾਨ ਤੇ ਕੰਮ ਦਾ ਐੱਪ ਹੈ ਜਿਸਤੋ ਕਸਟਮਰ ਨੂੰ ਭੀ ਫ੍ਰੀ SMS ਵਿਚ ਬੈਲੰਸ ਮਿਲ ਜਾਂਦਾ ਹੈ।  ਪਲੇ ਸਟੋਰ ਤੋਂ ਫ੍ਰੀ ਇੰਸਟਾਲ ਕਰੋ	സൗജന്യമായി OkCredit ഇൻസ്റ്റാൾ ചെയ്യുക @
+share_on_whatsapp	Share on WhatsApp	WhatsApp पर शेयर करें	WhatsApp par share kare	Whatsapp ਤੇ ਸ਼ੇਅਰ ਕਰੋ	Whatsapp-ൽ പങ്കിടുക
+reset_pwd_title	Reset Password	पासवर्ड रिसेट करें	Password reset kare	ਪਾਸਵਰਡ ਬਦਲੋ	പാസ്സ്‌വേർഡ്‌ പുനഃസജ്ജമാക്കുക
+reset_pwd_success	Password Updated	पासवर्ड बदला गया	Password badla gaya	ਪਾਸਵਰਡ ਬਦਲਿਆ ਗਿਆ	പാസ്സ്‌വേർഡ്‌ അപ്ഡേറ്റുചെയ്തു
+note	Note	विवरण	Note	ਰਿਮਾਰ੍ਕ	കുറിപ്പ്
+add_note	Add Note	विवरण लिखें	Note jode	ਰਿਮਾਰ੍ਕ ਲਿਖੋ	കുറിപ്പ് ചേര്ക്കുക
+add_note_here	add note here…	विवरण यहाँ लिखें…	yaha note jode…	ਰਿਮਾਰ੍ਕ ਨੋਟ ਕਰੋ…	ഇവിടെ കുറിപ്പ് ചേർക്കുക ...
+recust_msg	You had deleted \'%1$s\' with mobile number \'%2$s\'	आपने \'%1$s\' नाम और \'%2$s\' मोबाइल वाले ग्राहक को डिलीट किया था	Aapne \'%1$s\' - \'%2$s\' ko delete kiya tha	ਤੁਸੀਂ \'%1$s\' ਨਾਮ ਤੇ \'%2$s\' ਮੋਬਾਇਲ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ ਡਿਲੀਟ ਕਿੱਤਾ ਸੀ	നിങ്ങൾ  \'%1$s\' മൊബൈൽ നമ്പർ  \'%2$s\' ഉപയോഗിച്ച് ഇല്ലാതാക്കി
+recust_desc	Reactivate customer to use same mobile number. Otherwise, use different mobile number	इसी मोबाइल नंबर का ग्राहक जोड़ने के लिए डिलीटेड खाते को दोबारा जोड़ें या किसी नए नंबर का इस्तेमाल करें	Is mobile number se dobara customer jodne ke liye deleted customer ko reactivate kare. Aap koi aur mobile number bhi jod sakte hain	ਇਸੇ ਮੋਬਾਇਲ ਨੰਬਰ ਦਾ ਕਸਟਮਰ ਜੋੜਣ ਲਈ ਡਿਲੇਟੇਡ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ ਜਾਂ ਦੂਜਾ ਨੰਬਰ ਇਸਤੇਮਾਲ ਕਰੋ	ഒരേ മൊബൈൽ നമ്പർ ഉപയോഗിക്കുന്നതിന് ഉപഭോക്താവിനെ വീണ്ടും പ്രവർത്തനക്ഷമമാക്കുക. അല്ലെങ്കിൽ, വ്യത്യസ്ത മൊബൈൽ നമ്പർ ഉപയോഗിക്കുക
+recust_reactivate	Reactivate	दोबारा जोड़ो	Dobara activate kare	ਦੋਬਾਰਾ ਜੋੜੋ	പുനരാരംഭിക്കുക
+recust_change_mobile	Use different mobile number	अलग नंबर का इस्तेमाल करें	Dusra mobile number jode	\"ਦੂਜਾ ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ \"	വ്യത്യസ്ത മൊബൈൽ നമ്പർ ഉപയോഗിക്കുക
+recust_title	Activate Customer	ग्राहक दोबारा जोड़ें	Customer activate kare	ਕਸਟਮਰ ਦੋਬਾਰਾ ਜੋੜੋ	ഉപഭോക്താവിനെ സജീവമാക്കുക
+custpr_sms_msg	%1$s will get a free SMS update for every transaction	%1$s को हर लेनदेन का नोटिफिकेशन, SMS द्वारा आ जायेगा	%1$s ko har len-den ka free SMS bheja jayega	%1$s ਨੂੰ ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਨੋਟੀਫਿਕੇਸ਼ਨ SMS ਵਿਚ ਆ ਜਾਵੇਗਾ	%1$s ഓരോ ഇടപാടിനും സൗജന്യ SMS അപ്ഡേറ്റ് ലഭിക്കും
+custpr_sms_msg_add	Add mobile to send a free SMS to %1$s for every transaction	मोबाइल नंबर जोड़ कर  %1$s को हर लेनदेन का फ्री SMS अपडेट भेजें	Mobile number jod kar %1$s par apne customer ko har len-den ka SMS bheje	ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜ ਕੇ %1$s ਨੂੰ ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਫ੍ਰੀ SMS ਬੈਲੰਸ ਅਪਡੇਟ ਭੇਜੋ	ഓരോ ഇടപാടിനും %1$s എന്ന ഉപപോക്താവിന്‌ ഒരു സൗജന്യ SMS അയയ്ക്കാൻ മൊബൈൽ ചേർക്കുക
+custpr_add_mobile	Add mobile number	मोबाइल नंबर जोड़ें	Mobile number jode	ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ	മൊബൈൽ നമ്പർ ചേർക്കുക
+custpr_delete	Delete Customer	ग्राहक डिलीट करें	Customer delete kare	ਡਿਲੀਟ ਕਸਟਮਰ	ഉപഭോക്താവിനെ ഇല്ലാതാക്കുക
+custpr_title	Customer	ग्राहक	Customer	ਕਸਟਮਰ	ഉപഭോക്താവ്
+profile_title	Profile	प्रोफाइल	Profile	ਪ੍ਰੋਫਾਇਲ	പ്രൊഫൈൽ
+editcst_title_mobile	Add Customer Mobile	मोबाइल नंबर जोड़ें	Customer ka mobile jode	ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ	ഉപഭോക്തൃ മൊബൈൽ ചേർക്കുക
+editcst_title_name	Update Customer Name	नाम बदलें	Customer ka naam jode	ਨਾਮ ਬਦਲੋ	ഉപഭോക്താവിന്റെ പേര് അപ്ഡേറ്റുചെയ്യുക
+editmerchant_title_name	Update Account Name	खाते का नाम बदलें	Account ka naam badle	ਖਾਤੇ ਦਾ ਨਾਮ ਬਦਲੋ	അക്കൗണ്ട് പേര് അപ്ഡേറ്റുചെയ്യുക
+delcst_title	Delete Customer	ग्राहक डिलीट करें	Customer delete kare	ਡਿਲੀਟ ਕਸਟਮਰ	ഉപഭോക്താവിനെ ഇല്ലാതാക്കുക
+delcst_msg_settlement	Balance of this customer is not 0. Please settle before removing.	ग्राहक का बैलेंस 0 नहीं है। ग्राहक हटाने के लिए हिसाब बराबर करना जरुरी है।	Is customer ka balance 0 nahi hai. Delete karne se pehle aapko balance 0 karna hoga.	\"ਕਸਟਮਰ ਦਾ ਬੈਲੰਸ 0 ਨਹੀਂ ਹੈ। ਕਸਟਮਰ ਹਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਹਿਸਾਬ ਬਰਾਬਰ ਕਰੋ। \"	ഈ ഉപഭോക്താവിന്റെ ബാലൻസ് 0 അല്ല. നീക്കംചെയ്യുന്നതിന് മുമ്പ് ദയവായി സ്ഥീധികരിക്കുക
+delcst_msg	The customer will be removed from your account. The customer will still be able to view their transactions through SMS.	ग्राहक को आपके खाते से हटा दिया जाएगा। ग्राहक अभी भी अपने SMS से बैलेंस और अपने डिटेल देख पायेगा।	Customer ko aapke Account se hata diya jayega. Customer iske baad bhi SMS me aaye huye link se ye dekh sakenge.	ਕਸਟਮਰ ਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਸਟਮਰ ਹਜੇ ਵੀ ਆਪਣੇ ਵੱਲੋ SMS ਵਿੱਚ ਸਾਰੇ ਰਿਕਾਰਡ ਦੇਖ ਸਕੇਗਾ।	നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് ഉപഭോക്താവ് നീക്കംചെയ്യും. ഉപഭോക്താവിന് അവരുടെ ഇടപാടുകൾ എസ്എംഎസ് വഴി തുടർന്നും കാണാൻ സാധിക്കും.
+delcst_msg_no_mobile	This customer will be deleted permanently and cannot be recovered	इस ग्राहक को हमेशा के लिए डिलीट कर दिया जायेगा और दोबारा जोड़ना असंभव होगा	Is customer ko hamesha ke liye delete kar diya jayega aur dobara joda nahi jaa sakega	ਇਸ ਕਸਟਮਰ ਨੂੰ ਪਰਮਾਨੇੰਟਲੀ ਡਿਲੀਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਇਸਨੂੰ ਦੋਬਾਰਾ ਜੋੜਨਾ ਅਸੰਭਵ ਹੈ	ഈ ഉപഭോക്താവ് ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും, വീണ്ടെടുക്കാനാവില്ല
+delcst_confirm	Remove	हटाओ	Delete	ਹਟਾਓ	നീക്കം ചെയ്യുക 
+delcst_settlement_label_credit	Give Credit of %1$s	%1$s का उधार जोड़ें	%1$s ka udhaar diya	%1$s ਦਾ ਉਧਾਰ ਜੋੜੋ	%1$s എന്നതിന്റെ കടം നൽകുക
+delcst_settlement_label_payment	Accept payment of %1$s	%1$s का पेमेंट जमा करें	%1$s ka payment liya	%1$s ਦਾ ਪੇਮੇਂਟ ਜਮਾ ਕਰੋ	%1$s പേയ്മെന്റ് സ്വീകരിക്കുക
+edit_name_not_allowed	Name change is not possible as you have already changed your account name 3 times. Please contact the OkCredit team in case you have any more questions.	आपने 3 बार खाते का नाम बदल लिया है और अब आपके खाते का नाम बदलना संभव नहीं है। किसी और सवाल के लिए OkCredit टीम से संपर्क करें।	Aap apne Account ka naam 3 baar badal chuke hain. Ab naam badalna sambhav nahi hai. Apne sawaalon ke jawaab ke liye OkCredit team se sampark kare.	ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ 3 ਵਾਰ ਨਾਮ ਬਦਲ ਚੁਕੇ ਹੋ ਇਸ ਕਰਕੇ ਹੁਣ ਤੁਹਾਡੇ ਖਾਤੇ ਦਾ ਨਾਮ ਨਹੀਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ	നിങ്ങളുടെ അക്കൗണ്ട് പേര് 3 തവണ ഇതിനകം മാറ്റിയതുപോലെ പേര് മാറ്റം സാധ്യമല്ല. നിങ്ങൾക്ക് എന്തെങ്കിലും ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ ദയവായി OkCredit ടീമിനെ ബന്ധപ്പെടുക.
+name_change_allowed	You can edit your business name %1$s more times	आप अपने खाते का नाम सिर्फ %1$s बार बदल सकते हैं	Aap apne Account ka naam %1$s baar badal payenge	ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਦੇ ਨਾਮ ਨੂੰ ਸਿਰਫ %1$s ਵਾਰ ਬਦਲ ਸਕਦੇ ਹੋ	നിങ്ങളുടെ ബിസിനസ്സ് പേര് %1$s കൂടുതൽ തവണ നിങ്ങൾക്ക് എഡിറ്റുചെയ്യാനാകും
+name_change_allowed_once	You can edit your business name only 1 more time	आप अपने खाते का नाम आखिरी 1 बार बदल सकते हैं	Aap apne Account ka naam bas aakhiri 1 baar badal sakte hain	ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਦੇ ਨਾਮ ਨੂੰ ਸਿਰਫ 1 ਹੋਰ ਵਾਰ ਬਦਲ ਸਕਦੇ ਹੋ	നിങ്ങളുടെ ബിസിനസ്സ് പേര് നിങ്ങൾക്ക് ഒരു തവണ മാത്രം എഡിറ്റുചെയ്യാം
+reset_pwd_otp_expired	OTP expired. Please go back and try again.	OTP का समय सीमा समाप्त, कृपया दोबारा प्रयास करें	OTP expire ho gaya. Kripya dobara prayas kare.	OTP ਦਾ ਸਮਾਂ ਸੀਮਾ ਖਤਮ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋप्रयास करें	OTP expired. ദയവായി തിരിച്ചുപോയി വീണ്ടും ശ്രമിക്കൂ.
+update_notification	New update available. Go to Play Store.	नया अपडेट आ गया है, प्ले स्टोर जायें	Naya update aa gaya hai. Play Store jaaye.	ਨਵਾਂ ਅਪਡੇਟ ਅਵੈਲਬਲ ਹੈ, ਪਲੇ ਸਟੋਰ ਜਾਓ	പുതിയ അപ്ഡേറ്റ് ലഭ്യമാണ്. Play Store-യിലേക്ക് പോകുക.
+reminder_notification	Reminder will be sent on 5th. Update your balances.	रिमाइंडर 5 तारीख को भेजा जायेगा, सारे कस्टमर के बैलेंस अपडेट कर दें	Reminder 5th ko bheja jayega. Saare account update Kar len.	ਰੇਮਾਇੰਡਰ 5 ਤਾਰੀਕ ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਸਾਰੇ ਕਸਟਮਰਸ ਦੇ ਬੈਲੰਸ ਅਪਡੇਟ ਕਰ ਦੋ	5-ന് ഓർമ്മപ്പെടുത്തൽ അയയ്ക്കും. നിങ്ങളുടെ ബാലൻസുകൾ കാലികമാക്കുക.
+update	Update	अपडेट	Update	ਅਪਡੇਟ	അപ്ഡേറ്റ് ചെയ്യുക
+browser_not_found	No application on your phone can handle this request. Please install a web browser.	आपके फ़ोन का कोई भी ऐप्प इस रिक्वेस्ट को पूरा करने में सक्षम नहीं है। कृपया वेब ब्राउज़र इनस्टॉल करें	Aapke phone ka koi bhi App is request ko handle nahi karta. Kripya web browser install kare.	ਤੁਹਾਡੇ ਫੋਨ ਦਾ ਕੋਈ ਭੀ ਐੱਪ ਇਸ ਰੇਕੁਐਸਟ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ, ਕਿਰਪਾ ਕਰ ਕੇ ਵੇਬ ਬਰੋਜ਼ਰ ਇੰਸਟਾਲ ਕਰੋ।	നിങ്ങളുടെ ഫോണിൽ ഒരു ആപ്ലിക്കേഷനും ഈ അഭ്യർത്ഥന കൈകാര്യം ചെയ്യാൻ കഴിയില്ല. ഒരു വെബ് ബ്രൌസർ ഇൻസ്റ്റാൾ ചെയ്യുക.
+err_service_unavailable_title	Service Unavailable	सेवा उप्लब्ध् नहीं है	Service uplabdh nahi hai	ਸੇਵਾ ਉਪਲੱਬਧ ਨਹੀਂ	സേവനം ലഭ്യമല്ല
+err_service_unavailable	OkCredit team is working to fix this issue. Please try again later.	OkCredit टीम इस पर काम कर रही है, कृपया थोड़ी देर बाद दोबारा प्रयास करें	OkCredit team is par kaam kar rahi hai. Kripya dobara prayas kare.	OkCredit ਟੀਮ ਇਸ ਤੇ ਕੰਮ ਕਰ ਰਹੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	ഈ പ്രശ്നം പരിഹരിക്കാൻ OkCredit ടീം പ്രവർത്തിക്കുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
+home_sort_name	Name	नाम	Naam	ਨਾਮ	പേര്
+home_sort_balance	Amount	राशि	Amount	ਰਕਮ	തുക
+home_sort_recent	Recent	नया	Latest	ਸਮਾਂ	സമീപകാല
+verify_otp_msg	For security, your mobile will be verified before you proceed with registration.	आपका OkCredit खाता बनाने से पहले आपके फ़ोन नंबर को वेरीफाई किया जायेगा	Security ke liye, aapke mobile ko registration se pehle verify kiya jayega	ਖਾਤੇ ਦੀ ਸੇਫਟੀ ਲਈ ਤੁਹਾਡੇ ਮੋਬਾਇਲ ਨੰਬਰ ਨੂੰ ਵੈਰੀਫਾਈ ਕਿੱਤਾ ਜਾਏਗਾ	സുരക്ഷയ്ക്കായി, നിങ്ങൾ രജിസ്ട്രേഷൻ തുടരുന്നതിന് മുമ്പ് നിങ്ങളുടെ മൊബൈൽ പരിശോധിച്ചുറപ്പിക്കേണ്ടതാണ്.
+slide1_title	Record Udhaar/Jama Digitally	उधार / पेमेंट का डिजिटल रिकॉर्ड	Udhaar / Payment ka Digital Record	ਉੱਧਾਰ-ਜਮਾ ਦਾ ਡਿਜਿਟਲ ਰਿਕਾਰਡ	പറ്റു ഡിജിറ്റൽ ആയി രേഖപ്പെടുത്തുക
+slide1_subtitle	Good Bye Pen, Paper &amp; Calculator	कॉपी, कलम, कैलकुलेटर अलविदा	Kaagaj, Kalam &amp; Calculator ko kijiye alwida	ਕਾਪੀ, ਕਲਮ ਤੇ ਕੈਲਕੁਲੇਟਰ ਨੂੰ ਕਹੋ ਅਲਵਿਦਾ	വിട പറയു പേനയോടും പേപ്പറിനോടും കാല്കുലേറ്റോറിനോടും 
+slide2_title	Customer gets free SMS	ग्राहक को फ्री SMS अपडेट	Customer ko free SMS milega	ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਬੈਲੰਸ ਅਪਡੇਟ	ഉപഭോക്താവ് സൌജന്യമായി SMS ലഭിക്കുന്നു
+slide2_subtitle	No confusion. No tension.	नो कन्फ्यूजन, नो टेंशन	No confusion. No tension.	ਨੋ ਉਲਝਣ, ਨੋ ਟੇਂਸ਼ਨ	ആശയക്കുഴപ്പം ഇല്ല. ടെൻഷൻ ഇല്ല
+slide3_title	Use Anywhere. Anytime.	कहीं भी, कभी भी इस्तेमाल करें	Kahi bhi, Kabhi bhi use kare.	ਜਿੱਥੇ ਮਰਜੀ, ਜਦੋਂ ਮਰਜੀ ਵਰਤੋ	എവിടെനിന്നും ഉപയോഗിക്കാം. ഏതുസമയത്തും.
+slide3_subtitle	100&#37; Safe, Secure, Personal Diary	100% सेफ, सिक्योर, पर्सनल डायरी	100% Safe, Secure, Personal Diary	100% ਸੇਫ, ਸਿਕਯੋਰ, ਪਰਸਨਲ ਡਾਇਰੀ	100% സുരക്ഷിതമായ, സ്വകാര്യ ഡയറി
+swipe_to_learn	Swipe to learn more	और जानने के लिए स्वाइप कीजिये	Aur jaankari ke liye swipe kare	ਜਾਣਕਾਰੀ ਲਈ ਸਵਾਇਪ ਕਰੋ	കൂടുതൽ അറിയാൻ സ്വൈപ്പുചെയ്യുക
+digital_india_1	Digital	डिजिटल	Digital	ਡਿਜਿਟਲ	ഡിജിറ്റൽ
+digital_india_2	Udhar Khata	उधार खाता	Udhaar Khaata	ਉਧਾਰ ਖਾਤਾ	പറ്റു ബുക്ക് 
+enter_otp	Enter OkCredit OTP received by SMS	OkCredit द्वारा SMS से भेजा हुआ OTP दर्ज करें	SMS se aaya hua OkCredit OTP daale	SMS ਵਿਚ ਆਇਆ OKਕ੍ਰੇਡਿਟ ਦਾ OTP ਇੰਟਰ ਕਰੋ	SMS മുഖേന ലഭിച്ച OkCredit OTP നൽകുക
+autoverifying	Auto verifying OTP from SMS	SMS से OTP ऑटो-वेरीफाई करने की कोशिश हो रही है	SMS se aaya hua OTP auto verify kiya jaye	ਆਟੋ-ਵੇਰੀਫਾਈਂਗ OTP	SMS ൽ നിന്ന് OTP പരിശോധിക്കുന്നു
+checking_otp	Checking OTP	OTP चेक किया जा रहा है	OTP check kiya jaa raha...	ਚੈਕਿੰਗ OTP	OTP പരിശോധിക്കുന്നു
+verification_success	Verification Successful	मोबाइल वेरिफिकेशन सफल	Verification safal	ਵੈਰੀਫਿਕੇਸ਼ਨ ਸਫਲ	പരിശോധന വിജയകരം
+verify_sms	Verify by SMS	SMS भेज के वेरीफाई करें	SMS se verify kare	SMS ਨਾਲ ਵੈਰੀਫਾਈ	SMS ഉപയോഗിച്ച് പരിശോധിക്കുക
+record_first_credit_title	Record your first credit	पहला उधार रिकॉर्ड करें	Apna pehla udhaar record kare	ਪਹਿਲਾ ਉਧਾਰ ਰਿਕਾਰਡ ਕਰੋ	നിങ്ങളുടെ ആദ്യ കടം റെക്കോർഡുചെയ്യുക
+record_first_credit_desc	Click on the Test customer to add credit given and send SMS balance update	टेस्ट कस्टमर पर क्लिक कर के दिया हुआ उधार जोड़ें और फ्री SMS बैलेंस अपडेट भेजें	Test customer par click kar, diya hua udhaar jodein aur SMS balance update bheje	ਟੈਸਟ ਕਸਟਮਰ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਦਿੱਤਾ ਹੋਇਆ ਉਧਾਰ ਜੋੜੋ ਅਤੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਬੈਲੇਂਸ ਅਪਡੇਟ ਭੇਜੋ	കടം നൽകിയ ശേഷം SMS ബാലൻസ് അപ്ഡേറ്റ് അയയ്ക്കാൻ ടെസ്റ്റ് ഉപഭോക്താവിനെ ക്ലിക്ക് ചെയ്യുക
+skip	Skip	रहने दें	Skip	ਛੱਡੋ	ഒഴിവാക്കുക
+add_first_cst_title	Add your first Customer	अपना पहला ग्राहक जोड़ें	Apna pehla customer jode	ਆਪਣਾ ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ	നിങ്ങളുടെ ആദ്യ കസ്റ്റമർ ചേർക്കുക
+add_first_cst_desc	Click on the button below to add a new customer and record their balances	नए ग्राहक को अपने खाते में जोड़ने के लिए नीचे दिए बटन को क्लिक कीजिये	Niche button par click kar, naya customer jodein aur unka udhaar aur payment likhe	ਨਵੇਂ ਕਸਟਮਰ ਨੂੰ ਆਪਣੇ ਖਾਤੇ ਵਿਚ ਜੋੜਣ ਲਈ ਥੱਲੇ ਬਟਨ ਨੂੰ ਕਲਿਕ ਕਰੋ	ഒരു പുതിയ ഉപഭോക്താവിനെ ചേർത്ത് അവരുടെ ബാലൻസുകൾ റെക്കോർഡ് ചെയ്യുന്നതിന് ചുവടെയുള്ള ബട്ടണിൽ ക്ലിക്കുചെയ്യുക
+tut_customer_screen_desc	Click on \'Give Credit\' button to record credit given to your customer	\'उधार  दिया \' बटन पे क्लिक कर, ग्राहक को दिए उधार दर्ज करें	\'Udhaar diya\' button par click kar, customer ko diya hua udhaar jode	\'ਉਧਾਰ ਦਿੱਤਾ \' ਬਟਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਕਸਟਮਰ ਨੂੰ ਦਿੱਤੇ ਹੋਏ ਉਧਾਰ ਨੂੰ ਰਿਕਾਰਡ ਕਰੋ	നിങ്ങളുടെ ഉപഭോക്താവിന് നൽകിയ കടം റെക്കോർഡ് ചെയ്യാൻ  \'കടം നൽകുക\' എന്നുള്ള ബട്ടണിൽ ക്ലിക്കുചെയ്യുക
+tut_add_txn_desc_credit	Enter credit amount. Attach note or bill image by clicking on the pin icon	उधार राशि जोड़ें। पिन आइकॉन पर क्लिक कर, रिमार्क या बिल की फोटो भी जोड़ सकते हैं	Udhaar ka amount jode. Bill ki photo ya note jodne ke liye, pin icon par click kare.	ਉਧਾਰ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ	വായ്പാ തുക നൽകുക. പിൻ ഐക്കണിൽ ക്ലിക്കുചെയ്ത് കുറിപ്പ് അല്ലെങ്കിൽ ബിൽ ഇമേജ് അറ്റാച്ചുചെയ്യുക
+tut_add_txn_desc_payment	Enter payment amount. Attach note or bill image by clicking on the pin icon	पेमेंट राशि जोड़ें। पिन आइकॉन पर क्लिक कर, रिमार्क या बिल की फोटो भी जोड़ सकते हैं	Payment amount jode. Bill ki photo ya note jodne ke liye pin icon par click kare	ਜਮਾ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ	പേയ്മെന്റ് തുക നൽകുക. പിൻ ഐക്കണിൽ ക്ലിക്കുചെയ്ത് കുറിപ്പ് അല്ലെങ്കിൽ ബിൽ ഇമേജ് അറ്റാച്ചുചെയ്യുക
+tut_add_txn_desc_return	Enter return amount. Attach note or bill image by clicking on the pin icon	वापसी राशि जोड़ें। पिन आइकॉन पर क्लिक कर, रिमार्क या बिल की फोटो भी जोड़ सकते हैं	Waapsi amount jode. Bill ki photo ya note jodne ke liye pin icon par click kare	ਵਾਪਸੀ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ	റിട്ടേൺ തുക നൽകുക. കുറിപ്പ്പുകൾക്ക് പിൻ ഐക്കണിൽ ക്ലിക്കു ചെയ്യുക. അല്ലെങ്കിൽ ബിൽ ഇമേജ് അറ്റാച്ചുചെയ്യുക.
+tut_confirm_txn_desc_credit	Your customer would receive a free SMS with their balances and OkCredit account link.	आपके ग्राहक को फ्री SMS द्वारा उनका बैलेंस और अकाउंट लिंक भेजा जायेगा	Aapke customer ko, unke len-den ka amount, balance aur unka OkCredit khata (link ke saath), ek free SMS bheja jayega.	ਆਪਣੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਵਿਚ ਬੈਲੇਂਸ ਅਤੇ ਖਾਤੇ ਦਾ ਲਿੰਕ ਭੇਜਿਆ ਜਾਏਗਾ	നിങ്ങളുടെ ഉപഭോക്താവിന് അവരുടെ സന്തുലനവും OkCredit അക്കൗണ്ട് ലിങ്കും ഉപയോഗിച്ച് സൌജന്യ SMS ലഭിക്കും.
+tut_confirm_txn_desc_payment	Enter your OkCredit account password to confirm payment	अपने OkCredit खाते के पासवर्ड से, पेमेंट कन्फर्म करें	Apna password daal kar payment confirm kare	ਆਪਣੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਦੇ ਪਾਸਵਰਡ ਨਾਲ ਜਮਾ ਕੰਫਰਮ ਕਰੋ	പേയ്മെന്റ് സ്ഥിരീകരിക്കുന്നതിന് നിങ്ങളുടെ OkCredit അക്കൗണ്ട് പാസ്സ്‌വേർഡ്‌ നൽകുക
+tut_add_cst_name_desc	Add name of customer or import multiple contacts directly from phone contacts	ग्राहक का नाम दर्ज करें या अपने फ़ोन के कांटेक्ट लिस्ट से डायरेक्ट जोड़ें	Customer ka naam jode ya apne phonebook se import kare	ਕਸਟਮਰ ਦਾ ਨਾਮ ਜੋੜੋ	ഉപഭോക്താവിന്റെ പേര് ചേർക്കുക അല്ലെങ്കിൽ ഫോൺ കോൺടാക്റ്റുകളിൽ നിന്ന് നേരിട്ട് നിരവധി കോൺടാക്റ്റുകൾ ഇമ്പോർട്ടുചെയ്യുക
+tut_add_cst_mobile_desc	Add mobile of customer or import it directly from phone contacts	ग्राहक का मोबाइल दर्ज करें या अपने फ़ोन के कांटेक्ट लिस्ट से डायरेक्ट जोड़ें	Customer ka mobile number jode ya apne phone contacts se chune	ਕਸਟਮਰ ਦਾ ਮੋਬਾਇਲ ਜੋੜੋ 	കസ്റ്റമർ മൊബൈൽ ചേർക്കുക അല്ലെങ്കിൽ ഫോൺ കോൺടാക്റ്റുകളിൽ നിന്നും നേരിട്ട് ഇമ്പോർട്ടുചെയ്യുക
+old_balance_button_text	Add Old Balance	पुराना बैलेंस जोड़ें	Purana Balance Jode	ਪੁਰਾਣਾ ਬੈਲੇਂਸ ਜੋੜੋ	പഴയ ബാലൻസ് ചേർക്കുക
+old_balance_button_credit	Credit\nBalance	उधार बैलेंस	Udhaar Balance	ਉਧਾਰ ਬੈਲੇਂਸ	കടം\nബാലൻസ്
+old_balance_button_payment	Payment\nAdvance	पेमेंट एडवांस	Payment Advance	ਜਮਾ ਐਡਵਾਂਸ	പേയ്മെന്റ്\nഅഡ്വാൻസ്
+confirm_old_balance	Confirm Old Balance	कन्फर्म उधार बैलेंस	Purana balance confirm kare	ਪੁਰਾਣਾ ਬੈਲੰਸ ਕੰਫਰਮ ਕਰੋ	പഴയ ബാലൻസ് സ്ഥിരീകരിക്കുക
+old_balance_added	Added Old Balance Successfully	पुराना बैलेंस रिकॉर्ड सफल	Purana balance safal	ਉਧਾਰ ਬੈਲੰਸ ਰਿਕਾਰਡ ਸਫਲ	പഴയ ബാലൻസ് വിജയകരമായി ചേർത്തു
+old_balance_title_credit	Old Credit Balance	पुराना उधार बैलेंस	Purana Udhaar Balance	ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ	പഴയ കടം ബാലൻസ്
+old_balance_title_payment	Old Payment Advance	पुराना पेमेंट एडवांस	Purana Payment Advance	ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ	പഴയ പേയ്മെന്റ് അഡ്വാൻസ്
+old_balance_activity_title_bar	Old Balance	पुराना बैलेंस	Purana Balance	ਪੁਰਾਣਾ ਬੈਲੰਸ	പഴയ ബാലൻസ്
+or	or	या	or	or	അല്ലെങ്കിൽ
+importcontacts_title	Import Contacts	कांटेक्टलिस्ट से जोड़ें	Import Contacts	ਕੰਟੈਕਟ ਤੋਂ ਚੁਣੋ	കോൺടാക്റ്റുകൾ ഇമ്പോർട് ചെയ്യുക
+importcontacts_search_contacts	Search Contacts	कांटेक्ट खोजें	Contacts khoje	ਕੰਟੈਕਟ ਖੋਜੋ	കോൺടാക്റ്റുകൾ തിരയുക
+read_contacts_permission_msg	Please allow read contacts permission to add customers from phone contacts	फ़ोनबुक से कांटेक्ट जोड़ने के लिए OkCredit को कांटेक्ट पढ़ने का परमिशन दें	Kripya contacts ka read permission de kar, apne phone contact se direct customer jode	ਫੋਨਬੂਕ ਤੋਂ ਕਸਟਮਰਸ ਜੋੜਣ ਲਈ ਕੰਟੈਕਟ ਰੀਡ ਕਰਣ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ	ഫോൺ കോൺടാക്റ്റുകളിൽ നിന്ന് ഉപയോക്താക്കളെ ചേർക്കാൻ കോൺടാക്റ്റുകൾ അനുവാദം ദയവായി അനുവദിക്കുക
+write_contacts_permission_msg	Please allow write contacts permission to add OkCredit as your phone contact	OkCredit को अपने फ़ोन्बूक कांटैक्ट में जोड़ने के लिए, फ़ोन्बूक कांटैक्ट का परमिशन दें	Kripya contacts ka write permission de kar OkCredit ko apne phone contact me jode	Okਕ੍ਰੇਡਿਟ ਨੂੰ ਆਪਣੇ ਫੋਨ ਕੰਟੈਕਟ ਲਿਸਟ ਵਿਚ ਜੋੜਣ ਲਈ ਰਾਈਟ ਕੰਟੈਕਟ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ	നിങ്ങളുടെ ഫോൺ കോൺടാക്റ്റായി OkCredit ചേർക്കുന്നതിന് ദയവായി കോൺടാക്റ് അനുമതി നൽകുക
+loading_bulk_add_customers	Please wait while we add your selected contacts as OkCredit customers.	आपके चुने हुए कांटेक्ट को, OkCredit खाते में जोड़ा जा रहा है	Aapke chune huye contacts ko, OkCredit customer ki tarah joda jaa raha hai	ਚੁਣੇ ਹੋਏ ਕੰਟੈਕਟ ਨੂੰ ਤੁਹਾਡੇ Okਕ੍ਰੇਡਿਟ ਕਸਟਮਰਸ ਦੀ ਲਿਸਟ ਵਿੱਚ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ	നിങ്ങളുടെ തിരഞ്ഞെടുത്ത കോൺടാക്ടുകളെ OkCredit ഉപഭോക്താക്കളായി ചേർക്കുമ്പോൾ ദയവായി കാത്തിരിക്കുക.
+reactivate_list_msg	Re-activate deleted customers imported from phonebook. Unselect the contacts you do not wish to re-activate.	कांटेक्ट से, डिलीट किये हुए ग्राहकों को दोबारा जोड़ें। जिन ग्राहकों को नहीं जोड़ना चाहते, उनको अनमार्क कर दें।	Phonebook se imported, deleted customers ko re-activate karen. Jin contacts ko aap re-activate nahi karna chahte, unhe unselect karen.	ਪਹਿਲਾਂ ਡਿਲੇਟ ਕਿੱਤੇ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ। ਜਿਹਨਾਂ ਕਸਟਮਰਸ ਨੂੰ ਨਹੀਂ ਜੋੜਨਾ ਉਸਨੂੰ ਅੰਸਲਕਟ ਕਰੋ।.	ഫോൺബുക്കിൽ നിന്ന് ഇമ്പോർട് ചെയ്ത നീക്കംചെയ്ത ഉപയോക്താക്കളെ വീണ്ടും സജീവമാക്കുക. നിങ്ങൾ വീണ്ടും സജീവമാക്കാൻ ആഗ്രഹിക്കാത്ത കോൺടാക്റ്റുകൾ തിരഞ്ഞെടുക്കുക.
+record_first_transaction	Record first transaction with %1$s	%1$s के साथ पहला लेन-देन रिकॉर्ड करें	%1$s ke saath pehla len-den record kare	%1$s ਨਾਲ ਪਹਿਲਾ ਲੇਣ-ਦੇਣ ਰਿਕਾਰਡ ਕਰੋ	%1$s -ന്റെ ആദ്യ ഇടപാട് റെക്കോർഡുചെയ്യുക
+volume_low	Increase volume for help audio	सहायता ऑडियो के लिए, वॉल्यूम बढ़ाएं	Help audio sunne ke liye, volume badhaye	ਜਾਣਕਾਰੀ ਵਾਰੇ ਆਡੀਓ ਲਈ ਵੋਲੂਮ ਵਧਾਓ	സഹായ ഓഡിയോയ്ക്കായി ശബ്‌ദം വർദ്ധിപ്പിക്കുക
+try_payment	Try Payment	पेमेंट टेस्ट करें	Payment try kare	ਜਮਾ ਟ੍ਰਾਈ ਕਰੋ	പേയ്മെന്റ് പരീക്ഷിക്കുക
+send_reminder_whatsapp	Send Payment Reminder	पेमेंट रिमाइंडर भेजें	Payment ke liye Reminder bheje	ਪੇਮੈਂਟ ਰਿਮਾਇੰਡਰ ਭੇਜੋ	പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ അയയ്ക്കുക
+generate_reminder	Generating Reminder…	रिमाइंडर मैसेज बनाया जा रहा है…	Reminder taiyar ho raha…	ਰਿਮਾਇੰਡਰ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…	ഓർമ്മപ്പെടുത്തൽ സൃഷ്ടിക്കുന്നു.
+payment_reminder	Payment Reminder	पेमेंट रिमाइंडर	Payment Reminder	ਪੇਮੈਂਟ ਰਿਮਾਇੰਡਰ	പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ
+dues_as_on	Dues as on	उधार बैलेंस ON	Dues as on	ਉਧਾਰ ਬੈਲੰਸ ON	ബോണസ്സായി
+verified_by_okc	OkCredit Verified	OkCredit प्रमाणित	OkCredit Verified	OKਕ੍ਰੇਡਿਟ ਪ੍ਰਮਾਣਿਤ	OkCredit പരിശോധിച്ചു
+in_app_lang_desc	Your customers will receive free SMS updates in the selected language	आपके ग्राहक को, चुने हुए भाषा में ही फ्री SMS बैलेंस अपडेट भेजा जायेगा।	Aapke customers ko aapke chune huye bhaasha me SMS update bheja jayega	ਤੁਹਾਡੇ ਕਸਟਮਰ ਨੂੰ ਚੁਣੇ ਹੋਏ ਭਾਸ਼ਾ ਵਿੱਚ ਹੀ ਫ੍ਰੀ SMS ਅਪਡੇਟ ਭੇਜਿਆ ਜਾਏਗਾ।	തിരഞ്ഞെടുത്ത ഭാഷയിൽ നിങ്ങളുടെ ഉപഭോക്താക്കൾക്ക് സൗജന്യ SMS അപ്ഡേറ്റുകൾ ലഭിക്കും
+tx_detail_old_credit_desc	opening credit balance added for	पुराना उधार बैलेंस जोड़ें	ka opening udhaar balance joda gaya	ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ ਜੋੜਿਆ ਗਯਾ	കടം ബാലൻസ് തുറക്കുന്നു
+tx_detail_old_payment_desc	opening payment advance added for	पुराना पेमेंट एडवांस जोड़ें	ka opening Payment advance joda gaya	ਪੁਰਾਣਾ ਜਮਾ ਐਡਵਾਂਸ ਜੋੜਿਆ ਗਯਾ	പണം അടയ്ക്കുന്നതിന് മുൻകൂറായി ചേർത്തു
+tx_detail_old_credit_title	Old Credit Balance	पुराना उधार बैलेंस	Purana udhaar balance	ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ	പഴയ കടം ബാലൻസ്
+tx_detail_old_payment_title	Old Payment Advance	पुराना पेमेंट एडवांस	Purana Payment advance	ਪੁਰਾਣਾ ਜਮਾ ਐਡਵਾਂਸ	പഴയ പേയ്മെന്റ് അഡ്വാൻസ്
+credit_delete_desc	Cancel Credit	कैंसिल उधार	Cancel Udhaar	ਕੈਂਸਲ ਉਧਾਰ	കടം റദ്ദാക്കുക
+payment_delete_desc	Cancel Payment	कैंसिल पेमेंट	Cancel Payment	ਕੈਂਸਲ ਜਮਾ	പേയ്മെന്റ് റദ്ദാക്കുക
+tx_delete	Cancel	कैंसिल	Cancel	ਕੈਂਸਲ	റദ്ദാക്കുക
+del_credit_msg	This credit will be cancelled and the customer will receive a SMS on their mobile number	यह उधार कैंसिल हो जायेगा और ग्राहक को इसका SMS भेज दिया जायेगा	Is udhaar ko cancel kar diya jayega aur customer ko uske mobile number par SMS bheja jayega	ਇਹ ਉਧਾਰ ਕੈਂਸਲ ਹੋ ਜਾਵੇਗਾ ਤੇ ਕਸਟਮਰ ਨੂੰ SMS ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ	ഈ കടം റദ്ദാക്കുകയും ഉപഭോക്താക്കൾക്ക് അവരുടെ മൊബൈൽ നമ്പറിൽ ഒരു എസ്എംഎസ് ലഭിക്കുകയും ചെയ്യും
+del_payment_msg	This payment will be cancelled and the customer will receive a SMS on their mobile number	यह पेमेंट कैंसिल हो जायेगा और ग्राहक को इसका SMS भेज दिया जायेगा	Is Payment ko cancel kar diya jayega aur customer ko uske mobile number par SMS bheja jayega	ਇਹ ਜਮਾ ਕੈਂਸਲ ਹੋ ਜਾਵੇਗਾ ਤੇ ਕਸਟਮਰ ਨੂੰ SMS ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ	ഈ പേയ്മെന്റ് റദ്ദാക്കും, ഉപഭോക്താവിന് അവരുടെ മൊബൈൽ നമ്പറിൽ ഒരു എസ്എംഎസ് ലഭിക്കും
+tx_deleted_msg	Cancelled on %1$s	%1$s को कैंसिल किया	%1$s ko cancel kiya	%1$s ਨੂੰ ਕੈਂਸਲ ਕਿੱਤਾ	%1$s തീയ്യതി റദ്ദാക്കി
+tx_delete_not_allowed	Cancellation not allowed after 24 hours of entry	उधार या पेमेंट रिकॉर्ड करने के 24 घंटे बाद, कैंसिल नहीं कर सकते	Record likne ke 24 ghante baad cancel nahi kar sakte	ਰਿਕਾਰਡ ਐਂਟਰੀ ਦੇ 24 ਘੰਟੇ ਬਾਅਦ ਕੈਂਸਲ ਨਹੀਂ ਕਰ ਸਕਦੇ	24 മണിക്കൂർ ശേഷം റദ്ദാക്കൽ അനുവദനീയമല്ല
+credit_cancelled	Credit Cancelled	उधार कैंसिल	Credit cancel kiya gaya	ਉਧਾਰ ਕੈਂਸਲ	കടം റദ്ദാക്കി
+payment_cancelled	Payment Cancelled	पेमेंट कैंसिल	Payment cancel kiya gaya	ਜਮਾ ਕੈੰਸਲ	പെയ്മെന്റ് റദ്ദാക്കി
+cst_deleted	Customer Deleted	ग्राहक डिलीट	Customer Deleted	ਕਸਟਮਰ ਡਿਲੀਟ	ഉപപോക്താവിനെ Delete ആക്കി
+cst_deleted_msg	Customer deleted	ग्राहक डिलीट	Customer deleted	ਕਸਟਮਰ ਡਿਲੀਟ	ഉപപോക്താവിനെ Delete ആക്കി
+account_security	Security	सुरक्षा	Security	ਸਿਕਿਉਰਿਟੀ	സുരക്ഷ
+security_app_lock	App Lock	ऐप्प लॉक	App Lock	ਐੱਪ-ਲੌਕ	അപ്ലിക്കേഷൻ ലോക്ക്
+security_recovery	Account Recovery Number	खाता बैकअप नंबर	Khata Recovery Number	ਖਾਤਾ ਰਿਕਵਰੀ ਨੰਬਰ	അക്കൗണ്ട് വീണ്ടെടുക്കൽ നമ്പർ
+status_on	On	ऑन	On	ਓਨ	ഓണാണ്
+status_off	Off	ऑफ	Off	ਆੱਫ	ഓഫ്
+app_lock_enabled	App Lock Enabled	ऐप्प लॉक चालू	App Lock On	ਐੱਪ-ਲੌਕ ਚਾਲੂ	അപ്ലിക്കേഷൻ ലോക്ക് പ്രവർത്തനക്ഷമമാക്കി
+app_lock_disabled	App Lock Disabled	ऐप्प लॉक बंद	App Lock Off	ਐੱਪ-ਲੌਕ ਬੰਦ	അപ്ലിക്കേഷൻ ലോക്ക് അപ്രാപ്തമാക്കി
+app_lock_enable	Click to enable	लगायें	On karne ke liye click kare	ਲਗਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ	പ്രാപ്തമാക്കാൻ ക്ലിക്കുചെയ്യുക
+app_lock_disable	Click to disable	हटायें	Off karne ke liye click kare	ਹਟਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ	അപ്രാപ്തമാക്കാൻ ക്ലിക്കുചെയ്യുക
+enable_app_lock	Enable App Lock	ऐप्प लॉक लगायें	App Lock on kare	ਐੱਪ-ਲੌਕ ਲਗਾਓ	അപ്ലിക്കേഷൻ ലോക്ക് പ്രാപ്തമാക്കുക
+disable_app_lock	Disable App Lock	ऐप्प लॉक हटायें	App Lock off kare	ਐੱਪ-ਲੌਕ ਹਟਾਓ	അപ്ലിക്കേഷൻ ലോക്ക് പ്രവർത്തനരഹിതമാക്കുക
+app_lock_desc_msg	App Lock keeps your OkCredit account safe from others who can use your phone. \nThis lock protects only one phone. Enable app lock on all your phones separately if you use OkCredit on multiple phones.	ऐप्प लॉक, आपके OkCredit खाते को आपका फ़ोन इस्तेमाल करने वाले बाकी लोगों से सुरक्षित रखता है। यह लॉक सिर्फ एक फ़ोन के लिए है। अगर आप एक से ज्यादा फ़ोन में OkCredit चलाते हैं तो अपने हर फ़ोन में अलग से ऐप्प लॉक लगायें।	App Lock aapke OkCredit Account ko dusro se safe rakhta hai. Yah lock sirf ek phone ko bachata hai. Agar aap ek se jyada phone me OkCredit istemaal karte hain to har phone me alag se lock lagaye.	ਐੱਪ-ਲੌਕ ਤੁਹਾਡੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਨੂੰ ਉਨ੍ਹਾਂ ਤੋਂ ਸੇਫ ਰੱਖਦਾ ਜੋ ਤੁਹਾਡਾ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹਨ. ਇਹ ਲੌਕ ਸਿਰਫ ਇਸ ਫੋਨ ਲਈ ਹੈ. ਜੇ ਤੁਸੀਂ ਇੱਕ ਤੋਂ ਵੱਢ ਫੋਨ ਤੇ OKਕ੍ਰੇਡਿਟ ਚਲਾਉਂਦੇ ਹੋ ਤਾਂ ਸਾਰੇ ਫੋਨਾਂ ਤੇ ਵੱਖਰਾ ਲੌਕ ਲਗਾਉਣਾ ਪੈਣਾ.	ആപ്പ് ലോക്ക് ആക്ടിവേറ്റ് ചെയ്താൽ മറ്റുള്ളവരിൽ നിന്നും നിങ്ങളുടെ അക്കൗണ്ട് സുരക്ഷിതമാക്കുന്നു.ഈ ലോക്ക് ഒരു ഫോൺ മാത്രമേ സംരക്ഷിക്കൂ. \n ഒന്നിലധികം ഫോണുകളിൽ OkCredit ഉപയോഗിക്കുകയാണെങ്കിൽ നിങ്ങളുടെ എല്ലാ ഫോണുകളിലും അപ്ലിക്കേഷൻ ലോക്ക് വേർതിരിക്കുക.
+draw_unlock_pattern	Draw unlock pattern	अनलॉक पैटर्न बनायें	Unlock pattern banaye	ਅਨਲੌਕ ਪੈਟਰਨ ਬਣਾਉ	അൺലോക്ക് പാറ്റേൺ വരയ്ക്കുക
+draw_patern_again	Draw pattern again to confirm	दोबारा सेम पैटर्न बनायें	Dobara pattern bana kar confirm kare	ਦੋਬਾਰਾ ਪੈਟਰਨ ਬਣਾ ਕੇ ਕੰਫਰਮ ਕਰੋ	സ്ഥിരീകരിക്കുന്നതിന് പാറ്റേൺ വീണ്ടും വരയ്ക്കുക
+set_pattern	Set Pattern	पैटर्न सेट करें	Set Pattern	ਪੈਟਰਨ ਬਣਾਉ	പാറ്റേൺ സജ്ജമാക്കുക
+confirm_pattern	Confirm Pattern	पैटर्न कन्फर्म करें	Confirm Pattern	ਕੰਫਰਮ ਪੈਟਰਨ	പാറ്റേൺ സ്ഥിരീകരിക്കുക
+incorrect_pattern	Incorrect Pattern	गलत पैटर्न	Galat Pattern	ਗਲਤ ਪੈਟਰਨ	തെറ്റായ പാറ്റേൺ
+invalid_pattern	Connect at least 4 dots	कम से कम 4 डॉट कनेक्ट करें	Kam se kam 4 dots jode	ਘੱਟੋ-ਘੱਟ 4 ਡੋਟ ਜੋੜੋ	കുറഞ്ഞത് 4 ഡോട്ടുകൾ കണക്റ്റുചെയ്യുക
+pattern_mismatch	Both patterns do not match	दोनों पैटर्न एक जैसे नहीं हैं।	Dono patterns match nahi hote	ਦੋਵੇਂ ਪੈਟਰਨ ਮੈਚ ਨਹੀਂ ਹੋਏ	രണ്ട് പാറ്റേണുകളും പൊരുത്തപ്പെടുന്നില്ല
+pattern_verified	Pattern Verified	सही पैटर्न	Pattern Verified	ਪੈਟਰਨ ਵੇਰੀਫਾਇਡ	പാറ്റേൺ പരിശോധിച്ചു
+forgot_pattern	Forgot Pattern?	पैटर्न भूल गये?	Pattern bhool gaye?	ਪੈਟਰਨ ਭੁੱਲ ਗਏ?	പാറ്റേൺ മറന്നോ?
+pattern_disable_sign_in_msg	Sign in with your OkCredit password to disable your app lock	ऐप्प लॉक हटाने के लिए अपने OkCredit पासवर्ड से साइन इन करें।	Apne password se sign in kar ke app lock ko off kare	ਐੱਪ-ਲੌਕ ਨੂੰ ਹਟਾਉਣ ਲਈ ਆਪਣੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਦੇ ਪਾਸਵਰਡ ਨਾਲ ਸਾਇਨ ਇਨ ਕਰੋ.	നിങ്ങളുടെ അപ്ലിക്കേഷൻ ലോക്ക് അപ്രാപ്തമാക്കുന്നതിന് നിങ്ങളുടെ OkCredit പാസ്സ്‌വേർഡ്‌ ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക
+payment_reminder_whatsapp_msg_1	Hello, here is your OkCredit Payment Reminder.	नमस्ते! यह आपका OkCredit पेमेंट रिमाइंडर है।	Namaste, Yah aapka OkCredit payment reminder hai.	ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ।	ഹലോ, ഇതാ നിങ്ങളുടെ OkCredit പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ.
+payment_reminder_whatsapp_msg_2	Hello, here is your OkCredit Payment Reminder. \n \nYou can also send reminders like this to your customers, get OkCredit for free %1$s	नमस्ते! यह आपका OkCredit पेमेंट रिमाइंडर है। आप भी अपने ग्राहकों को ऐसे रिमाइंडर भेज सकते हैं। %1$s से OkCredit इंस्टॉल करें।	Namaste, Yah aapka OkCredit payment reminder hai. Apne customers ko bhi aise update bhejne ke liye, free me OkCredit install kare %1$s	ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਤੁਸੀਂ ਭੀ ਆਪਣੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ WhatsApp ਰਿਮਾਇੰਡਰ ਭੇਜ ਸਕਦੇ ਹੋ। %1$s ਤੋਂ OkCredit ਫ੍ਰੀ ਇੰਸਟਾਲ ਕਰੋ।	ഹലോ, ഇതാ നിങ്ങളുടെ OkCredit പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ. \n നിങ്ങളുടെ കസ്റ്റമർമാർക്ക് ഇതുപോലുള്ള ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കാനും, OkCredit സവജന്യമാണ്. %1$s
+payment_reminder_whatsapp_msg_3	Hello, here is your OkCredit Payment Reminder. \n \nKeep your customers updated with free SMS. Get OkCredit now %1$s	नमस्ते! यह आपका OkCredit पेमेंट रिमाइंडर है। आप भी अपने ग्राहकों को फ्री बैलेंस अपडेट भेज सकते हैं। %1$s से OkCredit इंस्टॉल करें।	Namaste, Yah aapka OkCredit payment reminder hai. Apne customers ko har len-den ka update bheje. OkCredit install kare - %1$s	ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਆਪਣੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਨਾਲ ਬੈਲੇਂਸ ਦਾ ਅਪਡੇਟ ਭੇਜੋ। %1$s ਤੋਂ OkCredit ਇੰਸਟਾਲ ਕਰੋ।	ഹലോ, ഇതാ നിങ്ങളുടെ OkCredit പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ. \n സൌജന്യ SMS ഉപയോഗിച്ച് നിങ്ങളുടെ ഉപഭോക്താക്കൾ അപ്ഡേറ്റ് ചെയ്യുക. %1$s
+payment_reminder_whatsapp_msg_4	Hello, here is your OkCredit Payment Reminder. \n \nYou can also make your Udhaar Khata digital for free. Install now  %1$s	नमस्ते! यह आपका OkCredit पेमेंट रिमाइंडर है। आप भी फ्री में अपना डिजिटल उधार खाता बना सकते हैं। %1$s से अभी इंस्टॉल करें।	Namaste, Yah aapka OkCredit payment reminder hai. Aap bhi apna Digital Udhaar Khaata banaiye. Install kaijiye  %1$s	ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਤੁਸੀਂ ਭੀ ਆਪਣਾ ਡਿਜਿਟਲ ਉਧਾਰ ਖਾਤਾ ਫ੍ਰੀ ਬਣਾ ਸਕਦੇ ਹੋ। ਇੰਸਟਾਲ ਕਰੋ %1$s	ഹലോ, ഇതാ നിങ്ങളുടെ OkCredit പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ. \n നിങ്ങളുടെ ഡിജിറ്റൽ പറ്റൂ ബുക്ക്  സൗജന്യമായി ഉപയോഗിക്കാം. %1$s
+payment_reminder_whatsapp_msg_5	Hello, here is your OkCredit Payment Reminder. \n \nGet your free OkCredit Udhaar Khaata at %1$s	नमस्ते! यह आपका OkCredit पेमेंट रिमाइंडर है। %1$s से OkCredit इंस्टॉल करें और अपने उधार खाते को डिजिटल बनायें।	Hello, here is your OkCredit Payment Reminder. Get your free OkCredit Udhaar Khaata at %1$s	ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। %1$s ਤੋਂ OkCredit ਇੰਸਟਾਲ ਕਰੋ ਤੇ ਆਪਣਾ ਡਿਜਿਟਲ ਉਧਾਰ ਖਾਤਾ ਫ੍ਰੀ ਬਣਾਓ।	ഹലോ, ഇതാ നിങ്ങളുടെ OkCredit പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ. \n നിങ്ങളുടെ ഡിജിറ്റൽ പറ്റൂ ബുക്ക്  സൗജന്യമായി ഉപയോഗിക്കാം. %1$s
+due	Due	उधार	Udhaar	ਉਧਾਰ	കടം
+old_balance_screen_tut_desc	Record old balance as of %1$s and send a special opening balance SMS to customer	%1$s तक का टोटल पुराना बैलेंस रिकॉर्ड करें और ग्राहक को स्पेशल ओपनिंग बैलेंस SMS भेजें	%1$s tak ka purana udhaar jode aur apne customer ko ek special opening balance SMS bheje	 %1$s ਤਕ ਦਾ ਪੁਰਾਣਾ ਬੈਲੇਂਸ ਜੋੜੋ ਤੇ ਕਸਟਮਰ ਨੂੰ ਸਪੈਸ਼ਲ ਓਪਨਿੰਗ ਬੈਲੇਂਸ SMS ਭੇਜੋ	%1$s വരെയുള്ള പഴയ ബാലൻസിൽ റെക്കോർഡ് ചെയ്ത് ഉപഭോക്താവിന് ഒരു പ്രത്യേക ഓപ്പൺ ബാലൻസ് SMS അയയ്ക്കുക
+record_first_tx	Click on the TEST customer to try OkCredit	OkCredit ट्राई करने के लिए टेस्ट ग्राहक पर क्लिक करें	TEST customer par click kar ke OkCredit try kijiye	OkCredit ਟ੍ਰਾਈ ਕਰਨ ਲਈ ਟੇਸਟ ਕਸਟਮਰ ਤੇ ਕਲਿਕ ਕਰੋ	OkCredit പരീക്ഷിക്കാൻ ടെസ്റ്റ് ഉപഭോക്താവിനെ ക്ലിക്ക് ചെയ്യുക
+update_noti_title	Update OkCredit	OkCredit अपडेट करें	OkCredit update kare	OKਕ੍ਰੇਡਿਟ ਅਪਡੇਟ ਕਰੋ	OkCredit അപ്ഡേറ്റുചെയ്യുക
+update_noti_subtitle	to get latest features	और लेटेस्ट फीचर्स पायें	aur latest feature paaiye	ਲੇਟੈਸਟ ਫੀਚਰਸ ਪਾਓ	പുതിയ സവിശേഷതകൾ ലഭിക്കാൻ
+app_lock_noti_title	Enable App Lock	खाता सेक्यूरिटी बढ़ाएं	App Lock on kare	ਖਾਤਾ ਸਿਕਿਉਰਿਟੀ ਬਢਾਓ	അപ്ലിക്കേഷൻ ലോക്ക് പ്രാപ്തമാക്കുക
+app_lock_noti_subtitle	to protect your account	ऐप्प लॉक लगायें	aur apne Account ko secure kare	ਐੱਪ ਲੌਕ ਲਗਾਓ	നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിക്കുന്നതിനായി
+reminder_noti_title	Update Balances	बैलेंस अपडेट कर लें	Balance update kare	ਬੈਲੇਂਸ ਅਪਡੇਟ ਕਰੋ	അപ്ഡേറ്റ് ബാലൻസുകൾ
+reminder_noti_subtitle	Reminders will be sent on 5th	5 तारीख को रिमाइंडर भेजे जायेंगे	5th ko reminders bheje jayenge	5 ਤਾਰੀਖ ਨੂੰ ਰਿਮਾਇੰਡਰ ਭੇਜਿਆ ਜਾਏਗਾ	5-ന് ഓർമ്മപ്പെടുത്തലുകൾ അയയ്ക്കും
+share_noti_title	Surprise Friends	OkCredit शेयर करें	Dosto ko surprise kare	ਸ਼ੇਅਰ OKਕ੍ਰੇਡਿਟ	സർപ്രൈസ് ഫ്രണ്ട്സ്
+share_noti_subtitle	by sending a digital gift	दोस्तों को दें एक डिजिटल गिफ्ट!	aur bhejiye ek digital gift	ਆਪਣੇ ਦੋਸਤਾਂ ਨੂੰ ਡਿਜਿਟਲ ਗਿਫ਼੍ਟ ਦਿਓ	ഒരു ഡിജിറ്റൽ ഗിഫ്റ് അയയ്ക്കുക വഴി
+loading_read_contacts	Loading contacts. Please wait.	कॉन्टैक्ट लोड हो रहा है। कृपया प्रतीक्षा करें।	Contacts load kiya jaa raha. Kripya intezaar kare.	ਕੰਟੈਕਟ ਲੋਡ ਹੋ ਰਹੇ। ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ।	കോൺടാക്റ്റുകൾ ലോഡുചെയ്യുന്നു. കാത്തിരിക്കൂ.
+no_internet_title	Internet Required	इंटरनेट जरुरी है	Internet Jaruri hai	ਇੰਟਰਨੇਟ ਜਰੂਰੀ ਹੈ	ഇന്റർനെറ്റ് ആവശ്യമാണ്
+no_internet_msg	Task requires internet. Please connect to internet and try again	टास्क के लिए इंटरनेट आवश्यक है। कृपया इंटरनेट से कनेक्ट होने के बाद दोबारा प्रयास करें।	Iske liye internet jaruri hai. Kripya internet se connect ho kar dobara prayas kare	ਟਾਸਕ ਲਈ ਇੰਟਰਨੇਟ ਜਰੂਰੀ ਹੈ। ਕਿਰਪਾ ਕਰ ਕੇ ਇੰਟਰਨੇਟ ਤੋਂ ਕੰਨੇਕਟ ਹੋਣ ਦੇ ਬਾਅਦ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।	ടാസ്ക്കിന് ഇന്റർനെറ്റിന് ആവശ്യമാണ്. ദയവായി ഇന്റർനെറ്റിൽ കണക്റ്റുചെയ്ത് വീണ്ടും ശ്രമിക്കുക
+no_internet_msg_customer	Customer not available Offline. Please connect to internet and try again to load customer.	कस्टमर अभी तक ऑफलाइन उपलब्ध नहीं है। कृपया इंटरनेट से कनेक्ट होने के बाद दोबारा कस्टमर लोड करने का प्रयास करें।	Customer offline maujood nahi hai. Kripya internet se connect hone ke baad dobara prayas kare.	ਕਸਟਮਰ ਆਫਲਾਈਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।  ਕਿਰਪਾ ਕਰ ਕੇ ਇੰਟਰਨੇਟ ਤੋਂ ਕੰਨੇਕਟ ਹੋਣ ਦੇ ਬਾਅਦ ਦੋਬਾਰਾ ਕਸਟਮਰ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।	ഉപഭോക്താവ് ഓഫ്ലൈനിൽ ലഭ്യമല്ല. ദയവായി ഇന്റർനെറ്റിൽ കണക്റ്റുചെയ്ത് ഉപഭോക്താവിനെ ലോഡു ചെയ്യാൻ വീണ്ടും ശ്രമിക്കുക.
+report_loading_msg	Creating report…	रिपोर्ट तैयार हो रहा...	Report banaya jaa raha…	ਰਿਪੋਰਟ ਰੇਡੀ ਹੋ ਰਿਹਾ।..	റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നു ...
+home_no_internet_msg	No Internet Connection	इंटरनेट कनेक्शन नहीं है	Internet connection nahi	ਓਫਲਾਇਨ	ഇന്റർനെറ്റ് കണക്ഷൻ ഇല്ല
+payment_reminder_whatsapp_msg	Payment pending - Please make payment as soon as possible. Check details at %1$s	पेमेंट पेंडिंग - कृपया जल्द से जल्द पेमेंट करें। %1$s से अपने खाते का डिटेल देखें।	Payment pending - Kripya jald se jald payment kijiye. %1$s se details check kare	ਪੇਮੈਂਟ ਪੈਂਡਿੰਗ - ਕਿਰਪਾ ਕਰ ਕੇ ਜਲਦੀ ਤੋਂ ਜਲਦੀ ਪੇਮੈਂਟ ਕਰੋ। %1$s ਤੇ ਆਪਣੇ ਖਾਤੇ ਦਾ ਡਿਟੇਲ ਦੇਖੋ।	പേയ്മെന്റ് പെന്റിങ് ആണ് - എത്രയും വേഗം പണമടയ്ക്കുക. %1$s എന്നതിൽ വിശദാംശങ്ങൾ പരിശോധിക്കുക
+share_okcredit	Share OkCredit	दोस्तों को बताएँ	Share OkCredit	ਯਾਰਾਂ ਨਾਲ ਸ਼ੇਯਰ ਕਰੋ	OkCredit ഷെയർ ചെയ്യൂ 
+other_options	Other Options	अन्य विकल्प	Other Options	ਹੋਰ ਵਿਕਲਪ	മറ്റ് ഓപ്ഷനുകൾ
+thanks_in_advance	Thanks in advance! 😊	अग्रिम धन्यवाद! 😊	Advance Dhanyawaad!😊	ਪਹਿਲਾਂ ਤੋਂ ਧੰਨਵਾਦ! 😊	മുന്‍കൂട്ടി നന്ദി രേഖപെടുത്തുന്നു 😊
+share_okcredit_app	Share OkCredit with your friends and family.	OkCredit ऐप को अपने व्यवसायी दोस्तों और परिवारजनों के साथ साझा करें	Apne dosto aur family ke saath OkCredit share kare.	ਆਪਣੇ ਕਾਰੋਬਾਰੀ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ OkCredit ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ	നിങ്ങളുടെ സുഹൃത്തുക്കളുമായും കുടുംബവുമായും OkCredit പങ്കിടുക.
+rating_noti_title	Love OkCredit? 	OkCredit पसंद है?	OkCredit pasand hai? 	OkCredit ਪਸੰਦ ਹੈ?	OkCredit ഇഷ്ടമായോ?
+rating_noti_subtitle	Rate us and share reviews!	हमें रेट करें और अपने विचार व्यक्त करें	OkCredit ko rate kare aur reviews share kare!	ਰੇਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਪ੍ਰਗਟ ਕਰੋ!	ഞങ്ങളെ റേറ്റുചെയ്ത് റിവ്യൂ പങ്കിടുക!
+rate_okcredit	Rate OkCredit	रेट OkCredit	Rate OkCredit	ਰੇਟ OkCredit	OkCredit റേറ്റുചെയ്യുക
+rate_five_star	Rate us 5-stars, Show your love for OkCredit!	हमें 5 सितारा रेट कर, OkCredit से अपना प्यार जताएँ!	5 star rate kare aur OkCredit ko apna pyar de	ਸਾਨੁ 5 ਤਾਰਾ ਰੇਟਿੰਗ ਦੇ ਕੇ, OkCredit ਨਾਲ ਆਪਣਾ ਪਿਆਰ ਜਾਤਾਅੋ !	നിങ്ങൾ OkCredit ഇഷ്ടപ്പെടുന്നുവെങ്കിൽ ഞങ്ങൾക്ക് 5-Star റേറ്റുചെയ്യുക!
+thanks_for_love	Thanks for your love!	आपके सहयोग के लिए धन्यवाद!	Aapke pyaar aur sahyog ke liye dhanyawaad!	ਤੁਹਾਡੇ ਸਹਿਯੋਗ ਲਈ ਧੰਨਵਾਦ!	നിങ്ങളുടെ സ്നേഹത്തിന് നന്ദി!
+rate_five_star_and_reviews	Rate us 5-stars and share reviews!	हमें 5-स्टार रेट करें और अपने विचार व्यक्त करें!	5-stars rating de kar apne reviews share kare!	ਸਾਨੂ 5-ਸਟਾਰ ਰੇਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਪ੍ਰਗਟ ਕਰੋ!	ഞങ്ങൾക്ക് 5-Star റേറ്റുചെയ്യുക, അവലോകനങ്ങൾ പങ്കിടുക!
+rate_playstore	Rate on Play Store	प्लेस्टोरे पे रेट करें	Play Store par Rate kare	ਪਲੇਸਟੋਰੇ ਤੇ ਰੇਟ ਕਰੋ	Play Store- യിൽ റേറ്റുചെയ്യുക
+help_us_make	Help us make OkCredit better!	OkCredit को बेहतर बनाने में सहयोग दें!	OkCredit ko behtar banane me hamari madad kare!	OkCredit ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਸਹਿਯੋਗ ਦਿਓ!	OkCredit മികച്ചതാക്കാൻ ഞങ്ങളെ സഹായിക്കുക!
+submit_feedback	Submit Feedback	प्रतिक्रिया व्यक्त करें	Feedback De	ਫ਼ੀਡਬੈਕ ਜਮ੍ਹਾਂ ਕਰੋ	ഫീഡ്ബാക്ക് സമർപ്പിക്കുക
+feedback_and_suggestions	<![CDATA[Feedback & Suggestions]]>	<![CDATA[प्रतिक्रिया और सुझाव]]>	<![CDATA[Feedback & Sujhaav]]>	<![CDATA[ਫ਼ੀਡਬੈਕ ਅਤੇ ਸੁਝਾਅ]]>	<![CDATA[പ്രതികരണം & നിർദ്ദേശങ്ങൾ]]>
+what_will_make_five_star	What will make OkCredit 5-star app?	OkCredit को 5-स्टार ऐप कैसे बनाएँ?	OkCredit 5-star app kaise ban sakta hai?	OkCredit ਨੂੰ 5-ਸਟਾਰ ਐਪ ਕਿਵੇਂ ਬਣਾਏਂ?	OkCredit 5-സ്റ്റാർ അപ്ലിക്കേഷൻ സൃഷ്ടിക്കുന്നതെന്താണ്?
+please_enter_feedback	Please enter your feedback	कृपया अपनी प्रतिक्रिया दें	Kripya apna feedback Jamaa kare	ਕ੍ਰਿਪਾ ਆਪਣਾ ਫੀਡਬੈਕ ਦਰਜ ਕਰੋ	നിങ്ങളുടെ ഫീഡ്ബാക്ക് നൽകുക
+thanks_for_feedback	Thanks for your valuable feedback	आपके अनमोल प्रतिक्रिया के लिए धन्यवाद!	Aapke bahumulya feedback ke liye dhanyawaad	ਤੁਹਾਡੀ ਕੀਮਤੀ ਫੀਡਬੈਕ ਲਈ ਧੰਨਵਾਦ	നിങ്ങളുടെ വിലപ്പെട്ട ഫീഡ്ബാക്കിന് നന്ദി
+payment_reminder_by	Payment Reminder by	के द्वारा पेमेंट रिमाइंडर।	Payment Reminder by	ਪੇਮੇਂਟ ਰੇਮਾਇੰਡਰ	പേയ്മെന്റ് ഓർമ്മപ്പെടുത്തൽ
+payment_reminder_amount	Amount:	अमाउंट:	amount:	ਰਕਮ	തുക:
+payment_reminder_check_details	Check Details at	डिटेल चेक करें	Details check kare	ਡਿਟੇਲ ਚੇਕ ਕਰੋ	വിശദാംശങ്ങൾ പരിശോധിക്കുക
+send_to_customer	Send to Customer	ग्राहक को भेजें	Customer ko bheje	ਗ੍ਰਾਹਕ ਨੂੰ ਭੇਜੋ	ഉപഭോക്താവിലേക്ക് അയയ്ക്കുക
+send_total_balance	Send total balance due	टोटल उधार बैलेंस भेजें	Total udhaar balance bheje	ਕੁੱਲ ਅਦਾਇਗੀ ਰਕਮ ਭੇਜੋ	നൽകേണ്ട മൊത്തം ബാലൻസ് അയയ്ക്കുക
+send_payment_reminder_whatsapp	Payment Reminder On Whatsapp	पेमेंट रिमाइंडर WhatsApp करें	WhatsApp se Payment Reminder bheje	Whatsapp ਤੇ ਪੇਮੈਂਟ ਰੀਮਾਈਂਡਰ ਭੇਜੋ	വാട്സ്ആപ്പിലെ പേയ്മെന്റ് റിമൈൻഡർ
+summery_of_all	Send summary of all credit and payment after last 0 balance	आखरी 0 बैलेन्स से अभी तक के सारे लेन देन का विवरण	Pichhle 0 balance ke baad saare len-den	ਆਖਰੀ 0 ਬੈਲੰਸ ਤੋਂ ਹੁਣ ਤਕ ਸਾਰੇ ਐਂਟਰੀਆਂ ਦਾ ਸੰਖੇਪ	അവസാനത്തെ ബാലൻസ് കഴിഞ്ഞ് എല്ലാ കടം പേയ്മെന്റും പേയ്മെന്റ് സംഗ്രഹം അയയ്ക്കുക
+mini_statement_whatsapp	Mini Statement On Whatsapp	मिनी स्टेट्मेंट WhatsApp करें	WhatsApp se Mini Statement bheje	WhatsApp ਤੇ ਮਿੰਨੀ ਸਟੇਟਮੈਂਟ ਭੇਜੋ	Whatsapp മിനി സ്റ്റേറ്റ്മെൻറ്
+send_month_report_whatsapp	Monthly Report On Whatsapp	मासिक रिपोर्ट WhatsApp करें	WhatsApp se maasik report bheje	WhatsApp ਤੇ ਮਾਸਿਕ ਰਿਪੋਰਟ ਭੇਜੋ	മാസംതോറുമുള്ള റിപ്പോർട്ട് Whatsapp- ൽ
+send_current_last_summery	Send current month summary of all credit and payment	इस महीने के सारे लेन-देन का विवरण	Is mahine ke saare Udhaar / Payment ka record	ਮੌਜੂਦਾ ਅਤੇ ਪਿਛਲੇ ਮਹੀਨੇ ਦੇ ਸਾਰਾਂਸ ਭੇਜੋ	എല്ലാ കടം, പേയ്മെൻറുകളുടെയും നിലവിലെ മാസ സംഗ്രഹം അയയ്ക്കുക
+sms_reminder	Payment Reminder by SMS 	पेमेंट रिमाइंडर SMS करें	SMS se Payment Reminder bheje	SMS ਤੋਂ ਰੀਮਾਈਂਡਰ ਭੇਜੋ	SMS വഴി പേയ്മെന്റ് റിമൈൻഡർ
+send_sms_from_phone	Send SMS from your phone. Standard SMS rates will apply.	अपने फोने से SMS भेजें. SMS चार्ज आपके मोबाइल सर्विस पर निर्भर है	Apne phone se SMS bhejiye. Standard SMS rates lag sakte hain.	ਆਪਣੇ ਫੋਨ ਤੋਂ SMS ਭੇਜੋ. SMS ਚਾਰਜ ਮੋਬਾਈਲ ਸਰਵਿਸ ਤੇ ਨਿਰਭਰ ਹੈ	നിങ്ങളുടെ ഫോണിൽ നിന്ന് SMS അയയ്ക്കുക. അടിസ്ഥാന SMS നിരക്കുകൾ ബാധകമാകും.
+sms_sent	SMS sent	SMS भेजा गया	SMS bheja gaya	SMS ਭੇਜਿਆ ਗਿਆ	എസ്എംഎസ് അയച്ചു
+sms_send_failed_try_again	SMS Send Failed. Please Try Using SMS App	SMS भेजना विफल। कृपया SMS ऐप्प इस्तेमाल करेंं	SMS bhejna vifal. Kripya apne SMS app ka prayog kare	SMS ਭੇਜਣਾ ਅਸਫਲ. ਕਿਰਪਾ SMS ਐਪ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰੋ	SMS അയയ്ക്കൽ പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്ക്
+no_service_sms_failed	No service, SMS Send Failed	SMS भेजना विफल, सेवा उपलब्ध नहीं	Service maujood nahi hone ke kaaran SMS bhejna vifal	SMS ਭੇਜਣਾਂ ਅਸਫਲ, ਸੇਵਾ ਉਪਲਬਧ ਨਹੀਂ	സേവനമില്ല, SMS അയയ്ക്കൽ പരാജയപ്പെട്ടു
+sms_delivered	SMS delivered	SMS पहुंचा दिया	SMS pahuch gaya	SMS ਭੇਜਤਾ	എസ്എംഎസ് ഡെലിവർ ചെയ്തു
+sms_not_delivered	SMS not delivered	SMS नहीं पहुंचा	SMS nahi bheja gaya	SMS ਪਹੁੰਚਿਆ ਨਹੀਂ	SMS ഡെലിവർ ചെയ്തിട്ടില്ല
+sms_sending	SMS Sending…	SMS भेज रहा है…	SMS bheja jaa raha…	SMS ਭੇਜਣਾ…	SMS അയയ്ക്കുന്നു ...
+language_malayalam	മലയാളം	മലയാളം	മലയാളം	മലയാളം	മലയാളം
+gallery	Gallery	गैलरी	Gallery	ਗੈਲਰੀ	ഗാലറി
+camera	Camera	कैमरा	Camera	ਕੈਮਰਾ	ക്യാമറ
+import_phone_contact_title	Import Phone Contacts	कांटेक्टलिस्ट से जोड़ें	Import Phone Contacts	ਕੰਟੈਕਟ ਤੋਂ ਚੁਣੋ	ഫോൺ കോൺടാക്റ്റുകൾ ഇമ്പോർട്ടു ചെയ്യുക
+import_phone_contact_desc	Sync contacts to add new customers from your phonebook, quickly.	अपने फोनबुक से नए ग्राहकों को जोड़ने के लिए कांटेक्ट को सिंक करें।	Apne customers ko OkCredit me jaldi se jodne ke liye Phonebook se Contact import kare	ਫੋਨਬੂਕ ਤੋਂ ਕਸਟਮਰਸ ਜੋੜਣ ਲਈ ਕੰਟੈਕਟ ਰੀਡ ਕਰਣ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ	നിങ്ങളുടെ ഫോൺബുക്കിൽ പുതിയ ഉപഭോക്താക്കളെ ചേർക്കാൻ കോൺടാക്റ്റുകൾ ഇമ്പോർട്  ചെയ്യുക .
+contacts	Contacts	कांटेक्ट	Contacts	ਕੰਟੈਕਟ	Contacts
+add	Add	जोड़ें	Add	ਜੋੜੋ	ചേർക്കുക
+address	Address	पता	Address	ਪਤਾ	വിലാസം
+name_should_not	The name should not contain more than 30 characters.	नाम में 30 से अधिक वर्ण नहीं होने चाहिए।	Naam me 30 se jyada characters nahi ho sakte	ਨਾਂ ਵਿਚ 30 ਤੋਂ ਜ਼ਿਆਦਾ ਅੱਖਰ ਨਹੀਂ ਹੋ ਸਕਦੇ	പേരിൽ 30 പ്രതീകങ്ങളിൽ കൂടുതൽ ഉണ്ടാകരുത്.
+address_should_not	Address should not contain more than 150 characters.	पते में 150 से अधिक वर्ण नहीं होने चाहिए।	Address maximum 150 characters ka hi ho sakta hai	ਪਤੇ ਵਿਚ 150 ਤੋਂ ਜ਼ਿਆਦਾ ਅੱਖਰ ਨਹੀਂ ਹੋ ਸਕਦੇ	വിലാസത്തിൽ 150 പ്രതീകങ്ങളിൽ കൂടുതൽ അടങ്ങിയിരിക്കരുത്.
+invalid_phone	Enter 10 digit mobile number	10 अंकों का सही मोबाइल नंबर डालें	10 digit ka correct mobile number likhe	ਵੈਲਿਡ 10 ਡਿਜ਼ੀਟ ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ	10 അക്ക മൊബൈൽ നമ്പർ നൽകുക
+where_do_you_want_choose_from	Where do you want choose from?	आप कहां से चुनना चाहते हैं?	Kaha se choose karna chahte hain?	ਫੋਟੋ ਕਿੱਥੋਂ ਚੋਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?	എവിടെ നിന്ന് നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കണം?
+txn_gallery_permission_msg	Please allow gallery permission for adding bill	बिल जोड़ने के लिए गैलरी परमिशन दें	Bill ki photo jodne ke liye gallery ki permission de	ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ	ബിൽ ചേർക്കാൻ അനുവദിക്കുക ഗ്യാലറി അനുമതി നൽകുക
+customer_profile_camera_permission_msg	Please allow camera permission for uploading image	बिल जोड़ने के लिए कैमरा परमिशन दें	Bill ki photo jodne ke liye camera permission de	ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ	ഇമേജ് അപ്ലോഡുചെയ്യുന്നതിന് ദയവായി ക്യാമറ അനുവാദം അനുവദിക്കുക
+customer_profile_gallery_permission_msg	Please allow gallery permission for uploading image	बिल जोड़ने के लिए गैलरी परमिशन दें	Bill ki photo jodne ke liye gallery ki permission de	ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਗੈਲਰੀ ਪਰਮਿਸ਼ਨ ਦੋ	ഇമേജ് അപ്ലോഡ് ചെയ്യുന്നതിനായി ഗ്യാലറി അനുമതി ദയവായി അനുവദിക്കുക
+add_first_customer	ADD YOUR FIRST CUSTOMER	अपना पहला ग्राहक जोड़ें	APNA FIRST CUSTOMER JODIYE	ਆਪਣਾ ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ	നിങ്ങളുടെ ആദ്യ കസ്റ്റമർ ചേർക്കുക
+home_sort_last_payment	Payment Due	पेमेंट ड्यू	Payment due	ਜਮਾ ਡਯੂ‌	അവസാന പേയ്മെന്റ്
+privacy_policy	Privacy Policy	गोपनीयता नीति	Privacy Policy	ਗੋਪਨੀਯਤਾ ਨੀਤੀ	സ്വകാര്യതാനയം
+add_mobile_desc	Add mobile to send a free SMS for every transaction	हर लेनदेन का अपडेट भेजने के लिए मोबाइल जोड़ें	Har len den ka update bhejne ke liye mobile jode	ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਅਪਡੇਟ ਭੇਜਣ ਲਈ ਮੋਬਾਇਲ ਜੋੜੋ	ഓരോ ഇടപാടിനും സൗജന്യ SMS അയയ്ക്കാൻ മൊബൈൽ ചേർക്കുക
+edit_mobile	Edit Mobile Number	मोबाइल नंबर बदले	Mobile Number badle	ਮੋਬਾਇਲ ਨੰਬਰ ਬਦਲੋ	മൊബൈൽ നമ്പർ എഡിറ്റുചെയ്യുക
+enter_4_digit_code_sent_on_new_mobile_number_of	Enter 4 digit code sent on new mobile number of	नए मोबाइल नंबर पर भेजे गए 4 अंकों का कोड दर्ज करें	Naye mobile number par bheja hua 4 digit code bharen	ਨਵੇਂ ਮੋਬਾਇਲ ਨੰਬਰ ਤੇ ਭੇਜਿਆ ਹੋਇਆ 4 digit ਕੋਡ ਭਰੋ	പുതിയ മൊബൈൽ നമ്പറിലേക്ക് അയച്ച 4 അക്ക കോഡ് നൽകുക
+didnt_code	Didn’t receive code?	कोड प्राप्त नहीं हुआ?	Code nahi aaya?	ਕੋਡ ਆਇਆ ਨਹੀਂ	കോഡ് ലഭിച്ചില്ലേ?
+resend	RESEND	पुन: भेजें	RESEND	ਦੋਬਾਰਾ ਭੇਜੋ	വീണ്ടും അയയ്ക്കുക
+wrong_code_enter_correct_code	Wrong Code ! Enter Correct Code	गलत कोड ! सही कोड भरें	Galat Code ! Sahi Code Enter Kare	ਗ਼ਲਤ ਕੋਡ! ਸਹੀ ਕਦੇ ਭਰੋ.	തെറ്റായ കോഡ് ! ശരിയായ കോഡ് നൽകുക
+delete_cus	Delete Customer	ग्राहक डिलीट करें	Delete Customer	ਡਿਲੀਟ ਕਸਟਮਰ	ഉപഭോക്താവിനെ Delete ആകു
+custpr_add_address	Add Address	पता जोड़ें	Address jodiye	ਪਤਾ ਜੋੜੋ	വിലാസം ചേർക്കുക
+invalid_name	Invalid Name	अमान्य नाम	Invalid Naam	ਇਨਵੈਲਿਡ ਨਾਂ	അസാധുവായ പേര്
+invalid_address	Invalid Address	अमान्य पता	Invalid Address	ਇਨਵੈਲਿਡ ਪਤਾ	വിലാസം അസാധുവാണ്
+invalid_mobile	Invalid Mobile Number	अमान्य मोबाइल नंबर	Invalid Mobile Number	ਇਨਵੈਲਿਡ ਮੋਬਾਈਲ ਨੰਬਰ	മൊബൈൽ നമ്പർ അസാധുവാണ്
+currently_using	%1$s (currently in use)	%1$s (वर्तमान में उपयोग में है)	%1$s (Abhi use me hai)	%1$s ਹਜੇ ਤਕ ਕੋਈ ਨੰਬਰ ਨਹੀਂ ਜੋੜਿਆ ਹੈ	%1$s (നിലവിൽ ഉപയോഗത്തിലാണ്)
+currently_no_number	Currently no number added	अभी कोई नंबर नहीं जोड़ा है	Abhi koi number nahi juda hai	ਹਜੇ ਤਕ ਕੋਈ ਨੰਬਰ ਨਹੀਂ ਜੋੜਿਆ ਹੈ	നിലവിൽ മൊബൽ നമ്പർ ചേർത്തിട്ടില്ല
+seconds	Seconds	सेकंड	Seconds	ਸੈਕੰਡ	സെക്കൻഡ്
+successfully_completed_mobile	Successfully changed mobile number.	मोबाइल नंबर को सफलतापूर्वक बदल दिया ।	Mobile number successfully changed.	ਮੋਬਾਇਲ ਨੰਬਰ ਨੂੰ ਬਦਲ ਦਿੱਤਾ ਗਿਆ	മൊബൈൽ നമ്പർ മാറ്റിയിരിക്കുന്നു.
+reset_otp	OTP expired. Please resend Otp.	OTP की समय सीमा समाप्त, कृपया दोबारा प्रयास करें	OTP expired. Kripya dobara prayas kare.	OTP ਦਾ ਸਮਾਂ ਸੀਮਾ ਖਤਮ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ	OTP പുതുക്കുക. ദയവായി Otp വീണ്ടും അയക്കുക.
+hinglish	Hinglish	Hinglish	Hinglish	Hinglish	Hinglish
+dismiss	Dismiss	हटाएँ	Hataye	ਹਟਾਓ	നീക്കം ചെയ്യുക
+txn_synced	Sync successful	सिंक हो गया	Sync Ho Gaya	ਸਿੰਕ ਹੋ ਗਿਆ	Sync വിജയകരം
+txn_syncing	Syncing…	सिंक हो रहा है…	Sync Ho Raha Hai…	ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ…	Sync നടന്നുകൊണ്ടിരിക്കുന്നു  ...
+txn_sync_pending	Waiting to sync…	सिंक करने की प्रतीक्षा में…	Sync Hone Ka Wait Kar Raha Hai…	ਸਿੰਕ ਕਰਨ ਦੀ ਉਡੀਕ ਵੀਚ…	Sync ചെയ്യാൻ  കാത്തിരിക്കുന്നു ...
+txn_sync_now	Sync Now	सिंक करें	Sync Karen	ਸਿੰਕ ਕਰੋ	ഇപ്പോൾ Sync ചെയ്യുക 
+home_internet_connected	Internet connected	इंटरनेट जुड़ा हुआ है	Internet Juda Hua Hai	ਇੰਟਰਨੈਟ ਜੁੜਿਆ ਹੋਇਆ ਹੈ	ഇന്റർനെറ്റ് കണക്റ്റുചെയ്തു
+send_otp_message	A code will be send to <![CDATA[<b>%1$s</b>]]> on the mentioned mobile number. Enter that code to save the change	दिए गए मोबाइल नम्बर पर %1$s को एक कोड भेजा जाएगा । बदलाव कि पुस्टी के लिए, उस कोड को दर्ज करें	Diye Gaye Mobile Number Par %1$s Ko Ek Code Bheja Jayega. Change Ko Save Karne Ke Liye, Code Dalen	ਦਿੱਤੇ ਗਏ ਮੋਬਾਈਲ ਨੰਬਰ ਤੇ %1$s ਨੂੰ ਇੱਕ ਕੋਡ ਭੇਜਿਆ ਜਾਵੇਗਾ । ਤਬਦੀਲੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ, ਉਸ ਕੋਡ ਨੂੰ ਭਰੋ	<![CDATA[സൂചിപ്പിച്ച മൊബൈൽ നമ്പറിൽ ഒരു കോഡ് %1$s എന്നുള്ള ഉപപോക്താവിന്‌ അയയ്ക്കും. മാറ്റം ചെയ്യാൻ ആ കോഡ് നൽകുക]]>
+touch_again_exit	Touch again to exit	बाहर निकलने के लिए पुनः स्पर्श करें	Exit Karne Ke Liye Dubara Touch Karen	ਬਾਹਰ ਆਉਣ ਲਈ ਦੁਬਾਰਾ ਟਚ ਕਰੋ	പുറത്തുകടക്കാൻ വീണ്ടും ടച്ച് ചെയ്യുക 
+send	Send	भेजिये	Bheje	ਭੇਜੋ	അയയ്ക്കുക
+permission_text	Permission	अनुमति	Anumati	ਅਨੁਮਤੀ	അനുമതി
+contact_permission_denied	You need to give contact permission for Importing contacts! Go into your system settings, and enable contact permission.	कांटैक्ट्स इम्पोर्ट करने के लिए, आपको कांटैक्ट्स इम्पोर्ट की अनुमति देनी होगी। अपने मोबाइल सेटिंग्स में जाकर, कांटैक्ट्स अनुमति सक्षम करें	Contacts Import Karne Ke Liye, Aapko Contacts Import Ki Anumati Deni Hogi. Apne Mobile Settings Me Jakar, Contacts Permission Enable Karen	ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਕਰਨ ਦਿ ਅਨੁਮਤੀ ਦੇਣੀ ਪਵੇਗੀ। ਆਪਣੇ ਮੋਬਾਇਲ ਸੈਟਿੰਗ ਤੇ ਜਾਓ ਅਤੇ ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਸਮਰੱਥ ਕਰੋ	കോൺടാക്റ്റുകൾ ഇമ്പോർട്ടുചെയ്യുന്നതിന് നിങ്ങൾ സമ്പർക്ക അനുമതി നൽകേണ്ടതുണ്ട്! നിങ്ങളുടെ സിസ്റ്റം ക്രമീകരണങ്ങളിലേക്ക് പോയി കോൺടാക്റ്റ് അനുമതി പ്രാപ്തമാക്കുക.
+settings_title	Go to settings	सेटिंग्स में जाएँ	Settings Me Jayen	ਸੈਟਿੰਗ ਵਿੱਚ ਜਾਓ	ക്രമീകരണങ്ങളിലേക്ക് പോകുക
+whatsapp_page_description	OkCredit will send useful information about your OkCredit account registered with %1$s on Whatsapp	OkCredit आपके WhatsApp पर %1$s के साथ पंजीकृत आपके OkCredit खाते के बारे में उपयोगी जानकारी भेजेगा	OkCredit Aapke WhatsApp Par %1$s Ke Saath Registered Aapke OkCredit Khate Ke Baare Me Upyogi Jankari Bhejaga	OkCredit आपके WhatsApp पर %1$s के साथ पंजीकृत आपके OkCredit खाते के बारे में उपयोगी जानकारी भेजेगा	നിങ്ങളുടെ OkCredit അക്കൌണ്ടിനെക്കുറിച്ച് Whatsapp-ൽ രജിസ്റ്റർ ചെയ്ത %1$s നമ്പറിൽ ഉപയോഗപ്രദമായ വിവരങ്ങൾ OkCredit അയയ്ക്കും
+whatsapp_page_title	Get Update On WhatsApp	WhatsApp पर अपडेट प्राप्त करें	WhatsApp Par Update Prrapt Karen	WhatsApp पर अपडेट प्राप्त करें	whatsapp അപ്ഡേറ്റ് ഓൺ ആകു 
+yes_please_send	Yes, Please Send	हाँ, कृपया भेजें	Yes, Please Send	हाँ, कृपया भेजें	അതെ, അയയ്ക്കുക
+no_don_t_send	No, Don\'t Send	नहीं, भेजें नहीं	No, Don\'t Send	नहीं, भेजें नहीं	ഇല്ല, അയയ്ക്കരുത്
+phone_number	Phone Number	फ़ोन नंबर	Phone Number	ਫੋਨ ਨੰਬਰ	ഫോൺ നമ്പർ
+this_is_your_profile_business_name	This is your Profile/Business name. This name will be visible to your customers.	ये आपका प्रोफाइल / व्यवसाय का नाम है। ये नाम आपके ग्राहकों को दिखाई देगा।	Ye Aapka Profile / Business Name Hai. Ye Name Aapke Customers Ko Dikhai Dega	ਇਹ ਤੁਹਾਡਾ ਪ੍ਰੋਫਾਇਲ / ਵਪਾਰ ਦਾ ਨਾਂ ਹੈ. ਇਹ ਨਾਮ ਤੁਹਾਡੇ ਗਾਹਕਾਂ ਨੂੰ ਦਿਖਾਈ ਦੇਵੇਗਾ.	ഇതാണ് നിങ്ങളുടെ പ്രൊഫൈല് /ബിസിനസ്സ് നാമം. ഈ പേര് നിങ്ങളുടെ ഉപഭോക്താക്കൾക്ക് കാണാവുന്നതാണ് .
+crop_image	Crop Image	फ़ोटो काटें	Crop Image	ਫੋਟੋ ਕਰੋਪ ਕਰੋ	ക്രോപ് ഇമേജ് 
+profile_name	Profile Name	प्रोफ़ाइल नाम	Profile Name	ਪ੍ਰੋਫਾਈਲ ਨਾਮ	പ്രൊഫൈൽ പേര്
+set_current_location	Set Current Location	वर्तमान स्थान सेट करें	Current Location Set Karen	ਵਰਤਮਾਨ ਸਥਿਤੀ ਸੈਟ ਕਰੋ	നിലവിലുള്ള സ്ഥലം സെറ്റ് ചെയ്യുക 
+business_card_share_text	Hey, please save my business card for any business enquiries!	व्यवसाय सम्बंधित पूछताछ के लिए, कृपया मेरा बिज़्नेस कार्ड रखें।	Business Enquiries Ke Liye, Please Mera Business Card Rakhen.	ਕਾਰੋਬਾਰੀ ਪੁੱਛਤਾਛ ਲਈ, ਕਿਰਪਾ ਸਾਡਾ ਬਿਜਨੇਸ ਕਾਰਡ ਰੱਖੋ	ഹേയ്, എന്തെങ്കിലും ബിസിനസ്സ് അന്വേഷണങ്ങൾക്കായി എന്റെ ബിസിനസ് കാർഡ് സംരക്ഷിക്കൂ!
+email	Email	undefined	undefined	undefined	undefined
+about_store	About	undefined	undefined	undefined	undefined
+about_business	About Your Business	undefined	undefined	undefined	undefined
+about_should_not	About should not contain more than 500 characters	undefined	undefined	undefined	undefined
+email_should_not	Email should not contain more than 40 characters	undefined	undefined	undefined	undefined
+invalid_email	Invalid Email	undefined	undefined	undefined	undefined
+invalid_about	Invalid	undefined	undefined	undefined	undefined
+contact_person	Contact Person Name	undefined	undefined	undefined	undefined

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_tagline">ਸੌਖਾ. ਪੱਕਾ. ਸੁਰੱਖਿਅਤ.</string>
+    <string name="txn_invalid_amount">ਅਯੋਗ ਰਕਮ</string>
+    <string name="txn_incorrect_password">ਗ਼ਲਤ ਪਾਸਵਰਡ</string>
+    <string name="txn_give_credit_to">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="bill_attached">ਬਿੱਲ ਜੋੜਿਆ ਗਿਆ</string>
+    <string name="view">ਦੇਖੋ</string>
+    <string name="txn_amount">ਰਕਮ</string>
+    <string name="txn_return_successful">ਵਾਪਸੀ ਸਫਲ</string>
+    <string name="txn_final_balance">ਫਾਇਨਲ ਬੈਲੇਂਸ</string>
+    <string name="sms_sent_to_customer">ਲੈਣ-ਦੇਣ ਫੋਨ ਤੇ ਰਿਕਾਰਡ ਕਿੱਤਾ ਗਯਾ</string>
+    <string name="txn_goto_home">ਹੋਮਪੇਜ</string>
+    <string name="txn_add_more">ਹੋਰ ਜੋੜੋ</string>
+    <string name="txn_failure_msg">ਲੇਣ-ਦੇਣ ਰਿਕਾਰਡ ਕਰਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ</string>
+    <string name="txn_timestamp_label">ਤਾਰੀਖ</string>
+    <string name="txn_camera_permission_msg">ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="txn_add_credit_title">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="txn_add_payment_title">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="txn_add_return_title">ਵਾਪਸੀ</string>
+    <string name="txn_confirm_title">ਕੰਫਰਮ</string>
+    <string name="txn_accept_payment_from">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="txn_return_amount_to">ਵਾਪਸੀ</string>
+    <string name="txn_credit_success_title">ਉਧਾਰ ਸਫਲ</string>
+    <string name="txn_payment_success_title">ਜਮਾ ਸਫਲ</string>
+    <string name="txn_return_success_title">ਵਾਪਸੀ ਸਫਲ</string>
+    <string name="txn_failure_title">ਲੇਣ-ਦੇਣ ਵਿਫਲ</string>
+    <string name="txn_credit_given_to">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="txn_credit_title">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="txn_payment_accepted_from">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="txn_payment_title">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="txn_returned_amount_to">ਵਾਪਸੀ</string>
+    <string name="txn_return_title">ਵਾਪਸੀ</string>
+    <string name="txn_receipt_available">ਬਿੱਲ ਮੌਜੂਦ</string>
+    <string name="txn_receipt_not_available">ਬਿੱਲ ਨਹੀਂ ਹੈ</string>
+    <string name="txn_return_desc">ਕਸਟਮਰ ਤੋਂ ਸਾਮਾਨ ਵਾਪਸ ਲਓ ਜਾਂ ਉਧਾਰ ਰਿਫੰਡ ਕਰੋ</string>
+    <string name="txn_add_return_btn">ਵਾਪਸੀ</string>
+    <string name="txn_password_desc">ਪਾਸਵਰਡ ਕਿਸੀ ਹੋਰ ਹੱਥੋਂ ਤੁਹਾਡੇ ਅਕਾਊਂਟ ਦੇ ਬੈਲੇਂਸ ਨੂੰ ਬਦਲਣ ਤੋਂ ਰੋਕਦਾ ਹੈ</string>
+    <string name="ok">OK</string>
+    <string name="balance">ਬੈਲੇਂਸ</string>
+    <string name="advance">ਐਡਵਾਂਸ</string>
+    <string name="cancel">ਕੈਂਸਲ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="help">ਸਵਾਲ-ਜਵਾਬ</string>
+    <string name="tx_credit">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="tx_payment">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="tx_return">ਸਮਾਨ ਵਾਪਸੀ</string>
+    <string name="next">OK</string>
+    <string name="done">OK</string>
+    <string name="try_again">ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="mobile">ਮੋਬਾਇਲ</string>
+    <string name="no_receipt">ਬਿਨਾਂ ਬਿੱਲ</string>
+    <string name="bill">ਬਿਲ</string>
+    <string name="customers">ਕਸਟਮਰ</string>
+    <string name="no_tx">ਹਜੇ ਤਕ ਕੋਈ ਲੇਣ-ਦੇਣ ਨਹੀਂ  </string>
+    <string name="err_default">ਤਕਨੀਕੀ ਸਮੱਸਿਆ. ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ. </string>
+    <string name="err_invalid_mobile">ਵੈਲਿਡ 10 ਡਿਜ਼ੀਟ ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ</string>
+    <string name="err_network_title">ਨੋ ਇੰਟਰਨੇਟ</string>
+    <string name="err_network">ਇੰਜ ਜਾਪਦਾ ਹੈ ਕਿ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੇ ਨਾਲ ਕੁਝ ਮੁੱਦਾ ਹੈ</string>
+    <string name="language_title">ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="welcome_title">ਜੀ ਆਇਆਂ ਨੂੰ OkCredit</string>
+    <string name="welcome_get_started">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="mobile_title">ਮੋਬਾਇਲ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰੋ </string>
+    <string name="login_enter_password">ਪਾਸਵਰਡ ਦਾਖ਼ਲ ਕਰੋ</string>
+    <string name="login_err">ਸਾਇਨ ਇਨ ਅਸਫਲ ਰਿਹਾ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="register_verify_mobile_title">ਮੋਬਾਇਲ ਨੰਬਰ ਵੇਰਿਫਿਕੇਸ਼ਨ</string>
+    <string name="register_verify_mobile_msg">SMS ਵਿੱਚ OTP ਭੇਜ ਕੇ ਅਸੀਂ ਤੁਹਾਡਾ ਮੋਬਾਇਲ ਨੰਬਰ ਵੈਰੀਫਾਈ ਕਰਣਗੇ। </string>
+    <string name="register_send_otp">OTP ਭੇਜੋ</string>
+    <string name="register_user_agreement">ਜਾਰੀ ਰੱਖਨ ਤੇ, ਤੁਸੀ ਸਾਡੀ <a href="https://www.okcredit.in/terms">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a href="https://www.okcredit.in/privacy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੋ|</string>
+    <string name="register_name_title_shop">ਤੁਹਾਡੀ ਦੁਕਾਨ ਦਾ ਨਾਮ ਕੀ ਹੈ?</string>
+    <string name="register_name_title_individual">ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਮ ਕੀ ਹੈ?</string>
+    <string name="register_name_msg">ਤੁਹਾਡੇ ਗਾਹਕਾਂ ਨੂੰ ਇਸੀ ਨਾਮ ਤੋੰ ਉਧਾਰ/ਭੁਗਤਾਨ ਦਾ SMS ਜਾਇਆ ਕਰਨਾ </string>
+    <string name="register_shop_name">ਦੁਕਾਨ ਦਾ ਨਾਮ</string>
+    <string name="register_individual_name">ਪੂਰਾ ਨਾਮ</string>
+    <string name="register_dont_own_a_shop">ਮੇਰੇ ਕੋਲ ਦੁਕਾਨ ਨਹੀਂ ਹੈ</string>
+    <string name="register_own_a_shop">ਮੇਰੇ ਕੋਲ ਇੱਕ ਦੁਕਾਨ ਹੈ</string>
+    <string name="register_err_name">ਘੱਟੋ ਘੱਟ 3 ਅੱਖਰ ਲੰਬਾ ਹੋਣਾ ਚਾਹੀਦਾ। ਸਿਰਫ ਨੰਬਰਾਂ ਵਾਲੇ ਨਾਂ ਵੀ ਨੀ ਚੱਲਣੇ। </string>
+    <string name="register_password_title">ਆਪਣਾ ਪਾਸਵਰਡ - ਸੁਰੱਖਿਅਤ ਖਾਤਾ</string>
+    <string name="register_password_msg">ਘੱਟੋ ਘੱਟ 6 ਅੰਕਾਂ ਦੇ ਪਰਸਨਲ ਪਾਸਵਰਡ ਨਾਲ ਆਪਣਾ ਖਾਤਾ ਸੁਰੱਖਿਅਤ ਬਣਾਓ</string>
+    <string name="register_fallback_title">SMS ਵਿੱਚ ਆਇਆ OTP ਦਾਖ਼ਲ ਕਰੋ </string>
+    <string name="register_fallback_subtitle">ਔਟੋਮੈਟਿਕੈਲੀ OTP ਪੜ੍ਹਨ ਵਿੱਚ ਅਸਫਲ </string>
+    <string name="register_err_incorrect_otp">ਗ਼ਲਤ OTP</string>
+    <string name="register_fallback_otp_not_received_msg">OTP ਨਹੀਂ ਆਇਆ?</string>
+    <string name="register_err_otp_not_sent">OTP ਭੇਜਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ! ਤੁਹਾਡੀ ਅਸੁਵਿਧਾ ਦੇ ਲਈ ਮਾਫ ਕਰਨਾ</string>
+    <string name="register_fallback_call">ਫੋਨ ਕਰੋ </string>
+    <string name="register_fallback_whatsapp">WhatsApp ਵੇਰਿਫਿਕੇਸ਼ਨ</string>
+    <string name="register_fallback_whatsapp_msg">Hi, I want to create a new OkCredit account</string>
+    <string name="register_success_title">ਨਵਾਂ ਪਰਸਨਲ ਖਾਤਾ </string>
+    <string name="register_success_mobile_verified">ਮੋਬਾਇਲ ਨੰਬਰ ਵੇਰੀਫਾਇਡ </string>
+    <string name="register_success_account_created">ਖਾਤਾ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ</string>
+    <string name="register_success_secured">ਪਾਸਵਰਡ ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ</string>
+    <string name="register_success_goto_home">ਹੋਮ ਸਕ੍ਰੀਨ ਜਾਓ </string>
+    <string name="search_customers">ਖੋਜੋ</string>
+    <string name="customer_not_found"><![CDATA[<b>%1$s</b> ਨਾਮ ਦਾ ਕੋਈ ਕਸਟਮਰ ਨਹੀਂ]]></string>
+    <string name="no_customers">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਕਸਟਮਰ ਨਹੀਂ ਹੈ</string>
+    <string name="err_load_customers">ਕਸਟਮਰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="add_customer">ਕਸਟਮਰ ਜੋੜੋ</string>
+    <string name="add_customer_short">ਜੋੜੋ</string>
+    <string name="add_customer_first">ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ</string>
+    <string name="paid_today">ਆਖਰੀ ਜਮਾ: ਅੱਜ</string>
+    <string name="paid_yesterday">ਆਖਰੀ ਜਮਾ: ਕੱਲ੍ਹ</string>
+    <string name="paid_on_date">ਆਖਰੀ ਜਮਾ: %1$s</string>
+    <string name="overdue_warning">ਜਮਾ ਡਯੂ: 1 ਮਹੀਨੇ+</string>
+    <string name="not_paid">ਨੋ ਜਮਾ</string>
+    <string name="logout">ਸਾਇਨ ਆਉਟ</string>
+    <string name="refresh">ਤਾਜ਼ਾ ਕਰੋ</string>
+    <string name="about">ਸਾਡੇ ਬਾਰੇ</string>
+    <string name="title_add_customer">ਨਵਾਂ ਕਸਟਮਰ</string>
+    <string name="save_customer_name">ਨਾਮ ਜਾਂ ਪਤਾ</string>
+    <string name="save_customer_mobile">ਮੋਬਾਇਲ (ਓਪਸ਼ਨਲ)</string>
+    <string name="save_customer_loading">ਕਸਟਮਰ ਸੇਵ ਕਿੱਤਾ ਜਾ ਰਿਹਾ... </string>
+    <string name="err_invalid_desc">ਘੱਟੋ ਘੱਟ 3 ਅੱਖਰ ਲੰਬਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ</string>
+    <string name="err_mobile_conflict">%1$s ਨਾਂ ਦੇ ਗਾਹਕ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰਡ ਹੈ</string>
+    <string name="err_deleted_customer_conflict">ਤੁਸੀਂ ਪਹਿਲਾਂ ਇਸ ਮੋਬਾਇਲ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ ਡਿਲੇਟ ਕਿੱਤਾ ਸੀ। ਇਸ ਮੋਬਾਇਲ ਨੂੰ ਕਿਸੀ ਦੂਜੇ ਕਸਟਮਰ ਨਾਲ ਨਹੀਂ ਜੋੜਿਆ ਜਾ ਸਕਦਾ। ਜੇ ਤੁਸੀਂ ਇਸੀ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਕਸਟਮਰ ਜੋੜੋ ਪੇਜ ਤੇ ਜਾ ਕੇ ਇਸਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ।</string>
+    <string name="err_mobile_conflict_default">ਕਿਸੀ ਹੋਰ ਕਸਟਮਰ ਨਾਲ ਪਹਿਲਾਂ ਹੀ ਸੇਵ ਹੈ</string>
+    <string name="err_desc_conflict">ਇਸ ਨਾਮ ਨਾਲ %1$s ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ, ਦੂਜਾ ਨਾਮ ਰੱਖੋ </string>
+    <string name="err_desc_conflict_default">ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ</string>
+    <string name="err_save_customer">ਕਸਟਮਰ ਨੂੰ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="edit_customer">ਸੇਵ ਕਸਟਮਰ </string>
+    <string name="select_from_phonebook">ਫ਼ੋਨਬੁਕ ਤੋਂ ਚੁਣੋ</string>
+    <string name="title_customer">ਕਸਟਮਰ</string>
+    <string name="txn_add_payment_btn">ਜਮਾ ਕਿੱਤਾ</string>
+    <string name="txn_add_credit_btn">ਉਧਾਰ ਦਿੱਤਾ</string>
+    <string name="title_edit_customer">ਕਸਟਮਰ ਦੀ ਜਾਣਕਾਰੀ ਬਦਲੋ </string>
+    <string name="err_load_tx">ਲੇਣ-ਦੇਣ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="show_settled">ਪੁਰਾਣੇ ਦੇਖੋ</string>
+    <string name="hide_settled">ਪੁਰਾਣੇ ਲੁਕਾਓ</string>
+    <string name="edit">ਜਾਣਕਾਰੀ ਬਦਲੋ</string>
+    <string name="delete">ਡਿਲੀਟ</string>
+    <string name="mobile_edit_denied">ਇਸ ਮੋਬਾਇਲ ਦਾ ਕਸਟਮਰ ਪਹਿਲਾਂ ਮੌਜੂਦ ਹੈ</string>
+    <string name="due_before_payment">ਬੈਲੰਸ (ਜਮਾ ਤੋਂ ਪਹਿਲਾਂ)</string>
+    <string name="advance_before_payment">ਐਡਵਾਂਸ (ਜਮਾ ਤੋਂ ਪਹਿਲਾਂ)</string>
+    <string name="due_after_payment">ਬੈਲੰਸ (ਜਮਾ ਦੇ ਬਾਅਦ)</string>
+    <string name="advance_after_payment">ਐਡਵਾਂਸ (ਜਮਾ ਦੇ ਬਾਅਦ)</string>
+    <string name="payment_amount">ਜਮਾ ਰਾਸ਼ੀ</string>
+    <string name="delete_confirm_title">ਕੰਫਰਮ ਡਿਲੀਟ</string>
+    <string name="delete_confirm_msg">ਕੀ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਰੂਪ ਤੋਂ %1$s ਡਿਲੀਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="delete_loading">ਕਸਟਮਰ ਨੂੰ ਡਿਲੀਟ ਕਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="delete_success">ਕਸਟਮਰ ਡਿਲੀਟ ਸਫਲ</string>
+    <string name="delete_denied">ਕਸਟਮਰ ਡਿਲੀਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਉਸਦਾ ਬੈਲੰਸ 0 ਕਰੋ</string>
+    <string name="delete_failed">ਗਾਹਕ ਡਿਲੀਟ ਅਸਫਲ</string>
+    <string name="account">ਖਾਤਾ</string>
+    <string name="account_security_title">ਸੁਰੱਖਿਆ</string>
+    <string name="account_settings_title">ਸੇਟਿੰਗਸ</string>
+    <string name="account_statement">ਖਾਤਾ ਬਿਆਨ</string>
+    <string name="download_backup">ਬੈਕਅਪ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="net_amount">ਕੁੱਲ ਰਾਸ਼ੀ</string>
+    <string name="tx_count">ਲੈਣ-ਦੇਣ </string>
+    <string name="logout_from_all_devices">ਸਾਰੇ ਫੋਨਾਂ ਤੋਂ ਸਾਇਨ ਆਊਟ ਕਰੋ </string>
+    <string name="all">ਸਭ</string>
+    <string name="today">ਅੱਜ</string>
+    <string name="yesterday">ਕੱਲ੍ਹ</string>
+    <string name="this_week">ਇਸ ਹਫ਼ਤੇ</string>
+    <string name="last_week">ਪਿਛਲੇ ਹਫ਼ਤੇ</string>
+    <string name="this_month">ਇਹ ਮਹੀਨਾ</string>
+    <string name="last_month">ਪਿਛਲਾ ਮਹੀਨਾ</string>
+    <string name="account_report_loading">ਰਿਪੋਰਟ ਤੈਯਾਰ ਕਿੱਤਾ ਜਾ ਰਿਹਾ।…</string>
+    <string name="account_reminder">ਰਿਮਾਇੰਡਰ</string>
+    <string name="account_language">ਭਾਸ਼ਾ</string>
+    <string name="account_profile">ਪ੍ਰੋਫਾਇਲ</string>
+    <string name="account_incorrect_password">ਗ਼ਲਤ ਪਾਸਵਰਡ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ ਕਰੋ</string>
+    <string name="account_report_download_started">ਡਾਊਨਲੋਡ ਸ਼ੁਰੂ ਹੋ ਗਿਆ, ਪ੍ਰੋਗ੍ਰੈਸ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ ਚੈੱਕ ਕਰੋ</string>
+    <string name="update_password_failed">ਪਾਸਵਰਡ ਅਪਡੇਟ ਫੇਲ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="logout_failed">\"ਲੌਗ ਆਊਟ ਫੇਲ, ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। \"</string>
+    <string name="report_generation_failed">ਰਿਪੋਰਟ ਬਣਾਉਣ ਵਿੱਚ ਤਕਨੀਕੀ ਬਾਧਾ। ਦੋਬਾਰਾ ਪ੍ਰਯਾਸ ਕਰੋ।</string>
+    <string name="update_password">ਪਾਸਵਰਡ ਬਦਲੋ </string>
+    <string name="old_password">ਪੁਰਾਣਾ ਪਾਸਵਰਡ</string>
+    <string name="new_password">ਨਵਾਂ ਪਾਸਵਰਡ</string>
+    <string name="err_invalid_password">ਅਵੈਧ ਪਾਸਵਰਡ (ਘੱਟੋ ਘੱਟ 6 ਅੱਖਰਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ)</string>
+    <string name="confirm_logout">ਕੰਫਰਮ ਸਾਇਨ ਆਉਟ?</string>
+    <string name="update_required">ਅਪਡੇਟ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="goto_play_store">ਪਲੇ ਸਟੋਰ ਖੋਲੋ</string>
+    <string name="update_msg">ਤੁਹਾਡੇ OKਕ੍ਰੇਡਿਟ ਐਕਸਪੀਰੀਐਂਸ ਨੂੰ ਬੇਜੋਡ਼ ਬਣਾਉਣ ਲਈ ਅਸੀਂ ਲਗਾਤਾਰ ਪ੍ਰਯਾਸਰਤ ਹਾਂ</string>
+    <string name="update_notification_msg">ਨਵੇਂ ਅਪਡੇਟ ਬਾਰੇ ਜਾਣੋ</string>
+    <string name="update_summary_title">ਨਵੇਂ ਅਪਡੇਟ</string>
+    <string name="help_screen_action_title">ਜਾਣਕਾਰੀ</string>
+    <string name="help_whatsapp">ਸਾਨੂੰ WhatsApp ਕਰੋ</string>
+    <string name="help_menu_item">ਫੋਨ ਕਰੋ</string>
+    <string name="help_whatsapp_msg">ਮੈਂ OKਕ੍ਰੇਡਿਟ ਦੇ ਬਾਰੇ ਕੁਛ ਪੁੱਛਣਾ ਚਾਹੁੰਦਾ ਹਾਂ</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="language_punjabi">ਪੰਜਾਬੀ</string>
+    <string name="reminder_on">ਆੱਨ</string>
+    <string name="reminder_off">ਆੱਫ</string>
+    <string name="in_app_language_activity_title">ਭਾਸ਼ਾ ਬਦਲੋ</string>
+    <string name="send_reminders">ਰਿਮਾਇੰਡਰ ਭੇਜੋ</string>
+    <string name="reminder_explaination">ਜੇ ਤੁਸੀਂ ਰਿਮਾਇੰਡਰ ON ਕਰਦੇ ਹੋ ਤਾਂ ਹਰ ਮਹੀਨੇ ਦੀ 5 ਤਾਰੀਖ ਨੂੰ ਸਾਰੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ SMS ਨੋਟੀਫਿਕੇਸ਼ਨ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ। 5 ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ OKਕ੍ਰੇਡਿਟ ਵਿੱਚ ਸਾਰੇ ਕਸਟਮਰਸ ਦਾ ਹਿਸਾਬ ਅਪਡੇਟ ਜਰੂਰ ਕਰਨਾ।</string>
+    <string name="reminder_action_bar">ਰਿਮਾਇੰਡਰ ਸੇਟਿੰਗਸ</string>
+    <string name="reminder_next_date">OKਕ੍ਰੇਡਿਟ ਵੱਲੋਂ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਸਾਰੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰਸ ਨੂੰ ਅਗਲਾ ਰਿਮਾਇੰਡਰ %1$s ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ। %2$s ਤਕ ਆਪਣੇ ਸਾਰੇ ਕਸਟਮਰ ਦਾ ਹਿਸਾਬ OKਕ੍ਰੇਡਿਟ ਵਿੱਚ ਅਪਡੇਟ ਕਰਕੇ ਗ਼ਲਤ ਬੈਲੰਸ ਭੇਜਣ ਤੋਂ ਬਚੋ</string>
+    <string name="txn_meta_added">ਜੋੜਿਆ ਗਿਆ</string>
+    <string name="txn_meta_bill">ਬਿੱਲ</string>
+    <string name="txn_meta_note">ਰਿਮਾਰ੍ਕ</string>
+    <string name="txn_meta_bill_added">ਬਿੱਲ ਜੋੜਿਆ ਗਿਆ</string>
+    <string name="txn_meta_change">ਬਦਲੋ</string>
+    <string name="share">ਯਾਰਾਂ ਨਾਲ ਸ਼ੇਯਰ ਕਰੋ</string>
+    <string name="whatsapp_not_installed">WhatsApp ਮੌਜੂਦ ਨਹੀਂ</string>
+    <string name="reset_pwd_msg">ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਸਿਕਿਉਰਿਟੀ ਵਾਸਤੇ ਮੋਬਾਇਲ ਨੰਬਰ ਦੇ OTP ਵੇਰਿਫਿਕੇਸ਼ਨ ਦੇ ਬਾਦ ਪਾਸਵਰਡ ਬਦਲ ਸਕਦੇ ਹੋ</string>
+    <string name="logout_msg">ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਗੋਪਨੀਯਤਾ ਅਤੇ ਸਕਿਉਰਿਟੀ ਵਾਸਤੇ ਆਪਣੇ ਨੰਬਰ ਦਾ ਪਾਸਵਰਡ ਵੈਰੀਫਾਈ ਕਰੋ</string>
+    <string name="reset_pwd_otp_auto_msg">ਅਸੀਂ ਔਟੋਮੈਟਿਕੈਲੀ OTP ਵੈਰੀਫਾਈ ਕਰ ਰਹੇ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ।</string>
+    <string name="reset_pwd_set_new_pwd">ਨਵਾਂ ਪਾਸਵਰਡ ਰੱਖੋ</string>
+    <string name="forgot_pwd">ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ</string>
+    <string name="share_title">ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨੂੰ ਦੱਸੋ!</string>
+    <string name="share_desc">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਉਣ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ OKਕ੍ਰੇਡਿਟ ਨੂੰ ਸਾਂਝਾ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਇਹ ਲਾਭਦਾਇਕ ਲਗ ਸਕਦਾ ਹੈ. ਆਪਣੇ ਸਹਿਯੋਗ ਨਾਲ OkCredit ਕੌਮ ਨੂੰ ਵੱਡਾ ਬਣਾਓ।</string>
+    <string name="share_msg">ਮੈਂ OKਕ੍ਰੇਡਿਟ ਵਿਚ ਆਪਣਾ ਉਧਾਰ ਖਾਤਾ ਲਿਖਣ ਲੱਗਿਆ। ਇਹ ਬਹੁਤ ਹੀ ਆਸਾਨ ਤੇ ਕੰਮ ਦਾ ਐੱਪ ਹੈ ਜਿਸਤੋ ਕਸਟਮਰ ਨੂੰ ਭੀ ਫ੍ਰੀ SMS ਵਿਚ ਬੈਲੰਸ ਮਿਲ ਜਾਂਦਾ ਹੈ।  ਪਲੇ ਸਟੋਰ ਤੋਂ ਫ੍ਰੀ ਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="share_on_whatsapp">Whatsapp ਤੇ ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="reset_pwd_title">ਪਾਸਵਰਡ ਬਦਲੋ</string>
+    <string name="reset_pwd_success">ਪਾਸਵਰਡ ਬਦਲਿਆ ਗਿਆ</string>
+    <string name="note">ਰਿਮਾਰ੍ਕ</string>
+    <string name="add_note">ਰਿਮਾਰ੍ਕ ਲਿਖੋ</string>
+    <string name="add_note_here">ਰਿਮਾਰ੍ਕ ਨੋਟ ਕਰੋ…</string>
+    <string name="recust_msg">ਤੁਸੀਂ \'%1$s\' ਨਾਮ ਤੇ \'%2$s\' ਮੋਬਾਇਲ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ ਡਿਲੀਟ ਕਿੱਤਾ ਸੀ</string>
+    <string name="recust_desc">ਇਸੇ ਮੋਬਾਇਲ ਨੰਬਰ ਦਾ ਕਸਟਮਰ ਜੋੜਣ ਲਈ ਡਿਲੇਟੇਡ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ ਜਾਂ ਦੂਜਾ ਨੰਬਰ ਇਸਤੇਮਾਲ ਕਰੋ</string>
+    <string name="recust_reactivate">ਦੋਬਾਰਾ ਜੋੜੋ</string>
+    <string name="recust_change_mobile">\"ਦੂਜਾ ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ \"</string>
+    <string name="recust_title">ਕਸਟਮਰ ਦੋਬਾਰਾ ਜੋੜੋ</string>
+    <string name="custpr_sms_msg">%1$s ਨੂੰ ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਨੋਟੀਫਿਕੇਸ਼ਨ SMS ਵਿਚ ਆ ਜਾਵੇਗਾ</string>
+    <string name="custpr_sms_msg_add">ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜ ਕੇ %1$s ਨੂੰ ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਫ੍ਰੀ SMS ਬੈਲੰਸ ਅਪਡੇਟ ਭੇਜੋ</string>
+    <string name="custpr_add_mobile">ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ</string>
+    <string name="custpr_delete">ਡਿਲੀਟ ਕਸਟਮਰ</string>
+    <string name="custpr_title">ਕਸਟਮਰ</string>
+    <string name="profile_title">ਪ੍ਰੋਫਾਇਲ</string>
+    <string name="editcst_title_mobile">ਮੋਬਾਇਲ ਨੰਬਰ ਜੋੜੋ</string>
+    <string name="editcst_title_name">ਨਾਮ ਬਦਲੋ</string>
+    <string name="editmerchant_title_name">ਖਾਤੇ ਦਾ ਨਾਮ ਬਦਲੋ</string>
+    <string name="delcst_title">ਡਿਲੀਟ ਕਸਟਮਰ</string>
+    <string name="delcst_msg_settlement">\"ਕਸਟਮਰ ਦਾ ਬੈਲੰਸ 0 ਨਹੀਂ ਹੈ। ਕਸਟਮਰ ਹਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਹਿਸਾਬ ਬਰਾਬਰ ਕਰੋ। \"</string>
+    <string name="delcst_msg">ਕਸਟਮਰ ਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਕਸਟਮਰ ਹਜੇ ਵੀ ਆਪਣੇ ਵੱਲੋ SMS ਵਿੱਚ ਸਾਰੇ ਰਿਕਾਰਡ ਦੇਖ ਸਕੇਗਾ।</string>
+    <string name="delcst_msg_no_mobile">ਇਸ ਕਸਟਮਰ ਨੂੰ ਪਰਮਾਨੇੰਟਲੀ ਡਿਲੀਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਇਸਨੂੰ ਦੋਬਾਰਾ ਜੋੜਨਾ ਅਸੰਭਵ ਹੈ</string>
+    <string name="delcst_confirm">ਹਟਾਓ</string>
+    <string name="delcst_settlement_label_credit">%1$s ਦਾ ਉਧਾਰ ਜੋੜੋ</string>
+    <string name="delcst_settlement_label_payment">%1$s ਦਾ ਪੇਮੇਂਟ ਜਮਾ ਕਰੋ</string>
+    <string name="edit_name_not_allowed">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ 3 ਵਾਰ ਨਾਮ ਬਦਲ ਚੁਕੇ ਹੋ ਇਸ ਕਰਕੇ ਹੁਣ ਤੁਹਾਡੇ ਖਾਤੇ ਦਾ ਨਾਮ ਨਹੀਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ</string>
+    <string name="name_change_allowed">ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਦੇ ਨਾਮ ਨੂੰ ਸਿਰਫ %1$s ਵਾਰ ਬਦਲ ਸਕਦੇ ਹੋ</string>
+    <string name="name_change_allowed_once">ਤੁਸੀਂ ਆਪਣੇ ਖਾਤੇ ਦੇ ਨਾਮ ਨੂੰ ਸਿਰਫ 1 ਹੋਰ ਵਾਰ ਬਦਲ ਸਕਦੇ ਹੋ</string>
+    <string name="reset_pwd_otp_expired">OTP ਦਾ ਸਮਾਂ ਸੀਮਾ ਖਤਮ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋप्रयास करें</string>
+    <string name="update_notification">ਨਵਾਂ ਅਪਡੇਟ ਅਵੈਲਬਲ ਹੈ, ਪਲੇ ਸਟੋਰ ਜਾਓ</string>
+    <string name="reminder_notification">ਰੇਮਾਇੰਡਰ 5 ਤਾਰੀਕ ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ, ਸਾਰੇ ਕਸਟਮਰਸ ਦੇ ਬੈਲੰਸ ਅਪਡੇਟ ਕਰ ਦੋ</string>
+    <string name="update">ਅਪਡੇਟ</string>
+    <string name="browser_not_found">ਤੁਹਾਡੇ ਫੋਨ ਦਾ ਕੋਈ ਭੀ ਐੱਪ ਇਸ ਰੇਕੁਐਸਟ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ, ਕਿਰਪਾ ਕਰ ਕੇ ਵੇਬ ਬਰੋਜ਼ਰ ਇੰਸਟਾਲ ਕਰੋ।</string>
+    <string name="err_service_unavailable_title">ਸੇਵਾ ਉਪਲੱਬਧ ਨਹੀਂ</string>
+    <string name="err_service_unavailable">OkCredit ਟੀਮ ਇਸ ਤੇ ਕੰਮ ਕਰ ਰਹੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="home_sort_name">ਨਾਮ</string>
+    <string name="home_sort_balance">ਰਕਮ</string>
+    <string name="home_sort_recent">ਸਮਾਂ</string>
+    <string name="verify_otp_msg">ਖਾਤੇ ਦੀ ਸੇਫਟੀ ਲਈ ਤੁਹਾਡੇ ਮੋਬਾਇਲ ਨੰਬਰ ਨੂੰ ਵੈਰੀਫਾਈ ਕਿੱਤਾ ਜਾਏਗਾ</string>
+    <string name="slide1_title">ਉੱਧਾਰ-ਜਮਾ ਦਾ ਡਿਜਿਟਲ ਰਿਕਾਰਡ</string>
+    <string name="slide1_subtitle">ਕਾਪੀ, ਕਲਮ ਤੇ ਕੈਲਕੁਲੇਟਰ ਨੂੰ ਕਹੋ ਅਲਵਿਦਾ</string>
+    <string name="slide2_title">ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਬੈਲੰਸ ਅਪਡੇਟ</string>
+    <string name="slide2_subtitle">ਨੋ ਉਲਝਣ, ਨੋ ਟੇਂਸ਼ਨ</string>
+    <string name="slide3_title">ਜਿੱਥੇ ਮਰਜੀ, ਜਦੋਂ ਮਰਜੀ ਵਰਤੋ</string>
+    <string name="slide3_subtitle">100% ਸੇਫ, ਸਿਕਯੋਰ, ਪਰਸਨਲ ਡਾਇਰੀ</string>
+    <string name="swipe_to_learn">ਜਾਣਕਾਰੀ ਲਈ ਸਵਾਇਪ ਕਰੋ</string>
+    <string name="digital_india_1">ਡਿਜਿਟਲ</string>
+    <string name="digital_india_2">ਉਧਾਰ ਖਾਤਾ</string>
+    <string name="enter_otp">SMS ਵਿਚ ਆਇਆ OKਕ੍ਰੇਡਿਟ ਦਾ OTP ਇੰਟਰ ਕਰੋ</string>
+    <string name="autoverifying">ਆਟੋ-ਵੇਰੀਫਾਈਂਗ OTP</string>
+    <string name="checking_otp">ਚੈਕਿੰਗ OTP</string>
+    <string name="verification_success">ਵੈਰੀਫਿਕੇਸ਼ਨ ਸਫਲ</string>
+    <string name="verify_sms">SMS ਨਾਲ ਵੈਰੀਫਾਈ</string>
+    <string name="record_first_credit_title">ਪਹਿਲਾ ਉਧਾਰ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="record_first_credit_desc">ਟੈਸਟ ਕਸਟਮਰ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਦਿੱਤਾ ਹੋਇਆ ਉਧਾਰ ਜੋੜੋ ਅਤੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਬੈਲੇਂਸ ਅਪਡੇਟ ਭੇਜੋ</string>
+    <string name="skip">ਛੱਡੋ</string>
+    <string name="add_first_cst_title">ਆਪਣਾ ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ</string>
+    <string name="add_first_cst_desc">ਨਵੇਂ ਕਸਟਮਰ ਨੂੰ ਆਪਣੇ ਖਾਤੇ ਵਿਚ ਜੋੜਣ ਲਈ ਥੱਲੇ ਬਟਨ ਨੂੰ ਕਲਿਕ ਕਰੋ</string>
+    <string name="tut_customer_screen_desc">\'ਉਧਾਰ ਦਿੱਤਾ \' ਬਟਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਕਸਟਮਰ ਨੂੰ ਦਿੱਤੇ ਹੋਏ ਉਧਾਰ ਨੂੰ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="tut_add_txn_desc_credit">ਉਧਾਰ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ</string>
+    <string name="tut_add_txn_desc_payment">ਜਮਾ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ</string>
+    <string name="tut_add_txn_desc_return">ਵਾਪਸੀ ਦੀ ਰਕਮ ਜੋੜੋ, ਪਿਨ ਆਇਕਾਨ ਤੇ ਕਲਿਕ ਕਰ ਕੇ ਰਿਮਾਰ੍ਕ ਜਾਂ ਬਿਲ ਦੀ ਫੋਟੋ ਭੀ ਜੋੜ ਸਕਦੇ ਹੋ</string>
+    <string name="tut_confirm_txn_desc_credit">ਆਪਣੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਵਿਚ ਬੈਲੇਂਸ ਅਤੇ ਖਾਤੇ ਦਾ ਲਿੰਕ ਭੇਜਿਆ ਜਾਏਗਾ</string>
+    <string name="tut_confirm_txn_desc_payment">ਆਪਣੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਦੇ ਪਾਸਵਰਡ ਨਾਲ ਜਮਾ ਕੰਫਰਮ ਕਰੋ</string>
+    <string name="tut_add_cst_name_desc">ਕਸਟਮਰ ਦਾ ਨਾਮ ਜੋੜੋ</string>
+    <string name="tut_add_cst_mobile_desc">ਕਸਟਮਰ ਦਾ ਮੋਬਾਇਲ ਜੋੜੋ </string>
+    <string name="old_balance_button_text">ਪੁਰਾਣਾ ਬੈਲੇਂਸ ਜੋੜੋ</string>
+    <string name="old_balance_button_credit">ਉਧਾਰ ਬੈਲੇਂਸ</string>
+    <string name="old_balance_button_payment">ਜਮਾ ਐਡਵਾਂਸ</string>
+    <string name="confirm_old_balance">ਪੁਰਾਣਾ ਬੈਲੰਸ ਕੰਫਰਮ ਕਰੋ</string>
+    <string name="old_balance_added">ਉਧਾਰ ਬੈਲੰਸ ਰਿਕਾਰਡ ਸਫਲ</string>
+    <string name="old_balance_title_credit">ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ</string>
+    <string name="old_balance_title_payment">ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ</string>
+    <string name="old_balance_activity_title_bar">ਪੁਰਾਣਾ ਬੈਲੰਸ</string>
+    <string name="or">or</string>
+    <string name="importcontacts_title">ਕੰਟੈਕਟ ਤੋਂ ਚੁਣੋ</string>
+    <string name="importcontacts_search_contacts">ਕੰਟੈਕਟ ਖੋਜੋ</string>
+    <string name="read_contacts_permission_msg">ਫੋਨਬੂਕ ਤੋਂ ਕਸਟਮਰਸ ਜੋੜਣ ਲਈ ਕੰਟੈਕਟ ਰੀਡ ਕਰਣ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="write_contacts_permission_msg">Okਕ੍ਰੇਡਿਟ ਨੂੰ ਆਪਣੇ ਫੋਨ ਕੰਟੈਕਟ ਲਿਸਟ ਵਿਚ ਜੋੜਣ ਲਈ ਰਾਈਟ ਕੰਟੈਕਟ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="loading_bulk_add_customers">ਚੁਣੇ ਹੋਏ ਕੰਟੈਕਟ ਨੂੰ ਤੁਹਾਡੇ Okਕ੍ਰੇਡਿਟ ਕਸਟਮਰਸ ਦੀ ਲਿਸਟ ਵਿੱਚ ਜੋੜਿਆ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="reactivate_list_msg">ਪਹਿਲਾਂ ਡਿਲੇਟ ਕਿੱਤੇ ਕਸਟਮਰ ਨੂੰ ਦੋਬਾਰਾ ਜੋੜੋ। ਜਿਹਨਾਂ ਕਸਟਮਰਸ ਨੂੰ ਨਹੀਂ ਜੋੜਨਾ ਉਸਨੂੰ ਅੰਸਲਕਟ ਕਰੋ।.</string>
+    <string name="record_first_transaction">%1$s ਨਾਲ ਪਹਿਲਾ ਲੇਣ-ਦੇਣ ਰਿਕਾਰਡ ਕਰੋ</string>
+    <string name="volume_low">ਜਾਣਕਾਰੀ ਵਾਰੇ ਆਡੀਓ ਲਈ ਵੋਲੂਮ ਵਧਾਓ</string>
+    <string name="try_payment">ਜਮਾ ਟ੍ਰਾਈ ਕਰੋ</string>
+    <string name="send_reminder_whatsapp">ਪੇਮੈਂਟ ਰਿਮਾਇੰਡਰ ਭੇਜੋ</string>
+    <string name="generate_reminder">ਰਿਮਾਇੰਡਰ ਬਣਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="payment_reminder">ਪੇਮੈਂਟ ਰਿਮਾਇੰਡਰ</string>
+    <string name="dues_as_on">ਉਧਾਰ ਬੈਲੰਸ ON</string>
+    <string name="verified_by_okc">OKਕ੍ਰੇਡਿਟ ਪ੍ਰਮਾਣਿਤ</string>
+    <string name="in_app_lang_desc">ਤੁਹਾਡੇ ਕਸਟਮਰ ਨੂੰ ਚੁਣੇ ਹੋਏ ਭਾਸ਼ਾ ਵਿੱਚ ਹੀ ਫ੍ਰੀ SMS ਅਪਡੇਟ ਭੇਜਿਆ ਜਾਏਗਾ।</string>
+    <string name="tx_detail_old_credit_desc">ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ ਜੋੜਿਆ ਗਯਾ</string>
+    <string name="tx_detail_old_payment_desc">ਪੁਰਾਣਾ ਜਮਾ ਐਡਵਾਂਸ ਜੋੜਿਆ ਗਯਾ</string>
+    <string name="tx_detail_old_credit_title">ਪੁਰਾਣਾ ਉਧਾਰ ਬੈਲੰਸ</string>
+    <string name="tx_detail_old_payment_title">ਪੁਰਾਣਾ ਜਮਾ ਐਡਵਾਂਸ</string>
+    <string name="credit_delete_desc">ਕੈਂਸਲ ਉਧਾਰ</string>
+    <string name="payment_delete_desc">ਕੈਂਸਲ ਜਮਾ</string>
+    <string name="tx_delete">ਕੈਂਸਲ</string>
+    <string name="del_credit_msg">ਇਹ ਉਧਾਰ ਕੈਂਸਲ ਹੋ ਜਾਵੇਗਾ ਤੇ ਕਸਟਮਰ ਨੂੰ SMS ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ</string>
+    <string name="del_payment_msg">ਇਹ ਜਮਾ ਕੈਂਸਲ ਹੋ ਜਾਵੇਗਾ ਤੇ ਕਸਟਮਰ ਨੂੰ SMS ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ</string>
+    <string name="tx_deleted_msg">%1$s ਨੂੰ ਕੈਂਸਲ ਕਿੱਤਾ</string>
+    <string name="tx_delete_not_allowed">ਰਿਕਾਰਡ ਐਂਟਰੀ ਦੇ 24 ਘੰਟੇ ਬਾਅਦ ਕੈਂਸਲ ਨਹੀਂ ਕਰ ਸਕਦੇ</string>
+    <string name="credit_cancelled">ਉਧਾਰ ਕੈਂਸਲ</string>
+    <string name="payment_cancelled">ਜਮਾ ਕੈੰਸਲ</string>
+    <string name="cst_deleted">ਕਸਟਮਰ ਡਿਲੀਟ</string>
+    <string name="cst_deleted_msg">ਕਸਟਮਰ ਡਿਲੀਟ</string>
+    <string name="account_security">ਸਿਕਿਉਰਿਟੀ</string>
+    <string name="security_app_lock">ਐੱਪ-ਲੌਕ</string>
+    <string name="security_recovery">ਖਾਤਾ ਰਿਕਵਰੀ ਨੰਬਰ</string>
+    <string name="status_on">ਓਨ</string>
+    <string name="status_off">ਆੱਫ</string>
+    <string name="app_lock_enabled">ਐੱਪ-ਲੌਕ ਚਾਲੂ</string>
+    <string name="app_lock_disabled">ਐੱਪ-ਲੌਕ ਬੰਦ</string>
+    <string name="app_lock_enable">ਲਗਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ</string>
+    <string name="app_lock_disable">ਹਟਾਉਣ ਲਈ ਕਲਿਕ ਕਰੋ</string>
+    <string name="enable_app_lock">ਐੱਪ-ਲੌਕ ਲਗਾਓ</string>
+    <string name="disable_app_lock">ਐੱਪ-ਲੌਕ ਹਟਾਓ</string>
+    <string name="app_lock_desc_msg">ਐੱਪ-ਲੌਕ ਤੁਹਾਡੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਨੂੰ ਉਨ੍ਹਾਂ ਤੋਂ ਸੇਫ ਰੱਖਦਾ ਜੋ ਤੁਹਾਡਾ ਫੋਨ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹਨ. ਇਹ ਲੌਕ ਸਿਰਫ ਇਸ ਫੋਨ ਲਈ ਹੈ. ਜੇ ਤੁਸੀਂ ਇੱਕ ਤੋਂ ਵੱਢ ਫੋਨ ਤੇ OKਕ੍ਰੇਡਿਟ ਚਲਾਉਂਦੇ ਹੋ ਤਾਂ ਸਾਰੇ ਫੋਨਾਂ ਤੇ ਵੱਖਰਾ ਲੌਕ ਲਗਾਉਣਾ ਪੈਣਾ.</string>
+    <string name="draw_unlock_pattern">ਅਨਲੌਕ ਪੈਟਰਨ ਬਣਾਉ</string>
+    <string name="draw_patern_again">ਦੋਬਾਰਾ ਪੈਟਰਨ ਬਣਾ ਕੇ ਕੰਫਰਮ ਕਰੋ</string>
+    <string name="set_pattern">ਪੈਟਰਨ ਬਣਾਉ</string>
+    <string name="confirm_pattern">ਕੰਫਰਮ ਪੈਟਰਨ</string>
+    <string name="incorrect_pattern">ਗਲਤ ਪੈਟਰਨ</string>
+    <string name="invalid_pattern">ਘੱਟੋ-ਘੱਟ 4 ਡੋਟ ਜੋੜੋ</string>
+    <string name="pattern_mismatch">ਦੋਵੇਂ ਪੈਟਰਨ ਮੈਚ ਨਹੀਂ ਹੋਏ</string>
+    <string name="pattern_verified">ਪੈਟਰਨ ਵੇਰੀਫਾਇਡ</string>
+    <string name="forgot_pattern">ਪੈਟਰਨ ਭੁੱਲ ਗਏ?</string>
+    <string name="pattern_disable_sign_in_msg">ਐੱਪ-ਲੌਕ ਨੂੰ ਹਟਾਉਣ ਲਈ ਆਪਣੇ OKਕ੍ਰੇਡਿਟ ਖਾਤੇ ਦੇ ਪਾਸਵਰਡ ਨਾਲ ਸਾਇਨ ਇਨ ਕਰੋ.</string>
+    <string name="payment_reminder_whatsapp_msg_1">ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ।</string>
+    <string name="payment_reminder_whatsapp_msg_2">ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਤੁਸੀਂ ਭੀ ਆਪਣੇ ਉਧਾਰ ਵਾਲੇ ਕਸਟਮਰ ਨੂੰ WhatsApp ਰਿਮਾਇੰਡਰ ਭੇਜ ਸਕਦੇ ਹੋ। %1$s ਤੋਂ OkCredit ਫ੍ਰੀ ਇੰਸਟਾਲ ਕਰੋ।</string>
+    <string name="payment_reminder_whatsapp_msg_3">ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਆਪਣੇ ਕਸਟਮਰ ਨੂੰ ਫ੍ਰੀ SMS ਨਾਲ ਬੈਲੇਂਸ ਦਾ ਅਪਡੇਟ ਭੇਜੋ। %1$s ਤੋਂ OkCredit ਇੰਸਟਾਲ ਕਰੋ।</string>
+    <string name="payment_reminder_whatsapp_msg_4">ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। ਤੁਸੀਂ ਭੀ ਆਪਣਾ ਡਿਜਿਟਲ ਉਧਾਰ ਖਾਤਾ ਫ੍ਰੀ ਬਣਾ ਸਕਦੇ ਹੋ। ਇੰਸਟਾਲ ਕਰੋ %1$s</string>
+    <string name="payment_reminder_whatsapp_msg_5">ਹੈਲੋ! ਤੁਹਾਡੇ ਲਈ OKਕ੍ਰੇਡਿਟ ਪੇਮੇਂਟ ਰਿਮਾਇੰਡਰ ਆਇਆ ਹੈ। %1$s ਤੋਂ OkCredit ਇੰਸਟਾਲ ਕਰੋ ਤੇ ਆਪਣਾ ਡਿਜਿਟਲ ਉਧਾਰ ਖਾਤਾ ਫ੍ਰੀ ਬਣਾਓ।</string>
+    <string name="due">ਉਧਾਰ</string>
+    <string name="old_balance_screen_tut_desc"> %1$s ਤਕ ਦਾ ਪੁਰਾਣਾ ਬੈਲੇਂਸ ਜੋੜੋ ਤੇ ਕਸਟਮਰ ਨੂੰ ਸਪੈਸ਼ਲ ਓਪਨਿੰਗ ਬੈਲੇਂਸ SMS ਭੇਜੋ</string>
+    <string name="record_first_tx">OkCredit ਟ੍ਰਾਈ ਕਰਨ ਲਈ ਟੇਸਟ ਕਸਟਮਰ ਤੇ ਕਲਿਕ ਕਰੋ</string>
+    <string name="update_noti_title">OKਕ੍ਰੇਡਿਟ ਅਪਡੇਟ ਕਰੋ</string>
+    <string name="update_noti_subtitle">ਲੇਟੈਸਟ ਫੀਚਰਸ ਪਾਓ</string>
+    <string name="app_lock_noti_title">ਖਾਤਾ ਸਿਕਿਉਰਿਟੀ ਬਢਾਓ</string>
+    <string name="app_lock_noti_subtitle">ਐੱਪ ਲੌਕ ਲਗਾਓ</string>
+    <string name="reminder_noti_title">ਬੈਲੇਂਸ ਅਪਡੇਟ ਕਰੋ</string>
+    <string name="reminder_noti_subtitle">5 ਤਾਰੀਖ ਨੂੰ ਰਿਮਾਇੰਡਰ ਭੇਜਿਆ ਜਾਏਗਾ</string>
+    <string name="share_noti_title">ਸ਼ੇਅਰ OKਕ੍ਰੇਡਿਟ</string>
+    <string name="share_noti_subtitle">ਆਪਣੇ ਦੋਸਤਾਂ ਨੂੰ ਡਿਜਿਟਲ ਗਿਫ਼੍ਟ ਦਿਓ</string>
+    <string name="loading_read_contacts">ਕੰਟੈਕਟ ਲੋਡ ਹੋ ਰਹੇ। ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ।</string>
+    <string name="no_internet_title">ਇੰਟਰਨੇਟ ਜਰੂਰੀ ਹੈ</string>
+    <string name="no_internet_msg">ਟਾਸਕ ਲਈ ਇੰਟਰਨੇਟ ਜਰੂਰੀ ਹੈ। ਕਿਰਪਾ ਕਰ ਕੇ ਇੰਟਰਨੇਟ ਤੋਂ ਕੰਨੇਕਟ ਹੋਣ ਦੇ ਬਾਅਦ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="no_internet_msg_customer">ਕਸਟਮਰ ਆਫਲਾਈਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।  ਕਿਰਪਾ ਕਰ ਕੇ ਇੰਟਰਨੇਟ ਤੋਂ ਕੰਨੇਕਟ ਹੋਣ ਦੇ ਬਾਅਦ ਦੋਬਾਰਾ ਕਸਟਮਰ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="report_loading_msg">ਰਿਪੋਰਟ ਰੇਡੀ ਹੋ ਰਿਹਾ।..</string>
+    <string name="home_no_internet_msg">ਓਫਲਾਇਨ</string>
+    <string name="payment_reminder_whatsapp_msg">ਪੇਮੈਂਟ ਪੈਂਡਿੰਗ - ਕਿਰਪਾ ਕਰ ਕੇ ਜਲਦੀ ਤੋਂ ਜਲਦੀ ਪੇਮੈਂਟ ਕਰੋ। %1$s ਤੇ ਆਪਣੇ ਖਾਤੇ ਦਾ ਡਿਟੇਲ ਦੇਖੋ।</string>
+    <string name="share_okcredit">ਯਾਰਾਂ ਨਾਲ ਸ਼ੇਯਰ ਕਰੋ</string>
+    <string name="other_options">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="thanks_in_advance">ਪਹਿਲਾਂ ਤੋਂ ਧੰਨਵਾਦ! 😊</string>
+    <string name="share_okcredit_app">ਆਪਣੇ ਕਾਰੋਬਾਰੀ ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ OkCredit ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="rating_noti_title">OkCredit ਪਸੰਦ ਹੈ?</string>
+    <string name="rating_noti_subtitle">ਰੇਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਪ੍ਰਗਟ ਕਰੋ!</string>
+    <string name="rate_okcredit">ਰੇਟ OkCredit</string>
+    <string name="rate_five_star">ਸਾਨੁ 5 ਤਾਰਾ ਰੇਟਿੰਗ ਦੇ ਕੇ, OkCredit ਨਾਲ ਆਪਣਾ ਪਿਆਰ ਜਾਤਾਅੋ !</string>
+    <string name="thanks_for_love">ਤੁਹਾਡੇ ਸਹਿਯੋਗ ਲਈ ਧੰਨਵਾਦ!</string>
+    <string name="rate_five_star_and_reviews">ਸਾਨੂ 5-ਸਟਾਰ ਰੇਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਪ੍ਰਗਟ ਕਰੋ!</string>
+    <string name="rate_playstore">ਪਲੇਸਟੋਰੇ ਤੇ ਰੇਟ ਕਰੋ</string>
+    <string name="help_us_make">OkCredit ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਸਹਿਯੋਗ ਦਿਓ!</string>
+    <string name="submit_feedback">ਫ਼ੀਡਬੈਕ ਜਮ੍ਹਾਂ ਕਰੋ</string>
+    <string name="feedback_and_suggestions"><![CDATA[ਫ਼ੀਡਬੈਕ ਅਤੇ ਸੁਝਾਅ]]></string>
+    <string name="what_will_make_five_star">OkCredit ਨੂੰ 5-ਸਟਾਰ ਐਪ ਕਿਵੇਂ ਬਣਾਏਂ?</string>
+    <string name="please_enter_feedback">ਕ੍ਰਿਪਾ ਆਪਣਾ ਫੀਡਬੈਕ ਦਰਜ ਕਰੋ</string>
+    <string name="thanks_for_feedback">ਤੁਹਾਡੀ ਕੀਮਤੀ ਫੀਡਬੈਕ ਲਈ ਧੰਨਵਾਦ</string>
+    <string name="payment_reminder_by">ਪੇਮੇਂਟ ਰੇਮਾਇੰਡਰ</string>
+    <string name="payment_reminder_amount">ਰਕਮ</string>
+    <string name="payment_reminder_check_details">ਡਿਟੇਲ ਚੇਕ ਕਰੋ</string>
+    <string name="send_to_customer">ਗ੍ਰਾਹਕ ਨੂੰ ਭੇਜੋ</string>
+    <string name="send_total_balance">ਕੁੱਲ ਅਦਾਇਗੀ ਰਕਮ ਭੇਜੋ</string>
+    <string name="send_payment_reminder_whatsapp">Whatsapp ਤੇ ਪੇਮੈਂਟ ਰੀਮਾਈਂਡਰ ਭੇਜੋ</string>
+    <string name="summery_of_all">ਆਖਰੀ 0 ਬੈਲੰਸ ਤੋਂ ਹੁਣ ਤਕ ਸਾਰੇ ਐਂਟਰੀਆਂ ਦਾ ਸੰਖੇਪ</string>
+    <string name="mini_statement_whatsapp">WhatsApp ਤੇ ਮਿੰਨੀ ਸਟੇਟਮੈਂਟ ਭੇਜੋ</string>
+    <string name="send_month_report_whatsapp">WhatsApp ਤੇ ਮਾਸਿਕ ਰਿਪੋਰਟ ਭੇਜੋ</string>
+    <string name="send_current_last_summery">ਮੌਜੂਦਾ ਅਤੇ ਪਿਛਲੇ ਮਹੀਨੇ ਦੇ ਸਾਰਾਂਸ ਭੇਜੋ</string>
+    <string name="sms_reminder">SMS ਤੋਂ ਰੀਮਾਈਂਡਰ ਭੇਜੋ</string>
+    <string name="send_sms_from_phone">ਆਪਣੇ ਫੋਨ ਤੋਂ SMS ਭੇਜੋ. SMS ਚਾਰਜ ਮੋਬਾਈਲ ਸਰਵਿਸ ਤੇ ਨਿਰਭਰ ਹੈ</string>
+    <string name="sms_sent">SMS ਭੇਜਿਆ ਗਿਆ</string>
+    <string name="sms_send_failed_try_again">SMS ਭੇਜਣਾ ਅਸਫਲ. ਕਿਰਪਾ SMS ਐਪ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰੋ</string>
+    <string name="no_service_sms_failed">SMS ਭੇਜਣਾਂ ਅਸਫਲ, ਸੇਵਾ ਉਪਲਬਧ ਨਹੀਂ</string>
+    <string name="sms_delivered">SMS ਭੇਜਤਾ</string>
+    <string name="sms_not_delivered">SMS ਪਹੁੰਚਿਆ ਨਹੀਂ</string>
+    <string name="sms_sending">SMS ਭੇਜਣਾ…</string>
+    <string name="language_malayalam">മലയാളം</string>
+    <string name="gallery">ਗੈਲਰੀ</string>
+    <string name="camera">ਕੈਮਰਾ</string>
+    <string name="import_phone_contact_title">ਕੰਟੈਕਟ ਤੋਂ ਚੁਣੋ</string>
+    <string name="import_phone_contact_desc">ਫੋਨਬੂਕ ਤੋਂ ਕਸਟਮਰਸ ਜੋੜਣ ਲਈ ਕੰਟੈਕਟ ਰੀਡ ਕਰਣ ਦੀ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="contacts">ਕੰਟੈਕਟ</string>
+    <string name="add">ਜੋੜੋ</string>
+    <string name="address">ਪਤਾ</string>
+    <string name="name_should_not">ਨਾਂ ਵਿਚ 30 ਤੋਂ ਜ਼ਿਆਦਾ ਅੱਖਰ ਨਹੀਂ ਹੋ ਸਕਦੇ</string>
+    <string name="address_should_not">ਪਤੇ ਵਿਚ 150 ਤੋਂ ਜ਼ਿਆਦਾ ਅੱਖਰ ਨਹੀਂ ਹੋ ਸਕਦੇ</string>
+    <string name="invalid_phone">ਵੈਲਿਡ 10 ਡਿਜ਼ੀਟ ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ</string>
+    <string name="where_do_you_want_choose_from">ਫੋਟੋ ਕਿੱਥੋਂ ਚੋਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="txn_gallery_permission_msg">ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="customer_profile_camera_permission_msg">ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਕੈਮਰਾ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="customer_profile_gallery_permission_msg">ਬਿੱਲ ਜੋੜਣ ਲਯੀ ਗੈਲਰੀ ਪਰਮਿਸ਼ਨ ਦੋ</string>
+    <string name="add_first_customer">ਆਪਣਾ ਪਹਿਲਾ ਕਸਟਮਰ ਜੋੜੋ</string>
+    <string name="home_sort_last_payment">ਜਮਾ ਡਯੂ‌</string>
+    <string name="privacy_policy">ਗੋਪਨੀਯਤਾ ਨੀਤੀ</string>
+    <string name="add_mobile_desc">ਹਰ ਲੇਣ-ਦੇਣ ਦਾ ਅਪਡੇਟ ਭੇਜਣ ਲਈ ਮੋਬਾਇਲ ਜੋੜੋ</string>
+    <string name="edit_mobile">ਮੋਬਾਇਲ ਨੰਬਰ ਬਦਲੋ</string>
+    <string name="enter_4_digit_code_sent_on_new_mobile_number_of">ਨਵੇਂ ਮੋਬਾਇਲ ਨੰਬਰ ਤੇ ਭੇਜਿਆ ਹੋਇਆ 4 digit ਕੋਡ ਭਰੋ</string>
+    <string name="didnt_code">ਕੋਡ ਆਇਆ ਨਹੀਂ</string>
+    <string name="resend">ਦੋਬਾਰਾ ਭੇਜੋ</string>
+    <string name="wrong_code_enter_correct_code">ਗ਼ਲਤ ਕੋਡ! ਸਹੀ ਕਦੇ ਭਰੋ.</string>
+    <string name="delete_cus">ਡਿਲੀਟ ਕਸਟਮਰ</string>
+    <string name="custpr_add_address">ਪਤਾ ਜੋੜੋ</string>
+    <string name="invalid_name">ਇਨਵੈਲਿਡ ਨਾਂ</string>
+    <string name="invalid_address">ਇਨਵੈਲਿਡ ਪਤਾ</string>
+    <string name="invalid_mobile">ਇਨਵੈਲਿਡ ਮੋਬਾਈਲ ਨੰਬਰ</string>
+    <string name="currently_using">%1$s ਹਜੇ ਤਕ ਕੋਈ ਨੰਬਰ ਨਹੀਂ ਜੋੜਿਆ ਹੈ</string>
+    <string name="currently_no_number">ਹਜੇ ਤਕ ਕੋਈ ਨੰਬਰ ਨਹੀਂ ਜੋੜਿਆ ਹੈ</string>
+    <string name="seconds">ਸੈਕੰਡ</string>
+    <string name="successfully_completed_mobile">ਮੋਬਾਇਲ ਨੰਬਰ ਨੂੰ ਬਦਲ ਦਿੱਤਾ ਗਿਆ</string>
+    <string name="reset_otp">OTP ਦਾ ਸਮਾਂ ਸੀਮਾ ਖਤਮ, ਕਿਰਪਾ ਕਰਕੇ ਦੋਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="hinglish">Hinglish</string>
+    <string name="dismiss">ਹਟਾਓ</string>
+
+    <string name="txn_synced">ਸਿੰਕ ਹੋ ਗਿਆ</string>
+    <string name="txn_syncing">ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="txn_sync_pending">ਸਿੰਕ ਕਰਨ ਦੀ ਉਡੀਕ ਵੀਚ…</string>
+    <string name="txn_sync_now">ਸਿੰਕ ਕਰੋ</string>
+    <string name="home_internet_connected">ਇੰਟਰਨੈਟ ਜੁੜਿਆ ਹੋਇਆ ਹੈ</string>
+    <string name="send_otp_message">ਦਿੱਤੇ ਗਏ ਮੋਬਾਈਲ ਨੰਬਰ ਤੇ %1$s ਨੂੰ ਇੱਕ ਕੋਡ ਭੇਜਿਆ ਜਾਵੇਗਾ । ਤਬਦੀਲੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ, ਉਸ ਕੋਡ ਨੂੰ ਭਰੋ</string>
+    <string name="touch_again_exit">ਬਾਹਰ ਆਉਣ ਲਈ ਦੁਬਾਰਾ ਟਚ ਕਰੋ</string>
+    <string name="send">ਭੇਜੋ</string>
+
+    <string name="permission_text">ਅਨੁਮਤੀ</string>
+    <string name="contact_permission_denied">ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਕਰਨ ਦਿ ਅਨੁਮਤੀ ਦੇਣੀ ਪਵੇਗੀ। ਆਪਣੇ ਮੋਬਾਇਲ ਸੈਟਿੰਗ ਤੇ ਜਾਓ ਅਤੇ ਕੰਟੈੱਕਟਸ ਇਮਪੋਰਟ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="settings_title">ਸੈਟਿੰਗ ਵਿੱਚ ਜਾਓ</string>
+
+    <string name="whatsapp_page_description">OkCredit आपके WhatsApp पर %1$s के साथ पंजीकृत आपके OkCredit खाते के बारे में उपयोगी जानकारी भेजेगा</string>
+    <string name="whatsapp_page_title">WhatsApp पर अपडेट प्राप्त करें</string>
+    <string name="yes_please_send">हाँ, कृपया भेजें</string>
+    <string name="no_don_t_send">नहीं, भेजें नहीं</string>
+    <string name="phone_number">ਫੋਨ ਨੰਬਰ</string>
+    <string name="this_is_your_profile_business_name">ਇਹ ਤੁਹਾਡਾ ਪ੍ਰੋਫਾਇਲ / ਵਪਾਰ ਦਾ ਨਾਂ ਹੈ. ਇਹ ਨਾਮ ਤੁਹਾਡੇ ਗਾਹਕਾਂ ਨੂੰ ਦਿਖਾਈ ਦੇਵੇਗਾ.</string>
+    <string name="crop_image">ਫੋਟੋ ਕਰੋਪ ਕਰੋ</string>
+    <string name="profile_name">ਪ੍ਰੋਫਾਈਲ ਨਾਮ</string>
+    <string name="set_current_location">ਵਰਤਮਾਨ ਸਥਿਤੀ ਸੈਟ ਕਰੋ</string>
+    <string name="business_card_share_text">ਕਾਰੋਬਾਰੀ ਪੁੱਛਤਾਛ ਲਈ, ਕਿਰਪਾ ਸਾਡਾ ਬਿਜਨੇਸ ਕਾਰਡ ਰੱਖੋ</string>
+
+</resources>

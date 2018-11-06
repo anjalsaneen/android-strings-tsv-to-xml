@@ -2,8 +2,15 @@ var fs  = require("fs");
 
 fs.readFileSync('./strings.tsv').toString().split('\n').forEach(function (line, index) { 
     const tabs = line.split('\t');
-    save(tabs[0], tabs[1], index, 'values-hi', false);
-    save(tabs[0], tabs[2], index, 'values-afh', true);
+    if (!fs.existsSync('output') && index == 0) {
+      fs.mkdirSync('output');
+    }
+
+    save(tabs[0], tabs[1], index, 'output/values', false);
+    save(tabs[0], tabs[2], index, 'output/values-hi', true);
+    save(tabs[0], tabs[3], index, 'output/values-afh', true);
+    save(tabs[0], tabs[4], index, 'output/values-pa', true);
+    save(tabs[0], tabs[5], index, 'output/values-ml', true);
 });
 
 function save(id, content, index, dir, isEnd) {
